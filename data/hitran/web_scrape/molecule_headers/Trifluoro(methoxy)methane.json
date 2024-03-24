@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFE-143a",
+  "molid": "66577",
+  "common_name": "Trifluoro(methoxy)methane",
+  "ordinary_formula": "CH3OCF3",
+  "stoichiometric_formula": "C2H3F3O",
+  "inchi": "InChI=1S/C2H3F3O/c1-6-2(3,4)5/h1H3",
+  "inchikey": "JRHMNRMPVRXNOS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-143a",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH3OCF3",
+      "type": "formula"
+    },
+    {
+      "alias": "421-14-7",
+      "type": "cas"
+    },
+    {
+      "alias": "Trifluoro(methoxy)methane",
+      "type": "name"
+    },
+    {
+      "alias": "66577",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H3F3O/c1-6-2(3,4)5/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "JRHMNRMPVRXNOS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

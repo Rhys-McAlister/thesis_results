@@ -1,0 +1,32 @@
+{
+  "short_alias": "Myrcene",
+  "molid": "28993",
+  "common_name": "Myrcene",
+  "ordinary_formula": "C10H16",
+  "stoichiometric_formula": "C10H16",
+  "inchi": "InChI=1S/C10H16/c1-5-10(4)8-6-7-9(2)3/h5,7H,1,4,6,8H2,2-3H3",
+  "inchikey": "UAHWPYUMFXYFJY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "Myrcene",
+      "type": "name"
+    },
+    {
+      "alias": "28993",
+      "type": "csid"
+    },
+    {
+      "alias": "123-35-3",
+      "type": "cas"
+    },
+    {
+      "alias": "InChI=1S/C10H16/c1-5-10(4)8-6-7-9(2)3/h5,7H,1,4,6,8H2,2-3H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "UAHWPYUMFXYFJY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

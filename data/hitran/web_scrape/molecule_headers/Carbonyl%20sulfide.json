@@ -1,0 +1,32 @@
+{
+  "short_alias": "Carbonyl sulfide",
+  "molid": "9644",
+  "common_name": "Carbonyl sulfide",
+  "ordinary_formula": "OCS",
+  "stoichiometric_formula": "COS",
+  "inchi": "InChI=1S/COS/c2-1-3",
+  "inchikey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "463-58-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Carbonyl sulfide",
+      "type": "name"
+    },
+    {
+      "alias": "9644",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/COS/c2-1-3",
+      "type": "inchi"
+    },
+    {
+      "alias": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

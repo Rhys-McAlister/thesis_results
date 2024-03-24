@@ -1,0 +1,18 @@
+{
+  "numin": 519.966432,
+  "numax": 7400.055305,
+  "npnts": 114165,
+  "sigma_max": 3.6223316943432815e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C5H10O_298.1K-760.0Torr_520.0-7400.1_0.11_N2_671_62.txt",
+  "srcdir": "cross_section_data/4-Penten-1-ol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "4-Penten-1-ol",
+  "experiment_alias": "EXPERIMENT"
+}

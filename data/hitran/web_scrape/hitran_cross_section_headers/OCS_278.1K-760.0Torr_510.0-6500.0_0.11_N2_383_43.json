@@ -1,0 +1,18 @@
+{
+  "numin": 510.019333,
+  "numax": 6499.953174,
+  "npnts": 99395,
+  "sigma_max": 5.8772212361755245e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "OCS_278.1K-760.0Torr_510.0-6500.0_0.11_N2_383_43.txt",
+  "srcdir": "cross_section_data/Carbonyl sulfide.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Carbonyl sulfide",
+  "experiment_alias": "EXPERIMENT"
+}

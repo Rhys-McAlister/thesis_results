@@ -1,0 +1,18 @@
+{
+  "numin": 500.0184,
+  "numax": 1299.8551,
+  "npnts": 6637,
+  "sigma_max": 2.8839999472518582e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CBrClF2_296.0K-700.0Torr_500.0-1299.9_0.50_air_72_33.txt",
+  "srcdir": "cross_section_data/Bromochlorodifluoromethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "Halon-1211",
+  "experiment_alias": "EXPERIMENT"
+}

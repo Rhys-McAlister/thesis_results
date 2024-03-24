@@ -1,0 +1,32 @@
+{
+  "short_alias": "DL-Limonene",
+  "molid": "20939",
+  "common_name": "DL-Limonene",
+  "ordinary_formula": "C10H16",
+  "stoichiometric_formula": "C10H16",
+  "inchi": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,10H,1,5-7H2,2-3H3",
+  "inchikey": "XMGQYMWWDOXHJM-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "138-86-3",
+      "type": "cas"
+    },
+    {
+      "alias": "DL-Limonene",
+      "type": "name"
+    },
+    {
+      "alias": "20939",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,10H,1,5-7H2,2-3H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "XMGQYMWWDOXHJM-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

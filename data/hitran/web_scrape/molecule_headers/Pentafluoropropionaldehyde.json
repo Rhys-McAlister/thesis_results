@@ -1,0 +1,32 @@
+{
+  "short_alias": "Pentafluoropropionaldehyde",
+  "molid": "C2F5CHO",
+  "common_name": "Pentafluoropropionaldehyde",
+  "ordinary_formula": "C2F5CHO",
+  "stoichiometric_formula": "C3HF5O",
+  "inchi": "InChI=1S/C3HF5O/c4-2(5,1-9)3(6,7)8/h1H",
+  "inchikey": "IRPGOXJVTQTAAN-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "C2F5CHO",
+      "type": "formula"
+    },
+    {
+      "alias": "422-06-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Pentafluoropropionaldehyde",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C3HF5O/c4-2(5,1-9)3(6,7)8/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "IRPGOXJVTQTAAN-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

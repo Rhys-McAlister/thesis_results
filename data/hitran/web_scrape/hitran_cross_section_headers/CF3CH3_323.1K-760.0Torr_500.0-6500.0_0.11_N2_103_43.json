@@ -1,0 +1,18 @@
+{
+  "numin": 500.017246,
+  "numax": 6500.034359,
+  "npnts": 99562,
+  "sigma_max": 3.754725828791515e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CF3CH3_323.1K-760.0Torr_500.0-6500.0_0.11_N2_103_43.txt",
+  "srcdir": "cross_section_data/HFC-143a.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,1,1-Trifluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}

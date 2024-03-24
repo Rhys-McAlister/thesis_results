@@ -1,0 +1,18 @@
+{
+  "numin": 525.025463,
+  "numax": 6500.012516,
+  "npnts": 99147,
+  "sigma_max": 2.2860389406530938e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH3CHF2_323.1K-760.0Torr_525.0-6500.0_0.11_N2_105_43.txt",
+  "srcdir": "cross_section_data/HFC-152a.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,1-Difluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}

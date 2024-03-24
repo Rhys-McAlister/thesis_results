@@ -1,0 +1,40 @@
+{
+  "short_alias": "trans-Crotonaldehyde",
+  "molid": "394562",
+  "common_name": "trans-Crotonaldehyde",
+  "ordinary_formula": "C4H6O",
+  "stoichiometric_formula": "C4H6O",
+  "inchi": "InChI=1S/C4H6O/c1-2-3-4-5/h2-4H,1H3/b3-2+",
+  "inchikey": "MLUCVPSAIODCQM-NSCUHMNNSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "123-73-9",
+      "type": "cas"
+    },
+    {
+      "alias": "trans-Crotonaldehyde",
+      "type": "name"
+    },
+    {
+      "alias": "394562",
+      "type": "csid"
+    },
+    {
+      "alias": "4170-30-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Crotonaldehyde",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C4H6O/c1-2-3-4-5/h2-4H,1H3/b3-2+",
+      "type": "inchi"
+    },
+    {
+      "alias": "MLUCVPSAIODCQM-NSCUHMNNSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

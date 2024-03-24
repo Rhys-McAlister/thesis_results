@@ -1,0 +1,18 @@
+{
+  "numin": 2399.9997,
+  "numax": 3399.9972,
+  "npnts": 2123960,
+  "sigma_max": 2.305000039943129e-19,
+  "temperature": 215.0,
+  "pressure": 100.0,
+  "resolution": 0.005,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH3CHO_215.0K-100.0Torr_2400.0-3400.0_0.01_air_338_95.txt",
+  "srcdir": "cross_section_data/Acetaldehyde.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [660]",
+  "molecule_alias": "Acetaldehyde",
+  "experiment_alias": "EXPERIMENT"
+}

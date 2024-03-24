@@ -1,0 +1,44 @@
+{
+  "short_alias": "HFC-32",
+  "molid": "6105",
+  "common_name": "HFC-32",
+  "ordinary_formula": "CH2F2",
+  "stoichiometric_formula": "CF2H2",
+  "inchi": "InChI=1S/CH2F2/c2-1-3/h1H2",
+  "inchikey": "RWRIWBAIICGTTQ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-32",
+      "type": "name"
+    },
+    {
+      "alias": "CH2F2",
+      "type": "formula"
+    },
+    {
+      "alias": "75-10-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Difluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6105",
+      "type": "csid"
+    },
+    {
+      "alias": "R-32",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/CH2F2/c2-1-3/h1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "RWRIWBAIICGTTQ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

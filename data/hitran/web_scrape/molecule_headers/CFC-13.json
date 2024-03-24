@@ -1,0 +1,44 @@
+{
+  "short_alias": "CFC-13",
+  "molid": "6152",
+  "common_name": "CFC-13",
+  "ordinary_formula": "CClF3",
+  "stoichiometric_formula": "CClF3",
+  "inchi": "InChI=1S/CClF3/c2-1(3,4)5",
+  "inchikey": "AFYPFACVUDMOHA-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CFC-13",
+      "type": "name"
+    },
+    {
+      "alias": "CClF3",
+      "type": "formula"
+    },
+    {
+      "alias": "75-72-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Chlorotrifluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6152",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-13",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/CClF3/c2-1(3,4)5",
+      "type": "inchi"
+    },
+    {
+      "alias": "AFYPFACVUDMOHA-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

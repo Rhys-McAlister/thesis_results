@@ -1,0 +1,16 @@
+{
+  "numin": 450.297,
+  "numax": 3200.2906,
+  "npnts": 5705,
+  "sigma_max": 2.741000064880988e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3OCH2CH3_298.0K-0.0Torr_450.3-3200.3_1.00_138_26.txt",
+  "srcdir": "cross_section_data/1,1,2,2-Tetrafluoro-1-(trifluoromethoxy)ethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Oyaro et al. (2005)",
+  "molecule_alias": "HFE-263m1",
+  "experiment_alias": "EXPERIMENT"
+}

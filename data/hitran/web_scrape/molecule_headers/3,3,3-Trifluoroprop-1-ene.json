@@ -1,0 +1,48 @@
+{
+  "short_alias": "HFC-1243zf",
+  "molid": "12151",
+  "common_name": "3,3,3-Trifluoroprop-1-ene",
+  "ordinary_formula": "CF3CH=CH2",
+  "stoichiometric_formula": "C3H3F3",
+  "inchi": "InChI=1S/C3H3F3/c1-2-3(4,5)6/h2H,1H2",
+  "inchikey": "FDMFUZHCIRHGRG-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-1243zf",
+      "type": "acronym"
+    },
+    {
+      "alias": "CF3CH=CH2",
+      "type": "formula"
+    },
+    {
+      "alias": "677-21-4",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,3-Trifluoroprop-1-ene",
+      "type": "name"
+    },
+    {
+      "alias": "12151",
+      "type": "csid"
+    },
+    {
+      "alias": "HFO-1243zf",
+      "type": "acronym"
+    },
+    {
+      "alias": "3,3,3-Trifluoropropene",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C3H3F3/c1-2-3(4,5)6/h2H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "FDMFUZHCIRHGRG-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

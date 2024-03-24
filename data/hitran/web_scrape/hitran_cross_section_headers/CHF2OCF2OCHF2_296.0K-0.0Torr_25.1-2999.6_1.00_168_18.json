@@ -1,0 +1,16 @@
+{
+  "numin": 25.073,
+  "numax": 2999.6001,
+  "npnts": 6170,
+  "sigma_max": 3.0200000204841517e-18,
+  "temperature": 296.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CHF2OCF2OCHF2_296.0K-0.0Torr_25.1-2999.6_1.00_168_18.txt",
+  "srcdir": "cross_section_data/HG-10.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Myhre et al. (1999)",
+  "molecule_alias": "HFE-236ca12",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,32 @@
+{
+  "short_alias": "Formic acid",
+  "molid": "278",
+  "common_name": "Formic acid",
+  "ordinary_formula": "CH2O2",
+  "stoichiometric_formula": "CH2O2",
+  "inchi": "InChI=1S/CH2O2/c2-1-3/h1H,(H,2,3)",
+  "inchikey": "BDAGIHXWWSANSR-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "64-18-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Formic acid",
+      "type": "name"
+    },
+    {
+      "alias": "278",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CH2O2/c2-1-3/h1H,(H,2,3)",
+      "type": "inchi"
+    },
+    {
+      "alias": "BDAGIHXWWSANSR-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

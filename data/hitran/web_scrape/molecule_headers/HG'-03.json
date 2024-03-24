@@ -1,0 +1,36 @@
+{
+  "short_alias": "HG'-03",
+  "molid": "485399-48-2",
+  "common_name": "HG'-03",
+  "ordinary_formula": "CH3O(CF2CF2O)3CH3",
+  "stoichiometric_formula": "C8H6F12O4",
+  "inchi": "InChI=1S/C8H6F12O4/c1-21-3(9,10)5(13,14)23-7(17,18)8(19,20)24-6(15,16)4(11,12)22-2/h1-2H3",
+  "inchikey": "UMMJPMFAQHCBNY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HG'-03",
+      "type": "name"
+    },
+    {
+      "alias": "CH3O(CF2CF2O)3CH3",
+      "type": "formula"
+    },
+    {
+      "alias": "485399-48-2",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,4,4,6,6,7,7,9,9,10,10-Dodecafluoro-2,5,8,11-tetraoxadodecane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C8H6F12O4/c1-21-3(9,10)5(13,14)23-7(17,18)8(19,20)24-6(15,16)4(11,12)22-2/h1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "UMMJPMFAQHCBNY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

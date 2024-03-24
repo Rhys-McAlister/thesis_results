@@ -1,0 +1,17 @@
+{
+  "numin": 600.0,
+  "numax": 1997.0,
+  "npnts": 2904,
+  "sigma_max": 3.502070128132093e-18,
+  "temperature": 296.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "broadener": "He",
+  "srcfile": "trans-CF3CH=CHF_296.0K-0.0Torr_600.0-1997.0_1.00_He_4_52.txt",
+  "srcdir": "cross_section_data/(E)-1,3,3,3-Tetrafluoroprop-1-ene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Papdmitriou and Burkholder. JPC (2016)",
+  "molecule_alias": "HFO-1438ezy(E)",
+  "experiment_alias": "EXPERIMENT"
+}

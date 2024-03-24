@@ -1,0 +1,52 @@
+{
+  "short_alias": "(E)-HFC-1234ze",
+  "molid": "4647426",
+  "common_name": "(E)-1,3,3,3-Tetrafluoroprop-1-ene",
+  "ordinary_formula": "trans-CF3CH=CHF",
+  "stoichiometric_formula": "C3H2F4",
+  "inchi": "InChI=1S/C3H2F4/c4-2-1-3(5,6)7/h1-2H/b2-1+",
+  "inchikey": "CDOOAUSHHFGWSA-OWOJBTEDSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "(E)-HFC-1234ze",
+      "type": "acronym"
+    },
+    {
+      "alias": "trans-CF3CH=CHF",
+      "type": "formula"
+    },
+    {
+      "alias": "1645-83-6",
+      "type": "cas"
+    },
+    {
+      "alias": "(E)-1,3,3,3-Tetrafluoroprop-1-ene",
+      "type": "name"
+    },
+    {
+      "alias": "4647426",
+      "type": "csid"
+    },
+    {
+      "alias": "HFO-1438ezy(E)",
+      "type": "acronym"
+    },
+    {
+      "alias": "29118-24-9",
+      "type": "cas"
+    },
+    {
+      "alias": "(1E)-1,3,3,3-Tetrafluoro-1-propene",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C3H2F4/c4-2-1-3(5,6)7/h1-2H/b2-1+",
+      "type": "inchi"
+    },
+    {
+      "alias": "CDOOAUSHHFGWSA-OWOJBTEDSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

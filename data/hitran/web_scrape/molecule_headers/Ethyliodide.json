@@ -1,0 +1,32 @@
+{
+  "short_alias": "Ethyliodide",
+  "molid": "6100",
+  "common_name": "Ethyliodide",
+  "ordinary_formula": "C2H5I",
+  "stoichiometric_formula": "C2H5I",
+  "inchi": "InChI=1S/C2H5I/c1-2-3/h2H2,1H3",
+  "inchikey": "HVTICUPFWKNHNG-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-03-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Ethyliodide",
+      "type": "name"
+    },
+    {
+      "alias": "6100",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H5I/c1-2-3/h2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "HVTICUPFWKNHNG-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

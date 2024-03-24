@@ -1,0 +1,16 @@
+{
+  "numin": 700.0043,
+  "numax": 1400.009,
+  "npnts": 46463,
+  "sigma_max": 3.628000104587166e-18,
+  "temperature": 298.0,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "srcfile": "CH3OCF2CF2CF3_298.0K-0.0Torr_700.0-1400.0_0.03_144_8.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Bravo et al. (2010a)",
+  "molecule_alias": "HFE-347mcc3",
+  "experiment_alias": "EXPERIMENT"
+}

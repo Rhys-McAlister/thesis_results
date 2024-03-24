@@ -1,0 +1,18 @@
+{
+  "numin": 499.9557,
+  "numax": 2250.0416,
+  "npnts": 7261,
+  "sigma_max": 4.708999847331171e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF3(CF2)6CH2CH2OH_296.0K-700.0Torr_500.0-2250.0_0.50_air_25_39.txt",
+  "srcdir": "cross_section_data/1H,1H,2H,2H-Perfluorononan-1-ol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Waterland et al. (2005)",
+  "molecule_alias": "CF3(CF2)6CH2CH2OH",
+  "experiment_alias": "EXPERIMENT"
+}

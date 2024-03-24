@@ -1,0 +1,48 @@
+{
+  "short_alias": "CFC-113",
+  "molid": "6188",
+  "common_name": "CFC-113",
+  "ordinary_formula": "C2Cl3F3",
+  "stoichiometric_formula": "C2Cl3F3",
+  "inchi": "InChI=1S/C2Cl3F3/c3-1(4,6)2(5,7)8",
+  "inchikey": "AJDIZQLSFPQPEY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CFC-113",
+      "type": "name"
+    },
+    {
+      "alias": "CCl2FCClF2",
+      "type": "formula"
+    },
+    {
+      "alias": "76-13-1",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,2-Trichloro-1,2,2-trifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6188",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-113",
+      "type": "acronym"
+    },
+    {
+      "alias": "1,1,2-Trichlorortrifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2Cl3F3/c3-1(4,6)2(5,7)8",
+      "type": "inchi"
+    },
+    {
+      "alias": "AJDIZQLSFPQPEY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

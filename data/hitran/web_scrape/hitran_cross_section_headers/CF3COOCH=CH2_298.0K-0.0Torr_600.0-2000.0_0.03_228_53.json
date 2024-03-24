@@ -1,0 +1,16 @@
+{
+  "numin": 600.0,
+  "numax": 2000.0,
+  "npnts": 23232,
+  "sigma_max": 3.764869958233559e-18,
+  "temperature": 298.0,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3COOCH=CH2_298.0K-0.0Torr_600.0-2000.0_0.03_228_53.txt",
+  "srcdir": "cross_section_data/Vinyl 2,2,2-trifluoroacetate.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Rodrigues et al. RSC Advances (2016)",
+  "molecule_alias": "Vinyl trifluoroacetate",
+  "experiment_alias": "EXPERIMENT"
+}

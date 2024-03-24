@@ -1,0 +1,18 @@
+{
+  "numin": 2540.003,
+  "numax": 3300.0004,
+  "npnts": 605328,
+  "sigma_max": 1.3840000336276656e-18,
+  "temperature": 250.0,
+  "pressure": 620.7,
+  "resolution": 0.015,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "C3H8_250.0K-620.7Torr_2540.0-3300.0_0.01_air_591_92.txt",
+  "srcdir": "cross_section_data/Propane.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [657]",
+  "molecule_alias": "Propane",
+  "experiment_alias": "EXPERIMENT"
+}

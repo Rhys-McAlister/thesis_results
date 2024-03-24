@@ -1,0 +1,36 @@
+{
+  "short_alias": "Perfluorobuta-1,3-diene",
+  "molid": "62837",
+  "common_name": "Perfluorobuta-1,3-diene",
+  "ordinary_formula": "CF2=CFCF=CF2",
+  "stoichiometric_formula": "C4F6",
+  "inchi": "InChI=1S/C4F6/c5-1(3(7)8)2(6)4(9)10",
+  "inchikey": "LGPPATCNSOSOQH-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF2=CFCF=CF2",
+      "type": "formula"
+    },
+    {
+      "alias": "685-63-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorobuta-1,3-diene",
+      "type": "name"
+    },
+    {
+      "alias": "62837",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4F6/c5-1(3(7)8)2(6)4(9)10",
+      "type": "inchi"
+    },
+    {
+      "alias": "LGPPATCNSOSOQH-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

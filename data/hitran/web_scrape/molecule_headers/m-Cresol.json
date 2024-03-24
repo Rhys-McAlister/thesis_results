@@ -1,0 +1,32 @@
+{
+  "short_alias": "m-Cresol",
+  "molid": "21105871",
+  "common_name": "m-Cresol",
+  "ordinary_formula": "C7H8O",
+  "stoichiometric_formula": "C7H8O",
+  "inchi": "InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3",
+  "inchikey": "RLSSMJSEOOYNOY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "108-39-4",
+      "type": "cas"
+    },
+    {
+      "alias": "m-Cresol",
+      "type": "name"
+    },
+    {
+      "alias": "21105871",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "RLSSMJSEOOYNOY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

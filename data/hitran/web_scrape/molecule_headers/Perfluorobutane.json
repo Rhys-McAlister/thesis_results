@@ -1,0 +1,40 @@
+{
+  "short_alias": "PFC-31-10",
+  "molid": "13862701",
+  "common_name": "Perfluorobutane",
+  "ordinary_formula": "C4F10",
+  "stoichiometric_formula": "C4F10",
+  "inchi": "InChI=1S/C4F10/c5-1(6,3(9,10)11)2(7,8)4(12,13)14",
+  "inchikey": "KAVGMUDTWQVPDF-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-31-10",
+      "type": "acronym"
+    },
+    {
+      "alias": "C4F10",
+      "type": "formula"
+    },
+    {
+      "alias": "355-25-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorobutane",
+      "type": "name"
+    },
+    {
+      "alias": "13862701",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4F10/c5-1(6,3(9,10)11)2(7,8)4(12,13)14",
+      "type": "inchi"
+    },
+    {
+      "alias": "KAVGMUDTWQVPDF-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

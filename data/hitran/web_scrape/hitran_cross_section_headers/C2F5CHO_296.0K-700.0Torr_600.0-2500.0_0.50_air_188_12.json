@@ -1,0 +1,18 @@
+{
+  "numin": 599.9981,
+  "numax": 2500.0321,
+  "npnts": 31529,
+  "sigma_max": 2.5139999913053576e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "C2F5CHO_296.0K-700.0Torr_600.0-2500.0_0.50_air_188_12.txt",
+  "srcdir": "cross_section_data/Pentafluoropropionaldehyde.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Hashikawa et al. (2004)",
+  "molecule_alias": "C2F5CHO",
+  "experiment_alias": "EXPERIMENT"
+}

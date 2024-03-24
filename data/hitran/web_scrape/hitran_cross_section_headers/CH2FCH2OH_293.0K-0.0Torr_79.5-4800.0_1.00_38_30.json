@@ -1,0 +1,16 @@
+{
+  "numin": 79.5493,
+  "numax": 4799.9541,
+  "npnts": 9792,
+  "sigma_max": 3.979999938320265e-19,
+  "temperature": 293.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CH2FCH2OH_293.0K-0.0Torr_79.5-4800.0_1.00_38_30.txt",
+  "srcdir": "cross_section_data/2-Fluoroethanol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sellevag et al. (2004b)",
+  "molecule_alias": "CH2FCH2OH",
+  "experiment_alias": "EXPERIMENT"
+}

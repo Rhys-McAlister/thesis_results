@@ -1,0 +1,36 @@
+{
+  "short_alias": "Heptafluorobutyraldehyde",
+  "molid": "C3F7CHO",
+  "common_name": "Heptafluorobutyraldehyde",
+  "ordinary_formula": "C3F7CHO",
+  "stoichiometric_formula": "C4HF7O",
+  "inchi": "InChI=1S/C4HF7O/c5-2(6,1-12)3(7,8)4(9,10)11/h1H",
+  "inchikey": "IQJZGNJYXIIMGP-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "C3F7CHO",
+      "type": "formula"
+    },
+    {
+      "alias": "375-02-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Heptafluorobutyraldehyde",
+      "type": "name"
+    },
+    {
+      "alias": "61126",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4HF7O/c5-2(6,1-12)3(7,8)4(9,10)11/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "IQJZGNJYXIIMGP-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

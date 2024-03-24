@@ -1,0 +1,17 @@
+{
+  "numin": 1005.499,
+  "numax": 1231.999,
+  "npnts": 454,
+  "sigma_max": 1.7099999780457862e-18,
+  "temperature": 253.0,
+  "pressure": 0.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C2Cl3F3_253.0K-0.0Torr_1005.5-1232.0_1.00_51_65.txt",
+  "srcdir": "cross_section_data/CFC-113.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [618]",
+  "molecule_alias": "CFC-113",
+  "experiment_alias": "EXPERIMENT"
+}

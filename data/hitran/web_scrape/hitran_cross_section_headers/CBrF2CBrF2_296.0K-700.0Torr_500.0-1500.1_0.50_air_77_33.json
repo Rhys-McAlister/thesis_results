@@ -1,0 +1,18 @@
+{
+  "numin": 500.0184,
+  "numax": 1500.0554,
+  "npnts": 16595,
+  "sigma_max": 3.0480000842190717e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CBrF2CBrF2_296.0K-700.0Torr_500.0-1500.1_0.50_air_77_33.txt",
+  "srcdir": "cross_section_data/1,2-Dibromo-1,1,2,2-tetrafluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "Halon-2402",
+  "experiment_alias": "EXPERIMENT"
+}

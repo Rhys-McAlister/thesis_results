@@ -1,0 +1,44 @@
+{
+  "short_alias": "HG-10",
+  "molid": "8305768",
+  "common_name": "HG-10",
+  "ordinary_formula": "CHF2OCF2OCHF2",
+  "stoichiometric_formula": "C3H2F6O2",
+  "inchi": "InChI=1S/C3H2F6O2/c4-1(5)10-3(8,9)11-2(6)7/h1-2H",
+  "inchikey": "AENINUZHGRRKOE-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-236ca12",
+      "type": "acronym"
+    },
+    {
+      "alias": "HG-10",
+      "type": "name"
+    },
+    {
+      "alias": "CHF2OCF2OCHF2",
+      "type": "formula"
+    },
+    {
+      "alias": "78522-47-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Bis(difluoromethoxy)difluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "8305768",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H2F6O2/c4-1(5)10-3(8,9)11-2(6)7/h1-2H",
+      "type": "inchi"
+    },
+    {
+      "alias": "AENINUZHGRRKOE-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 539.971066,
+  "numax": 7100.006173,
+  "npnts": 108855,
+  "sigma_max": 6.643708401860663e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH2Br2_298.1K-760.0Torr_540.0-7100.0_0.11_N2_181_43.txt",
+  "srcdir": "cross_section_data/Dibromomethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Dibromomethane",
+  "experiment_alias": "EXPERIMENT"
+}

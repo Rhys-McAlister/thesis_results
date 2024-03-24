@@ -1,0 +1,32 @@
+{
+  "short_alias": "Octane",
+  "molid": "349",
+  "common_name": "Octane",
+  "ordinary_formula": "C8H18",
+  "stoichiometric_formula": "C8H18",
+  "inchi": "InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3",
+  "inchikey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "111-65-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Octane",
+      "type": "name"
+    },
+    {
+      "alias": "349",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

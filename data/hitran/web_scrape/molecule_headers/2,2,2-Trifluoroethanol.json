@@ -1,0 +1,36 @@
+{
+  "short_alias": "2,2,2-Trifluoroethanol",
+  "molid": "21106169",
+  "common_name": "2,2,2-Trifluoroethanol",
+  "ordinary_formula": "CF3CH2OH",
+  "stoichiometric_formula": "C2H3F3O",
+  "inchi": "InChI=1S/C2H3F3O/c3-2(4,5)1-6/h6H,1H2",
+  "inchikey": "RHQDFWAXVIIEBN-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3CH2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "75-89-8",
+      "type": "cas"
+    },
+    {
+      "alias": "2,2,2-Trifluoroethanol",
+      "type": "name"
+    },
+    {
+      "alias": "21106169",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H3F3O/c3-2(4,5)1-6/h6H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "RHQDFWAXVIIEBN-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

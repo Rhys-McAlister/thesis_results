@@ -1,0 +1,32 @@
+{
+  "short_alias": "Benzyl alcohol",
+  "molid": "13860335",
+  "common_name": "Benzyl alcohol",
+  "ordinary_formula": "C7H8O",
+  "stoichiometric_formula": "C7H8O",
+  "inchi": "InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",
+  "inchikey": "WVDDGKGOMKODPV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "100-51-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Benzyl alcohol",
+      "type": "name"
+    },
+    {
+      "alias": "13860335",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "WVDDGKGOMKODPV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "short_alias": "Methanol",
+  "molid": "864",
+  "common_name": "Methanol",
+  "ordinary_formula": "CH3OH",
+  "stoichiometric_formula": "CH4O",
+  "inchi": "InChI=1S/CH4O/c1-2/h2H,1H3",
+  "inchikey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "67-56-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl alcohol",
+      "type": "name"
+    },
+    {
+      "alias": "864",
+      "type": "csid"
+    },
+    {
+      "alias": "Methanol",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CH4O/c1-2/h2H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

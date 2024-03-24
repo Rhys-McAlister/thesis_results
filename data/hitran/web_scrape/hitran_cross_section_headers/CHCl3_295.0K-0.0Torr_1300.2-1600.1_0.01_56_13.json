@@ -1,0 +1,16 @@
+{
+  "numin": 1300.21,
+  "numax": 1600.07,
+  "npnts": 1245,
+  "sigma_max": 1.1260000127345924e-20,
+  "temperature": 295.0,
+  "resolution": 0.01,
+  "resolution_units": "cm-1",
+  "srcfile": "CHCl3_295.0K-0.0Torr_1300.2-1600.1_0.01_56_13.txt",
+  "srcdir": "cross_section_data/Trichloromethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Highwood and Shine (2000)",
+  "molecule_alias": "Chloroform",
+  "experiment_alias": "EXPERIMENT"
+}

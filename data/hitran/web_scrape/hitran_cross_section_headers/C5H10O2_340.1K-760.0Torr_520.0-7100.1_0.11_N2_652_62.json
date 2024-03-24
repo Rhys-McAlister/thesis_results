@@ -1,0 +1,18 @@
+{
+  "numin": 519.966916,
+  "numax": 7100.062942,
+  "npnts": 109187,
+  "sigma_max": 1.114827397291938e-18,
+  "temperature": 340.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C5H10O2_340.1K-760.0Torr_520.0-7100.1_0.11_N2_652_62.txt",
+  "srcdir": "cross_section_data/Valeric acid.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Valeric acid",
+  "experiment_alias": "EXPERIMENT"
+}

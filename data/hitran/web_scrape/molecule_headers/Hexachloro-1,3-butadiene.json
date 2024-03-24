@@ -1,0 +1,32 @@
+{
+  "short_alias": "Hexachloro-1,3-butadiene",
+  "molid": "6635",
+  "common_name": "Hexachloro-1,3-butadiene",
+  "ordinary_formula": "C4H6",
+  "stoichiometric_formula": "C4H6",
+  "inchi": "InChI=1S/C4Cl6/c5-1(3(7)8)2(6)4(9)10",
+  "inchikey": "RWNKSTSCBHKHTB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "87-68-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Hexachloro-1,3-butadiene",
+      "type": "name"
+    },
+    {
+      "alias": "6635",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4Cl6/c5-1(3(7)8)2(6)4(9)10",
+      "type": "inchi"
+    },
+    {
+      "alias": "RWNKSTSCBHKHTB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

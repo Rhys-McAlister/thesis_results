@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFC-245cb",
+  "molid": "14974",
+  "common_name": "1,1,1,2,2-Pentafluoropropane",
+  "ordinary_formula": "CF3CF2CH3",
+  "stoichiometric_formula": "C3H3F5",
+  "inchi": "InChI=1S/C3H3F5/c1-2(4,5)3(6,7)8/h1H3",
+  "inchikey": "FDOPVENYMZRARC-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-245cb",
+      "type": "acronym"
+    },
+    {
+      "alias": "CF3CF2CH3",
+      "type": "formula"
+    },
+    {
+      "alias": "1814-88-6",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1,2,2-Pentafluoropropane",
+      "type": "name"
+    },
+    {
+      "alias": "14974",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H3F5/c1-2(4,5)3(6,7)8/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "FDOPVENYMZRARC-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

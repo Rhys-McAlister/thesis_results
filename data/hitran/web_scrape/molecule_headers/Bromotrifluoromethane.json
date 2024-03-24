@@ -1,0 +1,44 @@
+{
+  "short_alias": "Halon-1301",
+  "molid": "6144",
+  "common_name": "Bromotrifluoromethane",
+  "ordinary_formula": "CBrF3",
+  "stoichiometric_formula": "CBrF3",
+  "inchi": "InChI=1S/CBrF3/c2-1(3,4)5",
+  "inchikey": "RJCQBQGAPKAMLL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "Halon-1301",
+      "type": "acronym"
+    },
+    {
+      "alias": "CBrF3",
+      "type": "formula"
+    },
+    {
+      "alias": "75-63-8",
+      "type": "cas"
+    },
+    {
+      "alias": "Bromotrifluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6144",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-13B1",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/CBrF3/c2-1(3,4)5",
+      "type": "inchi"
+    },
+    {
+      "alias": "RJCQBQGAPKAMLL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

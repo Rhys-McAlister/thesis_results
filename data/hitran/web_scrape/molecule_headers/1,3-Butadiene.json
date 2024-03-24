@@ -1,0 +1,32 @@
+{
+  "short_alias": "1,3-Butadiene",
+  "molid": "7557",
+  "common_name": "1,3-Butadiene",
+  "ordinary_formula": "C4H6",
+  "stoichiometric_formula": "C4H6",
+  "inchi": "InChI=1S/C4H6/c1-3-4-2/h3-4H,1-2H2",
+  "inchikey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "106-99-0",
+      "type": "cas"
+    },
+    {
+      "alias": "1,3-Butadiene",
+      "type": "name"
+    },
+    {
+      "alias": "7557",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H6/c1-3-4-2/h3-4H,1-2H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

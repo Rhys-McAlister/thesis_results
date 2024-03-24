@@ -1,0 +1,16 @@
+{
+  "numin": 600.0,
+  "numax": 2000.0,
+  "npnts": 23231,
+  "sigma_max": 7.281617992745099e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C9H5F15O_298.0K-0.0Torr_600.0-2000.0_1.00_663_54.txt",
+  "srcdir": "cross_section_data/3-Ethoxyperfluoro(2-methylhexane).zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Rodriguez et al. Atmos Env (2014)",
+  "molecule_alias": "HFE-7500",
+  "experiment_alias": "EXPERIMENT"
+}

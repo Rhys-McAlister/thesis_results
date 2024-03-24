@@ -1,0 +1,40 @@
+{
+  "short_alias": "HCFC-124a",
+  "molid": "9255",
+  "common_name": "1-Chloro-1,1,2,2-tetrafluoroethane",
+  "ordinary_formula": "C2HClF4",
+  "stoichiometric_formula": "C2HClF4",
+  "inchi": "InChI=1S/C2HClF4/c3-2(6,7)1(4)5/h1H",
+  "inchikey": "JQZFYIGAYWLRCC-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "R124A",
+      "type": "acronym"
+    },
+    {
+      "alias": "354-25-6",
+      "type": "cas"
+    },
+    {
+      "alias": "1-Chloro-1,1,2,2-tetrafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9255",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2HClF4/c3-2(6,7)1(4)5/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "JQZFYIGAYWLRCC-UHFFFAOYSA-N",
+      "type": "inchikey"
+    },
+    {
+      "alias": "HCFC-124a",
+      "type": "name"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "short_alias": "2,6-Dimethoxyphenol",
+  "molid": "6774",
+  "common_name": "2,6-Dimethoxyphenol",
+  "ordinary_formula": "C8H10O3",
+  "stoichiometric_formula": "C8H10O3",
+  "inchi": "InChI=1S/C8H10O3/c1-10-6-4-3-5-7(11-2)8(6)9/h3-5,9H,1-2H3",
+  "inchikey": "KLIDCXVFHGNTTM-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "91-10-1",
+      "type": "cas"
+    },
+    {
+      "alias": "2,6-Dimethoxyphenol",
+      "type": "name"
+    },
+    {
+      "alias": "6774",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C8H10O3/c1-10-6-4-3-5-7(11-2)8(6)9/h3-5,9H,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "KLIDCXVFHGNTTM-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

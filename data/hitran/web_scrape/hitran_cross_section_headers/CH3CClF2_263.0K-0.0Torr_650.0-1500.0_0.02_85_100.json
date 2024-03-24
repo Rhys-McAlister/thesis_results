@@ -1,0 +1,17 @@
+{
+  "numin": 650.0001,
+  "numax": 1499.9962,
+  "npnts": 112836,
+  "sigma_max": 5.321000176876492e-18,
+  "temperature": 263.0,
+  "pressure": 0.0,
+  "resolution": 0.02,
+  "resolution_units": "cm-1",
+  "srcfile": "CH3CClF2_263.0K-0.0Torr_650.0-1500.0_0.02_85_100.txt",
+  "srcdir": "cross_section_data/HCFC-142b.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [666]",
+  "molecule_alias": "HCFC-142b",
+  "experiment_alias": "EXPERIMENT"
+}

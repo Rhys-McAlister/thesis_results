@@ -1,0 +1,32 @@
+{
+  "short_alias": "Methyl pivalate",
+  "molid": "62249",
+  "common_name": "Methyl pivalate",
+  "ordinary_formula": "C6H12O2",
+  "stoichiometric_formula": "C6H12O2",
+  "inchi": "InChI=1S/C6H12O2/c1-6(2,3)5(7)8-4/h1-4H3",
+  "inchikey": "CNMFHDIDIMZHKY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "598-98-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl pivalate",
+      "type": "name"
+    },
+    {
+      "alias": "62249",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H12O2/c1-6(2,3)5(7)8-4/h1-4H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "CNMFHDIDIMZHKY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 569.987774,
+  "numax": 6500.057219,
+  "npnts": 98401,
+  "sigma_max": 8.006656482103701e-19,
+  "temperature": 298.15,
+  "pressure": 0.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "",
+  "srcfile": "C2H4O2_298.1K-0.0Torr_570.0-6500.1_0.11__473_62.txt",
+  "srcdir": "cross_section_data/Glycoaldehyde.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Glycolaldehyde",
+  "experiment_alias": "EXPERIMENT"
+}

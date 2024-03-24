@@ -1,0 +1,16 @@
+{
+  "numin": 555.007,
+  "numax": 590.005,
+  "npnts": 2324,
+  "sigma_max": 9.989999844531284e-19,
+  "temperature": 253.0,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "srcfile": "c-C4F8_253.0K-0.0Torr_555.0-590.0_0.03_210_13.txt",
+  "srcdir": "cross_section_data/Perfluorocyclobutane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Highwood and Shine (2000)",
+  "molecule_alias": "PFC-318",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 2614.9965,
+  "numax": 3300.0003,
+  "npnts": 136400,
+  "sigma_max": 2.0449999835706076e-19,
+  "temperature": 209.8,
+  "pressure": 109.6,
+  "resolution": 0.015,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH3COCH3_209.8K-109.6Torr_2615.0-3300.0_0.01_air_335_94.txt",
+  "srcdir": "cross_section_data/Acetone.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [659]",
+  "molecule_alias": "Acetone",
+  "experiment_alias": "EXPERIMENT"
+}

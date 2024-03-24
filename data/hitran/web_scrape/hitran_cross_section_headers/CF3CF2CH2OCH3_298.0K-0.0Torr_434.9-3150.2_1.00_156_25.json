@@ -1,0 +1,16 @@
+{
+  "numin": 434.8693,
+  "numax": 3150.1505,
+  "npnts": 5633,
+  "sigma_max": 2.9179999655599316e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CF2CH2OCH3_298.0K-0.0Torr_434.9-3150.2_1.00_156_25.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2-Pentafluoro-3-methoxypropane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Oyaro et al. (2004)",
+  "molecule_alias": "HFE-365mcf3",
+  "experiment_alias": "EXPERIMENT"
+}

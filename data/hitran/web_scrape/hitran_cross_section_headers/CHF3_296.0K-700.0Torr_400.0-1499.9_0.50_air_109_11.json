@@ -1,0 +1,18 @@
+{
+  "numin": 400.0388,
+  "numax": 1499.8597,
+  "npnts": 9126,
+  "sigma_max": 6.736999795898348e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CHF3_296.0K-700.0Torr_400.0-1499.9_0.50_air_109_11.txt",
+  "srcdir": "cross_section_data/Trifluoromethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Gohar et al. (2004)",
+  "molecule_alias": "HFC-23",
+  "experiment_alias": "EXPERIMENT"
+}

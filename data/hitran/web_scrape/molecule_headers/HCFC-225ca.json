@@ -1,0 +1,40 @@
+{
+  "short_alias": "HCFC-225ca",
+  "molid": "55063",
+  "common_name": "HCFC-225ca",
+  "ordinary_formula": "CHCl2CF2CF3",
+  "stoichiometric_formula": "C3Cl2F5H",
+  "inchi": "InChI=1S/C3HCl2F5/c4-1(5)2(6,7)3(8,9)10/h1H",
+  "inchikey": "COAUHYBSXMIJDK-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HCFC-225ca",
+      "type": "name"
+    },
+    {
+      "alias": "CHCl2CF2CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "422-56-0",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3-Dichloro-1,1,1,2,2-pentafluoropropane",
+      "type": "name"
+    },
+    {
+      "alias": "55063",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3HCl2F5/c4-1(5)2(6,7)3(8,9)10/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "COAUHYBSXMIJDK-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

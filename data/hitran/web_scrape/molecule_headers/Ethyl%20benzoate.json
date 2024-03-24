@@ -1,0 +1,32 @@
+{
+  "short_alias": "Ethyl benzoate",
+  "molid": "6897",
+  "common_name": "Ethyl benzoate",
+  "ordinary_formula": "C9H10O2",
+  "stoichiometric_formula": "C9H10O2",
+  "inchi": "InChI=1S/C9H10O2/c1-2-11-9(10)8-6-4-3-5-7-8/h3-7H,2H2,1H3",
+  "inchikey": "MTZQAGJQAFMTAQ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "93-89-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Ethyl benzoate",
+      "type": "name"
+    },
+    {
+      "alias": "6897",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C9H10O2/c1-2-11-9(10)8-6-4-3-5-7-8/h3-7H,2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "MTZQAGJQAFMTAQ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

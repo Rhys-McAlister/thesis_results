@@ -1,0 +1,18 @@
+{
+  "numin": 510.021192,
+  "numax": 6500.034359,
+  "npnts": 99396,
+  "sigma_max": 1.3517603590606817e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C2H2Cl2F2_323.1K-760.0Torr_510.0-6500.0_0.11_N2_608_43.txt",
+  "srcdir": "cross_section_data/1,1-Difluoro-2,2-dichloroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,1-Difluoro-2,2-dichloroethane",
+  "experiment_alias": "EXPERIMENT"
+}

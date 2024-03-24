@@ -1,0 +1,44 @@
+{
+  "short_alias": "Methyl chloride",
+  "molid": "6087",
+  "common_name": "Chloromethane",
+  "ordinary_formula": "CH3Cl",
+  "stoichiometric_formula": "CH3Cl",
+  "inchi": "InChI=1S/CH3Cl/c1-2/h1H3",
+  "inchikey": "NEHMKBQYUWJMIP-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CH3Cl",
+      "type": "formula"
+    },
+    {
+      "alias": "74-87-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Chloromethane",
+      "type": "name"
+    },
+    {
+      "alias": "Methyl chloride",
+      "type": "name"
+    },
+    {
+      "alias": "6087",
+      "type": "csid"
+    },
+    {
+      "alias": "Methylchloride",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CH3Cl/c1-2/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "NEHMKBQYUWJMIP-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

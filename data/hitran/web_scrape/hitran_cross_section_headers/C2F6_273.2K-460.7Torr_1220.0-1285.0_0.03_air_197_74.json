@@ -1,0 +1,18 @@
+{
+  "numin": 1219.9978,
+  "numax": 1284.9992,
+  "npnts": 5394,
+  "sigma_max": 1.2690000288760774e-17,
+  "temperature": 273.2,
+  "pressure": 460.7,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "C2F6_273.2K-460.7Torr_1220.0-1285.0_0.03_air_197_74.txt",
+  "srcdir": "cross_section_data/Hexafluoroethane.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [632]",
+  "molecule_alias": "Hexafluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}

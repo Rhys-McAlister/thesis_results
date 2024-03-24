@@ -1,0 +1,36 @@
+{
+  "short_alias": "Peroxynitric acid",
+  "molid": "58833",
+  "common_name": "Peroxynitric Acid",
+  "ordinary_formula": "HNO4",
+  "stoichiometric_formula": "HNO4",
+  "inchi": "InChI=1S/HNO4/c2-1(3)5-4/h4H",
+  "inchikey": "UUZZMWZGAZGXSF-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PeroxynitricAcid",
+      "type": "name"
+    },
+    {
+      "alias": "58833",
+      "type": "csid"
+    },
+    {
+      "alias": "26404-66-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Peroxynitric Acid",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/HNO4/c2-1(3)5-4/h4H",
+      "type": "inchi"
+    },
+    {
+      "alias": "UUZZMWZGAZGXSF-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

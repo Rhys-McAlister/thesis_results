@@ -1,0 +1,40 @@
+{
+  "short_alias": "Bromine nitrate",
+  "molid": "110090",
+  "common_name": "Bromine Nitrate",
+  "ordinary_formula": "BrONO2",
+  "stoichiometric_formula": "BrNO3",
+  "inchi": "InChI=1S/BrNO3/c1-5-2(3)4",
+  "inchikey": "RRTWEEAEXPZMPY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "40423-14-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Bromine nitrate",
+      "type": "name"
+    },
+    {
+      "alias": "110090",
+      "type": "csid"
+    },
+    {
+      "alias": "BromineNitrate",
+      "type": "name"
+    },
+    {
+      "alias": "Bromine Nitrate",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/BrNO3/c1-5-2(3)4",
+      "type": "inchi"
+    },
+    {
+      "alias": "RRTWEEAEXPZMPY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

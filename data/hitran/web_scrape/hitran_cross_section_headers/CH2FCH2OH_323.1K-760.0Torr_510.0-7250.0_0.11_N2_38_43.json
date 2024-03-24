@@ -1,0 +1,18 @@
+{
+  "numin": 510.019595,
+  "numax": 7250.004587,
+  "npnts": 111841,
+  "sigma_max": 4.165408595214905e-19,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH2FCH2OH_323.1K-760.0Torr_510.0-7250.0_0.11_N2_38_43.txt",
+  "srcdir": "cross_section_data/2-Fluoroethanol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "2-Fluoroethanol",
+  "experiment_alias": "EXPERIMENT"
+}

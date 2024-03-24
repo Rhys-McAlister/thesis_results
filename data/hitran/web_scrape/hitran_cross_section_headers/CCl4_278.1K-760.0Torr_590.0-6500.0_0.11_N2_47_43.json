@@ -1,0 +1,18 @@
+{
+  "numin": 589.990379,
+  "numax": 6499.953174,
+  "npnts": 98068,
+  "sigma_max": 5.3837765679243665e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CCl4_278.1K-760.0Torr_590.0-6500.0_0.11_N2_47_43.txt",
+  "srcdir": "cross_section_data/Carbon Tetrachloride.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Carbon tetrachloride",
+  "experiment_alias": "EXPERIMENT"
+}

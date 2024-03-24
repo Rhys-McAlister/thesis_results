@@ -1,0 +1,18 @@
+{
+  "numin": 510.019595,
+  "numax": 6500.012516,
+  "npnts": 99396,
+  "sigma_max": 1.3015893733675029e-17,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CBrF3_323.1K-760.0Torr_510.0-6500.0_0.11_N2_73_43.txt",
+  "srcdir": "cross_section_data/Bromotrifluoromethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Bromotrifluoromethane",
+  "experiment_alias": "EXPERIMENT"
+}

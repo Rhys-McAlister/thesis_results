@@ -1,0 +1,36 @@
+{
+  "short_alias": "Dinitrogen pentoxide",
+  "molid": "59627",
+  "common_name": "Dinitrogen Pentoxide",
+  "ordinary_formula": "N2O5",
+  "stoichiometric_formula": "N2O5",
+  "inchi": "InChI=1S/N2O5/c3-1(4)7-2(5)6",
+  "inchikey": "ZWWCURLKEXEFQT-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "DinitrogenPentoxide",
+      "type": "name"
+    },
+    {
+      "alias": "59627",
+      "type": "csid"
+    },
+    {
+      "alias": "10102-03-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Dinitrogen Pentoxide",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/N2O5/c3-1(4)7-2(5)6",
+      "type": "inchi"
+    },
+    {
+      "alias": "ZWWCURLKEXEFQT-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

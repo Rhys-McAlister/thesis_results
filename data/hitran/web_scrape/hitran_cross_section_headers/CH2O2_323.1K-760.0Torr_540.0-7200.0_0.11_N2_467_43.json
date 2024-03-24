@@ -1,0 +1,18 @@
+{
+  "numin": 539.97253,
+  "numax": 7199.960372,
+  "npnts": 110513,
+  "sigma_max": 2.7100558585508385e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH2O2_323.1K-760.0Torr_540.0-7200.0_0.11_N2_467_43.txt",
+  "srcdir": "cross_section_data/Formic acid.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Formic acid",
+  "experiment_alias": "EXPERIMENT"
+}

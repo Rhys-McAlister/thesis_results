@@ -1,0 +1,36 @@
+{
+  "short_alias": "Tetrachloroethylene",
+  "molid": "13837281",
+  "common_name": "Tetrachloroethene",
+  "ordinary_formula": "C2Cl4",
+  "stoichiometric_formula": "C2Cl4",
+  "inchi": "InChI=1S/C2Cl4/c3-1(4)2(5)6",
+  "inchikey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "127-18-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Tetrachloroethylene",
+      "type": "name"
+    },
+    {
+      "alias": "13837281",
+      "type": "csid"
+    },
+    {
+      "alias": "Tetrachloroethene",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2Cl4/c3-1(4)2(5)6",
+      "type": "inchi"
+    },
+    {
+      "alias": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

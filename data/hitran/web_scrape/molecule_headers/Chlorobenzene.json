@@ -1,0 +1,32 @@
+{
+  "short_alias": "Chlorobenzene",
+  "molid": "7676",
+  "common_name": "Chlorobenzene",
+  "ordinary_formula": "C6H5Cl",
+  "stoichiometric_formula": "C6H5Cl",
+  "inchi": "InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H",
+  "inchikey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "108-90-7",
+      "type": "cas"
+    },
+    {
+      "alias": "Chlorobenzene",
+      "type": "name"
+    },
+    {
+      "alias": "7676",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H",
+      "type": "inchi"
+    },
+    {
+      "alias": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

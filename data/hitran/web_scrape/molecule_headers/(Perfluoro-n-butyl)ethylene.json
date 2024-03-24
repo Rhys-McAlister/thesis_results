@@ -1,0 +1,40 @@
+{
+  "short_alias": "(Perfluoro-n-butyl)ethylene",
+  "molid": "79439",
+  "common_name": "(Perfluoro-n-butyl)ethylene",
+  "ordinary_formula": "C4F9CH=CH2",
+  "stoichiometric_formula": "C6H3F9",
+  "inchi": "InChI=1S/C6H3F9/c1-2-3(7,8)4(9,10)5(11,12)6(13,14)15/h2H,1H2",
+  "inchikey": "GVEUEBXMTMZVSD-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "C4F9CH=CH2",
+      "type": "formula"
+    },
+    {
+      "alias": "19430-93-4",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,4,4,5,5,6,6,6-Nonafluorohex-1-ene",
+      "type": "name"
+    },
+    {
+      "alias": "(Perfluoro-n-butyl)ethylene",
+      "type": "name"
+    },
+    {
+      "alias": "79439",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H3F9/c1-2-3(7,8)4(9,10)5(11,12)6(13,14)15/h2H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "GVEUEBXMTMZVSD-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "short_alias": "Tribromomethane",
+  "molid": "13838404",
+  "common_name": "Tribromomethane",
+  "ordinary_formula": "CHBr3",
+  "stoichiometric_formula": "CHBr3",
+  "inchi": "InChI=1S/CHBr3/c2-1(3)4/h1H",
+  "inchikey": "DIKBFYAXUHHXCS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-25-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Tribromomethane",
+      "type": "name"
+    },
+    {
+      "alias": "bromoform",
+      "type": "name"
+    },
+    {
+      "alias": "13838404",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CHBr3/c2-1(3)4/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "DIKBFYAXUHHXCS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

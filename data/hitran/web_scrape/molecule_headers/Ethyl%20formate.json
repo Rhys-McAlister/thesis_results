@@ -1,0 +1,32 @@
+{
+  "short_alias": "Ethyl formate",
+  "molid": "7734",
+  "common_name": "Ethyl formate",
+  "ordinary_formula": "C3H6O2",
+  "stoichiometric_formula": "C3H6O2",
+  "inchi": "InChI=1S/C3H6O2/c1-2-5-3-4/h3H,2H2,1H3",
+  "inchikey": "WBJINCZRORDGAQ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "109-94-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Ethyl formate",
+      "type": "name"
+    },
+    {
+      "alias": "7734",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H6O2/c1-2-5-3-4/h3H,2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "WBJINCZRORDGAQ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

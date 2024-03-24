@@ -1,0 +1,18 @@
+{
+  "numin": 500.017246,
+  "numax": 7100.030044,
+  "npnts": 109518,
+  "sigma_max": 1.603820799871795e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C2H2ClF3_278.1K-760.0Torr_500.0-7100.0_0.11_N2_609_43.txt",
+  "srcdir": "cross_section_data/2-Chloro-1,1,1-trifluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "2-Chloro-1,1,1-trifluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,36 @@
+{
+  "short_alias": "Acetone",
+  "molid": "175",
+  "common_name": "Acetone",
+  "ordinary_formula": "CH3COCH3",
+  "stoichiometric_formula": "C3H6O",
+  "inchi": "InChI=1S/C3H6O/c1-3(2)4/h1-2H3",
+  "inchikey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "67-64-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Acetone",
+      "type": "name"
+    },
+    {
+      "alias": "175",
+      "type": "csid"
+    },
+    {
+      "alias": "2-Propanone",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C3H6O/c1-3(2)4/h1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

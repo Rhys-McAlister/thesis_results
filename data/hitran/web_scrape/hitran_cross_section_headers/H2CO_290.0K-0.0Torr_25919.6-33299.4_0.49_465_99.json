@@ -1,0 +1,17 @@
+{
+  "numin": 25919.627,
+  "numax": 33299.407,
+  "npnts": 30246,
+  "sigma_max": 2.1179999650981194e-19,
+  "temperature": 290.0,
+  "pressure": 0.0,
+  "resolution": 0.4898,
+  "resolution_units": "cm-1",
+  "srcfile": "H2CO_290.0K-0.0Torr_25919.6-33299.4_0.49_465_99.txt",
+  "srcdir": "cross_section_data/Formaldehyde.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [665]",
+  "molecule_alias": "Formaldehyde",
+  "experiment_alias": "EXPERIMENT"
+}

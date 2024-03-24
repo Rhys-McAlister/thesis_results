@@ -1,0 +1,18 @@
+{
+  "numin": 729.9999,
+  "numax": 1380.0001,
+  "npnts": 517717,
+  "sigma_max": 1.4551900302375772e-17,
+  "temperature": 190.8,
+  "pressure": 50.75,
+  "resolution": 0.015,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CHClF2_190.8K-50.8Torr_730.0-1380.0_0.01_air_87_57.txt",
+  "srcdir": "cross_section_data/HCFC-22.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Harrison AMT (2016)",
+  "molecule_alias": "HCFC-22",
+  "experiment_alias": "EXPERIMENT"
+}

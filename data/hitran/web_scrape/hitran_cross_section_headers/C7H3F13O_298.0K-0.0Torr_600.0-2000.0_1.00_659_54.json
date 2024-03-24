@@ -1,0 +1,16 @@
+{
+  "numin": 600.0,
+  "numax": 2000.0,
+  "npnts": 23231,
+  "sigma_max": 5.529547298552136e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C7H3F13O_298.0K-0.0Torr_600.0-2000.0_1.00_659_54.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,3,4,5,5,5-Decafluoro-3-methoxy-4-(trifluoromethyl)pentane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Rodriguez et al. Atmos Env (2014)",
+  "molecule_alias": "HFE-7300",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,32 @@
+{
+  "short_alias": "Nonafluoropentanal",
+  "molid": "C4F9CHO",
+  "common_name": "Nonafluoropentanal",
+  "ordinary_formula": "C4F9CHO",
+  "stoichiometric_formula": "C5HF9O",
+  "inchi": "InChI=1S/C5HF9O/c6-2(7,1-15)3(8,9)4(10,11)5(12,13)14/h1H",
+  "inchikey": "ILSWGKFIWBVLDG-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "C4F9CHO",
+      "type": "formula"
+    },
+    {
+      "alias": "375-53-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Nonafluoropentanal",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C5HF9O/c6-2(7,1-15)3(8,9)4(10,11)5(12,13)14/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "ILSWGKFIWBVLDG-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

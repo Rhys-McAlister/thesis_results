@@ -1,0 +1,32 @@
+{
+  "short_alias": "Acrolein",
+  "molid": "7559",
+  "common_name": "Acrolein",
+  "ordinary_formula": "C3H4O",
+  "stoichiometric_formula": "C3H4O",
+  "inchi": "InChI=1S/C3H4O/c1-2-3-4/h2-3H,1H2",
+  "inchikey": "HGINCPLSRVDWNT-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "107-02-8",
+      "type": "cas"
+    },
+    {
+      "alias": "Acrolein",
+      "type": "name"
+    },
+    {
+      "alias": "7559",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H4O/c1-2-3-4/h2-3H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "HGINCPLSRVDWNT-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

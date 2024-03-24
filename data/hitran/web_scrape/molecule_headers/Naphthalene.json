@@ -1,0 +1,32 @@
+{
+  "short_alias": "Naphthalene",
+  "molid": "906",
+  "common_name": "Naphthalene",
+  "ordinary_formula": "C10H8",
+  "stoichiometric_formula": "C10H8",
+  "inchi": "InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H",
+  "inchikey": "UFWIBTONFRDIAS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "91-20-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Naphthalene",
+      "type": "name"
+    },
+    {
+      "alias": "906",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H",
+      "type": "inchi"
+    },
+    {
+      "alias": "UFWIBTONFRDIAS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

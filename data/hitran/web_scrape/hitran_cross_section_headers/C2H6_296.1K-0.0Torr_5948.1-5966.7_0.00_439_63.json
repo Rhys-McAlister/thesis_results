@@ -1,0 +1,18 @@
+{
+  "numin": 5948.061,
+  "numax": 5966.694,
+  "npnts": 6212,
+  "sigma_max": 3.742936534046331e-21,
+  "temperature": 296.1,
+  "pressure": 0.022,
+  "resolution": 6.7e-07,
+  "resolution_units": "cm-1",
+  "broadener": "self",
+  "srcfile": "C2H6_296.1K-0.0Torr_5948.1-5966.7_0.00_439_63.txt",
+  "srcdir": "cross_section_data/Ethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Reed and Hodges (2015)",
+  "molecule_alias": "Ethane",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,15 @@
+{
+  "numin": 400.1569,
+  "numax": 4000.6044,
+  "npnts": 3735,
+  "sigma_max": 2.577999989274351e-18,
+  "temperature": 298.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C3F7CH2OH_298.0K-0.0Torr_400.2-4000.6_32_31.txt",
+  "srcdir": "cross_section_data/2,2,3,3,4,4,4-Heptafluorobutan-1-ol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sellevag et al. (2007)",
+  "molecule_alias": "CF3CF2CF2CH2OH",
+  "experiment_alias": "EXPERIMENT"
+}

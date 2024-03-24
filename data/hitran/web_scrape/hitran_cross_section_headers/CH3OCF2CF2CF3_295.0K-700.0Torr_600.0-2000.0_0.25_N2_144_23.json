@@ -1,0 +1,18 @@
+{
+  "numin": 599.998,
+  "numax": 2000.0136,
+  "npnts": 23232,
+  "sigma_max": 3.521000156450369e-18,
+  "temperature": 295.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH3OCF2CF2CF3_295.0K-700.0Torr_600.0-2000.0_0.25_N2_144_23.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Ninomiya et al. (2000)",
+  "molecule_alias": "n-C3F7OCH3",
+  "experiment_alias": "EXPERIMENT"
+}

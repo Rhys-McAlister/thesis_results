@@ -1,0 +1,32 @@
+{
+  "short_alias": "2,3-Dimethylfuran",
+  "molid": "31628",
+  "common_name": "2,3-Dimethylfuran",
+  "ordinary_formula": "C6H8O",
+  "stoichiometric_formula": "C6H8O",
+  "inchi": "InChI=1S/C6H8O/c1-5-3-4-7-6(5)2/h3-4H,1-2H3",
+  "inchikey": "FJSKXQVRKZTKSI-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "14920-89-9",
+      "type": "cas"
+    },
+    {
+      "alias": "2,3-Dimethylfuran",
+      "type": "name"
+    },
+    {
+      "alias": "31628",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H8O/c1-5-3-4-7-6(5)2/h3-4H,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "FJSKXQVRKZTKSI-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

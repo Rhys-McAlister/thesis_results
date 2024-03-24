@@ -1,0 +1,18 @@
+{
+  "numin": 500.0,
+  "numax": 3100.0,
+  "npnts": 10787,
+  "sigma_max": 1.5499999831233026e-18,
+  "temperature": 298.0,
+  "pressure": 20.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "broadener": "He",
+  "srcfile": "C2H2ClF3_298.0K-20.0Torr_500.0-3100.0_1.00_He_609_51.txt",
+  "srcdir": "cross_section_data/2-Chloro-1,1,1-trifluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "McGillen et al. Geophys Res Lett (2015)",
+  "molecule_alias": "HCFC-133a",
+  "experiment_alias": "EXPERIMENT"
+}

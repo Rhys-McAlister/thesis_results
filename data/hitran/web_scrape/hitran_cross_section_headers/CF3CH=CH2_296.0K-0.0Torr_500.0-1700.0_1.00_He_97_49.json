@@ -1,0 +1,17 @@
+{
+  "numin": 500.0,
+  "numax": 1700.0,
+  "npnts": 2490,
+  "sigma_max": 2.674499988555908,
+  "temperature": 296.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "broadener": "He",
+  "srcfile": "CF3CH=CH2_296.0K-0.0Torr_500.0-1700.0_1.00_He_97_49.txt",
+  "srcdir": "cross_section_data/3,3,3-Trifluoroprop-1-ene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Gonzalez et al. Environ Sci Pollut Res (2015)",
+  "molecule_alias": "HFO-1243zf",
+  "experiment_alias": "EXPERIMENT"
+}

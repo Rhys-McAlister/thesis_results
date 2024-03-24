@@ -1,0 +1,18 @@
+{
+  "numin": 549.978894,
+  "numax": 6500.064444,
+  "npnts": 98733,
+  "sigma_max": 2.5731585528478664e-19,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH2CHC6H4CH3_323.1K-760.0Torr_550.0-6500.1_0.11_N2_656_62.txt",
+  "srcdir": "cross_section_data/Vinyl toluene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Vinyl toluene",
+  "experiment_alias": "EXPERIMENT"
+}

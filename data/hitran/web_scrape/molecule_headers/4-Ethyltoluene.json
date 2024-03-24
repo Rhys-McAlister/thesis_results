@@ -1,0 +1,32 @@
+{
+  "short_alias": "4-Ethyltoluene",
+  "molid": "11660",
+  "common_name": "4-Ethyltoluene",
+  "ordinary_formula": "C9H12",
+  "stoichiometric_formula": "C9H12",
+  "inchi": "InChI=1S/C9H12/c1-3-9-6-4-8(2)5-7-9/h4-7H,3H2,1-2H3",
+  "inchikey": "JRLPEMVDPFPYPJ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "622-96-8",
+      "type": "cas"
+    },
+    {
+      "alias": "4-Ethyltoluene",
+      "type": "name"
+    },
+    {
+      "alias": "11660",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C9H12/c1-3-9-6-4-8(2)5-7-9/h4-7H,3H2,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "JRLPEMVDPFPYPJ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

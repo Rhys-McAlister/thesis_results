@@ -1,0 +1,36 @@
+{
+  "short_alias": "3,3,3-Trifluoro-propanal",
+  "molid": "61343",
+  "common_name": "3,3,3-Trifluoro-propanal",
+  "ordinary_formula": "CF3CH2CHO",
+  "stoichiometric_formula": "C3H3F3O",
+  "inchi": "InChI=1S/C3H3F3O/c4-3(5,6)1-2-7/h2H,1H2",
+  "inchikey": "UTMIEQASUFFADK-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3CH2CHO",
+      "type": "formula"
+    },
+    {
+      "alias": "460-40-2",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,3-Trifluoro-propanal",
+      "type": "name"
+    },
+    {
+      "alias": "61343",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H3F3O/c4-3(5,6)1-2-7/h2H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "UTMIEQASUFFADK-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "numin": 399.9224,
+  "numax": 3999.706,
+  "npnts": 14934,
+  "sigma_max": 3.098000050320605e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CHF2OCHClCF3_298.0K-0.0Torr_399.9-3999.7_1.00_91_28.txt",
+  "srcdir": "cross_section_data/2-Chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Ryan and Nielsen (2010)",
+  "molecule_alias": "HCFE-235da2",
+  "experiment_alias": "EXPERIMENT"
+}

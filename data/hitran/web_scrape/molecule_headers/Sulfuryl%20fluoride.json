@@ -1,0 +1,36 @@
+{
+  "short_alias": "Sulfuryl fluoride",
+  "molid": "16647",
+  "common_name": "Sulfuryl fluoride",
+  "ordinary_formula": "SO2F2",
+  "stoichiometric_formula": "F2O2S",
+  "inchi": "InChI=1S/F2O2S/c1-5(2,3)4",
+  "inchikey": "OBTWBSRJZRCYQV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "SO2F2",
+      "type": "formula"
+    },
+    {
+      "alias": "2699-79-8",
+      "type": "cas"
+    },
+    {
+      "alias": "Sulfuryl fluoride",
+      "type": "name"
+    },
+    {
+      "alias": "16647",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/F2O2S/c1-5(2,3)4",
+      "type": "inchi"
+    },
+    {
+      "alias": "OBTWBSRJZRCYQV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 765.001221,
+  "numax": 849.997171,
+  "npnts": 11284,
+  "sigma_max": 2.6512000968113124e-18,
+  "temperature": 264.0,
+  "pressure": 0.0,
+  "resolution": 0.014,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "BrONO2_264.0K-0.0Torr_765.0-850.0_0.01_air_665_61.txt",
+  "srcdir": "cross_section_data/Bromine Nitrate.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Wagner and Birk JMS 2016",
+  "molecule_alias": "Bromine nitrate",
+  "experiment_alias": "EXPERIMENT"
+}

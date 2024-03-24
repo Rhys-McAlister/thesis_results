@@ -1,0 +1,44 @@
+{
+  "short_alias": "Methyl bromide",
+  "molid": "6083",
+  "common_name": "Bromomethane",
+  "ordinary_formula": "CH3Br",
+  "stoichiometric_formula": "CH3Br",
+  "inchi": "InChI=1S/CH3Br/c1-2/h1H3",
+  "inchikey": "GZUXJHMPEANEGY-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CH3Br",
+      "type": "formula"
+    },
+    {
+      "alias": "74-83-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Bromomethane",
+      "type": "name"
+    },
+    {
+      "alias": "Methyl bromide",
+      "type": "name"
+    },
+    {
+      "alias": "Methylbromide",
+      "type": "name"
+    },
+    {
+      "alias": "6083",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CH3Br/c1-2/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "GZUXJHMPEANEGY-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

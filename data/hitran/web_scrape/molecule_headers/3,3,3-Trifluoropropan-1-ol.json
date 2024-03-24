@@ -1,0 +1,36 @@
+{
+  "short_alias": "3,3,3-Trifluoropropan-1-ol",
+  "molid": "121174",
+  "common_name": "3,3,3-Trifluoropropan-1-ol",
+  "ordinary_formula": "CF3CH2CH2OH",
+  "stoichiometric_formula": "C3H5F3O",
+  "inchi": "InChI=1S/C3H5F3O/c4-3(5,6)1-2-7/h7H,1-2H2",
+  "inchikey": "HDBGBTNNPRCVND-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3CH2CH2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "2240-88-2",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,3-Trifluoropropan-1-ol",
+      "type": "name"
+    },
+    {
+      "alias": "121174",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H5F3O/c4-3(5,6)1-2-7/h7H,1-2H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "HDBGBTNNPRCVND-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

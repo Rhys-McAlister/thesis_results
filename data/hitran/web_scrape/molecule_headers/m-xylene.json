@@ -1,0 +1,40 @@
+{
+  "short_alias": "m-xylene",
+  "molid": "7641",
+  "common_name": "m-xylene",
+  "ordinary_formula": "m-C6H5(CH3)2",
+  "stoichiometric_formula": "C8H10",
+  "inchi": "InChI=1S/C8H10/c1-7-4-3-5-8(2)6-7/h3-6H,1-2H3",
+  "inchikey": "IVSZLXZYQVIEFR-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "108-38-3",
+      "type": "cas"
+    },
+    {
+      "alias": "m-Xylene",
+      "type": "name"
+    },
+    {
+      "alias": "7641",
+      "type": "csid"
+    },
+    {
+      "alias": "m-xylene",
+      "type": "name"
+    },
+    {
+      "alias": "1,3-Dimethylbenzene",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C8H10/c1-7-4-3-5-8(2)6-7/h3-6H,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "IVSZLXZYQVIEFR-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

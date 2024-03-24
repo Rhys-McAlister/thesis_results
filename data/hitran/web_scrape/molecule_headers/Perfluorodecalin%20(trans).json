@@ -1,0 +1,36 @@
+{
+  "short_alias": "E-C10F18",
+  "molid": "10328776",
+  "common_name": "Perfluorodecalin (trans)",
+  "ordinary_formula": "E-C10F18",
+  "stoichiometric_formula": "C10F18",
+  "inchi": "InChI=1S/C10F18/c11-1-2(12,5(17,18)9(25,26)7(21,22)3(1,13)14)6(19,20)10(27,28)8(23,24)4(1,15)16/t1-,2-",
+  "inchikey": "UWEYRJFJVCLAGH-IJWZVTFUSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "E-C10F18",
+      "type": "formula"
+    },
+    {
+      "alias": "60433-12-7",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorodecalin (trans)",
+      "type": "name"
+    },
+    {
+      "alias": "10328776",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10F18/c11-1-2(12,5(17,18)9(25,26)7(21,22)3(1,13)14)6(19,20)10(27,28)8(23,24)4(1,15)16/t1-,2-",
+      "type": "inchi"
+    },
+    {
+      "alias": "UWEYRJFJVCLAGH-IJWZVTFUSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

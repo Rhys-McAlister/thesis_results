@@ -1,0 +1,16 @@
+{
+  "numin": 24.591,
+  "numax": 2999.1001,
+  "npnts": 6170,
+  "sigma_max": 4.849999813776042e-18,
+  "temperature": 296.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CHF2OCF2CF2OCHF2_296.0K-0.0Torr_24.6-2999.1_1.00_165_18.txt",
+  "srcdir": "cross_section_data/HG-01.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Myhre et al. (1999)",
+  "molecule_alias": "HFE-338pcc13",
+  "experiment_alias": "EXPERIMENT"
+}

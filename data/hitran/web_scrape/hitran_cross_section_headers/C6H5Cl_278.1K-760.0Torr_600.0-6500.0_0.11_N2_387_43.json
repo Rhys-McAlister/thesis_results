@@ -1,0 +1,18 @@
+{
+  "numin": 600.003775,
+  "numax": 6500.010274,
+  "npnts": 97902,
+  "sigma_max": 2.7738443050781715e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C6H5Cl_278.1K-760.0Torr_600.0-6500.0_0.11_N2_387_43.txt",
+  "srcdir": "cross_section_data/Chlorobenzene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Chlorobenzene",
+  "experiment_alias": "EXPERIMENT"
+}

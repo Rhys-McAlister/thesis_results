@@ -1,0 +1,16 @@
+{
+  "numin": 499.955,
+  "numax": 3500.1672,
+  "npnts": 6224,
+  "sigma_max": 2.3209999360378006e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CFHCF2OCF2H_298.0K-0.0Torr_500.0-3500.2_1.00_142_26.txt",
+  "srcdir": "cross_section_data/1-(Difluoromethoxy)-1,1,2,3,3,3-hexafluoropropane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Oyaro et al. (2005)",
+  "molecule_alias": "HFE-338mec3",
+  "experiment_alias": "EXPERIMENT"
+}

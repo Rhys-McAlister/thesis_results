@@ -1,0 +1,18 @@
+{
+  "numin": 599.998,
+  "numax": 1499.9951,
+  "npnts": 14935,
+  "sigma_max": 8.188000321769467e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF3OCF(CF3)CF2OCF2OCF3_296.0K-700.0Torr_600.0-1500.0_0.25_air_217_40.txt",
+  "srcdir": "cross_section_data/Perfluoropolymethylisopropyl.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Young et al. (2006)",
+  "molecule_alias": "PFPMIE",
+  "experiment_alias": "EXPERIMENT"
+}

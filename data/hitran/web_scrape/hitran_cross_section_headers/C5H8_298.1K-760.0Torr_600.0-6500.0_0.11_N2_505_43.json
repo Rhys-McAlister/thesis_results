@@ -1,0 +1,18 @@
+{
+  "numin": 599.994293,
+  "numax": 6499.953174,
+  "npnts": 97902,
+  "sigma_max": 1.1479828641945948e-18,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C5H8_298.1K-760.0Torr_600.0-6500.0_0.11_N2_505_43.txt",
+  "srcdir": "cross_section_data/2-Methyl-1,3-butadiene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "2-Methyl-1,3-butadiene",
+  "experiment_alias": "EXPERIMENT"
+}

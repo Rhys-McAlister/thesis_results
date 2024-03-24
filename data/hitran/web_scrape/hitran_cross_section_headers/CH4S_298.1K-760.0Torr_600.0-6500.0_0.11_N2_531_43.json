@@ -1,0 +1,18 @@
+{
+  "numin": 599.994293,
+  "numax": 6499.953174,
+  "npnts": 97902,
+  "sigma_max": 1.40440171965325e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH4S_298.1K-760.0Torr_600.0-6500.0_0.11_N2_531_43.txt",
+  "srcdir": "cross_section_data/Methyl mercaptan.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Methyl mercaptan",
+  "experiment_alias": "EXPERIMENT"
+}

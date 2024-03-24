@@ -1,0 +1,16 @@
+{
+  "numin": 560.00232,
+  "numax": 3099.9943,
+  "npnts": 337179,
+  "sigma_max": 6.9004891e-18,
+  "temperature": 253.0,
+  "resolution": 0.02,
+  "resolution_units": "cm-1",
+  "srcfile": "CH3CCl2F_253.0K-0.0Torr_560.0-3100.0_0.02_84_112.txt",
+  "srcdir": "cross_section_data/HCFC-141b.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Le Bris et al. (2012)",
+  "molecule_alias": "HCFC-141b",
+  "experiment_alias": "EXPERIMENT"
+}

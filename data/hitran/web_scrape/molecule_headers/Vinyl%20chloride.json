@@ -1,0 +1,32 @@
+{
+  "short_alias": "Vinyl chloride",
+  "molid": "6098",
+  "common_name": "Vinyl chloride",
+  "ordinary_formula": "C2H3Cl",
+  "stoichiometric_formula": "C2H3Cl",
+  "inchi": "InChI=1S/C2H3Cl/c1-2-3/h2H,1H2",
+  "inchikey": "BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-01-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Vinyl chloride",
+      "type": "name"
+    },
+    {
+      "alias": "6098",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H3Cl/c1-2-3/h2H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

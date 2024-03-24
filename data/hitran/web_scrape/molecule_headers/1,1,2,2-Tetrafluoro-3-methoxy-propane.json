@@ -1,0 +1,36 @@
+{
+  "short_alias": "1,1,2,2-Tetrafluoro-3-methoxy-propane",
+  "molid": "2063482",
+  "common_name": "1,1,2,2-Tetrafluoro-3-methoxy-propane",
+  "ordinary_formula": "CHF2CF2CH2OCH3",
+  "stoichiometric_formula": "C4H6F4O",
+  "inchi": "InChI=1S/C4H6F4O/c1-9-2-4(7,8)3(5)6/h3H,2H2,1H3",
+  "inchikey": "CTXZHYNQHNBVKL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CHF2CF2CH2OCH3",
+      "type": "formula"
+    },
+    {
+      "alias": "60598-17-6",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,2,2-Tetrafluoro-3-methoxy-propane",
+      "type": "name"
+    },
+    {
+      "alias": "2063482",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H6F4O/c1-9-2-4(7,8)3(5)6/h3H,2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "CTXZHYNQHNBVKL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

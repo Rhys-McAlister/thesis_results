@@ -1,0 +1,18 @@
+{
+  "numin": 350.0189,
+  "numax": 1599.8803,
+  "npnts": 10371,
+  "sigma_max": 3.6450000620424144e-19,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH3CH2F_296.0K-700.0Torr_350.0-1599.9_0.50_air_106_33.txt",
+  "srcdir": "cross_section_data/Fluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "HFC-161",
+  "experiment_alias": "EXPERIMENT"
+}

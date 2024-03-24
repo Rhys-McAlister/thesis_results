@@ -1,0 +1,18 @@
+{
+  "numin": 400.0388,
+  "numax": 1500.0554,
+  "npnts": 18254,
+  "sigma_max": 4.13400013376596e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "i-C4F9OC2H5_296.0K-700.0Torr_400.0-1500.1_0.50_air_174_33.txt",
+  "srcdir": "cross_section_data/i-HFE-7200.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "i-HFE-7200",
+  "experiment_alias": "EXPERIMENT"
+}

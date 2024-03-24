@@ -1,0 +1,44 @@
+{
+  "short_alias": "HFC-41",
+  "molid": "11148",
+  "common_name": "Fluoromethane",
+  "ordinary_formula": "CH3F",
+  "stoichiometric_formula": "CH3F",
+  "inchi": "InChI=1S/CH3F/c1-2/h1H3",
+  "inchikey": "NBVXSUQYWXRMNV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-41",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH3F",
+      "type": "formula"
+    },
+    {
+      "alias": "593-53-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Fluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "11148",
+      "type": "csid"
+    },
+    {
+      "alias": "Methyl fluoride",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CH3F/c1-2/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "NBVXSUQYWXRMNV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

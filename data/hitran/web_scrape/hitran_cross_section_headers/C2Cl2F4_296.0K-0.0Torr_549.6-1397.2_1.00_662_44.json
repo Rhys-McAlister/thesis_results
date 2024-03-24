@@ -1,0 +1,16 @@
+{
+  "numin": 549.6218,
+  "numax": 1397.1964,
+  "npnts": 1763,
+  "sigma_max": 2.949481012107628e-18,
+  "temperature": 296.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C2Cl2F4_296.0K-0.0Torr_549.6-1397.2_1.00_662_44.txt",
+  "srcdir": "cross_section_data/CFC-114a.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Davis et al. ACP (2016)",
+  "molecule_alias": "CFC-114a",
+  "experiment_alias": "EXPERIMENT"
+}

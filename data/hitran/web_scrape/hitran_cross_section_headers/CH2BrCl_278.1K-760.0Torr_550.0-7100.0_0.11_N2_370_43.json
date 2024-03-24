@@ -1,0 +1,18 @@
+{
+  "numin": 549.974724,
+  "numax": 7100.007214,
+  "npnts": 108689,
+  "sigma_max": 6.119908169682764e-19,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH2BrCl_278.1K-760.0Torr_550.0-7100.0_0.11_N2_370_43.txt",
+  "srcdir": "cross_section_data/Bromochloromethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Bromochloromethane",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,48 @@
+{
+  "short_alias": "PFC-218",
+  "molid": "6192",
+  "common_name": "Perfluoropropane",
+  "ordinary_formula": "C3F8",
+  "stoichiometric_formula": "C3F8",
+  "inchi": "InChI=1S/C3F8/c4-1(5,2(6,7)8)3(9,10)11",
+  "inchikey": "QYSGYZVSCZSLHT-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-218",
+      "type": "acronym"
+    },
+    {
+      "alias": "C3F8",
+      "type": "formula"
+    },
+    {
+      "alias": "76-19-7",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluoropropane",
+      "type": "name"
+    },
+    {
+      "alias": "6192",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-218",
+      "type": "acronym"
+    },
+    {
+      "alias": "octafluoropropane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C3F8/c4-1(5,2(6,7)8)3(9,10)11",
+      "type": "inchi"
+    },
+    {
+      "alias": "QYSGYZVSCZSLHT-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "numin": 400.1569,
+  "numax": 2500.2572,
+  "npnts": 4357,
+  "sigma_max": 2.3800000407942173e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CHO_298.0K-0.0Torr_400.2-2500.3_1.00_27_29.txt",
+  "srcdir": "cross_section_data/2,2,2-trifluoroacetaldehyde.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sellevag et al. (2004a)",
+  "molecule_alias": "CF3CHO",
+  "experiment_alias": "EXPERIMENT"
+}

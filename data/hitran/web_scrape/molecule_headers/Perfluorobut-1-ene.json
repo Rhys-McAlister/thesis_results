@@ -1,0 +1,36 @@
+{
+  "short_alias": "Perfluorobut-1-ene",
+  "molid": "61064",
+  "common_name": "Perfluorobut-1-ene",
+  "ordinary_formula": "CF3CF2CF=CF2",
+  "stoichiometric_formula": "C4F8",
+  "inchi": "InChI=1S/C4F8/c5-1(2(6)7)3(8,9)4(10,11)12",
+  "inchikey": "ZVJOQYFQSQJDDX-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3CF2CF=CF2",
+      "type": "formula"
+    },
+    {
+      "alias": "357-26-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorobut-1-ene",
+      "type": "name"
+    },
+    {
+      "alias": "61064",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4F8/c5-1(2(6)7)3(8,9)4(10,11)12",
+      "type": "inchi"
+    },
+    {
+      "alias": "ZVJOQYFQSQJDDX-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

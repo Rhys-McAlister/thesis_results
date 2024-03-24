@@ -1,0 +1,18 @@
+{
+  "numin": 599.994538,
+  "numax": 6500.012516,
+  "npnts": 97903,
+  "sigma_max": 1.3133094886716136e-18,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C10H16_298.1K-760.0Torr_600.0-6500.0_0.11_N2_352_43.txt",
+  "srcdir": "cross_section_data/alpha-Pinene (1S)(-).zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "alpha-Pinene (1S)(-)",
+  "experiment_alias": "EXPERIMENT"
+}

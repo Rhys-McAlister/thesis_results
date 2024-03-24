@@ -1,0 +1,32 @@
+{
+  "short_alias": "Methyl 2-methylbutyrate",
+  "molid": "12788",
+  "common_name": "Methyl 2-methylbutyrate",
+  "ordinary_formula": "C6H12O2",
+  "stoichiometric_formula": "C6H12O2",
+  "inchi": "InChI=1S/C6H12O2/c1-4-5(2)6(7)8-3/h5H,4H2,1-3H3",
+  "inchikey": "OCWLYWIFNDCWRZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "868-57-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl 2-methylbutyrate",
+      "type": "name"
+    },
+    {
+      "alias": "12788",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H12O2/c1-4-5(2)6(7)8-3/h5H,4H2,1-3H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "OCWLYWIFNDCWRZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

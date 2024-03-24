@@ -1,0 +1,18 @@
+{
+  "numin": 549.97671,
+  "numax": 6500.034359,
+  "npnts": 98733,
+  "sigma_max": 1.6910857695567253e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH3CCl2F_278.1K-760.0Torr_550.0-6500.0_0.11_N2_84_43.txt",
+  "srcdir": "cross_section_data/HCFC-141b.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,1-Dichloro-1-fluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}

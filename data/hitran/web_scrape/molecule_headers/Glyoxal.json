@@ -1,0 +1,32 @@
+{
+  "short_alias": "Glyoxal",
+  "molid": "7572",
+  "common_name": "Glyoxal",
+  "ordinary_formula": "C2H2O2",
+  "stoichiometric_formula": "C2H2O2",
+  "inchi": "InChI=1S/C2H2O2/c3-1-2-4/h1-2H",
+  "inchikey": "LEQAOMBKQFMDFZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "107-22-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Glyoxal",
+      "type": "name"
+    },
+    {
+      "alias": "7572",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H2O2/c3-1-2-4/h1-2H",
+      "type": "inchi"
+    },
+    {
+      "alias": "LEQAOMBKQFMDFZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

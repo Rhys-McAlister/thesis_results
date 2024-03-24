@@ -1,0 +1,32 @@
+{
+  "short_alias": "Isopropylamine",
+  "molid": "6123",
+  "common_name": "Isopropylamine",
+  "ordinary_formula": "C3H9N",
+  "stoichiometric_formula": "C3H9N",
+  "inchi": "InChI=1S/C3H9N/c1-3(2)4/h3H,4H2,1-2H3",
+  "inchikey": "JJWLVOIRVHMVIS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-31-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Isopropylamine",
+      "type": "name"
+    },
+    {
+      "alias": "6123",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H9N/c1-3(2)4/h3H,4H2,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "JJWLVOIRVHMVIS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

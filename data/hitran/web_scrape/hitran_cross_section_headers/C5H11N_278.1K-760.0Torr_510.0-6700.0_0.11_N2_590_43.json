@@ -1,0 +1,18 @@
+{
+  "numin": 510.021553,
+  "numax": 6699.992114,
+  "npnts": 102714,
+  "sigma_max": 2.3887305185694082e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C5H11N_278.1K-760.0Torr_510.0-6700.0_0.11_N2_590_43.txt",
+  "srcdir": "cross_section_data/Piperidine.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Piperidine",
+  "experiment_alias": "EXPERIMENT"
+}

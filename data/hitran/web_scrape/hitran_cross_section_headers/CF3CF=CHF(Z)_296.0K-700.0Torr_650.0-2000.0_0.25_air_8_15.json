@@ -1,0 +1,18 @@
+{
+  "numin": 650.0179,
+  "numax": 2000.0136,
+  "npnts": 22402,
+  "sigma_max": 4.036999972054317e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF3CF=CHF(Z)_296.0K-700.0Torr_650.0-2000.0_0.25_air_8_15.txt",
+  "srcdir": "cross_section_data/(Z)-1,2,3,3,3-Pentafluoroprop-1-ene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Hurley et al. (2007)",
+  "molecule_alias": "CF3CF=CHF(Z)",
+  "experiment_alias": "EXPERIMENT"
+}

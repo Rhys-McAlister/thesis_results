@@ -1,0 +1,44 @@
+{
+  "short_alias": "(perfluoro-n-octyl)ethylene",
+  "molid": "80299",
+  "common_name": "(Perfluoro-n-octyl)ethylene",
+  "ordinary_formula": "C8F17CH=CH2",
+  "stoichiometric_formula": "C10H3F17",
+  "inchi": "InChI=1S/C10H3F17/c1-2-3(11,12)4(13,14)5(15,16)6(17,18)7(19,20)8(21,22)9(23,24)10(25,26)27/h2H,1H2",
+  "inchikey": "NKAMGQZDVMQEJL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "C8F17CH=CH2",
+      "type": "formula"
+    },
+    {
+      "alias": "21652-58-4",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Heptadecafluorodec-1-ene",
+      "type": "name"
+    },
+    {
+      "alias": "(perfluoro-n-octyl)ethylene",
+      "type": "name"
+    },
+    {
+      "alias": "80299",
+      "type": "csid"
+    },
+    {
+      "alias": "(Perfluoro-n-octyl)ethylene",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C10H3F17/c1-2-3(11,12)4(13,14)5(15,16)6(17,18)7(19,20)8(21,22)9(23,24)10(25,26)27/h2H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "NKAMGQZDVMQEJL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

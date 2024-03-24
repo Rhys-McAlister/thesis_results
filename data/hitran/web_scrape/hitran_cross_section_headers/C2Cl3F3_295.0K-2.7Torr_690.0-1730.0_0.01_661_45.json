@@ -1,0 +1,17 @@
+{
+  "numin": 690.01,
+  "numax": 1729.99,
+  "npnts": 103543,
+  "sigma_max": 5.073046997999434e-18,
+  "temperature": 295.0,
+  "pressure": 2.7,
+  "resolution": 0.01,
+  "resolution_units": "cm-1",
+  "srcfile": "C2Cl3F3_295.0K-2.7Torr_690.0-1730.0_0.01_661_45.txt",
+  "srcdir": "cross_section_data/CFC-113a.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Etminan et al. Atmos (2014)",
+  "molecule_alias": "CFC-113a",
+  "experiment_alias": "EXPERIMENT"
+}

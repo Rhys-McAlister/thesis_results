@@ -1,0 +1,32 @@
+{
+  "short_alias": "Furan",
+  "molid": "7738",
+  "common_name": "Furan",
+  "ordinary_formula": "C4H4O",
+  "stoichiometric_formula": "C4H4O",
+  "inchi": "InChI=1S/C4H4O/c1-2-4-5-3-1/h1-4H",
+  "inchikey": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "110-00-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Furan",
+      "type": "name"
+    },
+    {
+      "alias": "7738",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H4O/c1-2-4-5-3-1/h1-4H",
+      "type": "inchi"
+    },
+    {
+      "alias": "YLQBMQCUIZJEEH-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

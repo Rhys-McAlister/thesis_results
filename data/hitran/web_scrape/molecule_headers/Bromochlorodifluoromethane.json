@@ -1,0 +1,44 @@
+{
+  "short_alias": "Halon-1211",
+  "molid": "9248",
+  "common_name": "Bromochlorodifluoromethane",
+  "ordinary_formula": "CBrClF2",
+  "stoichiometric_formula": "CBrClF2",
+  "inchi": "InChI=1S/CBrClF2/c2-1(3,4)5",
+  "inchikey": "MEXUFEQDCXZEON-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "Halon-1211",
+      "type": "acronym"
+    },
+    {
+      "alias": "CBrClF2",
+      "type": "formula"
+    },
+    {
+      "alias": "353-59-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Bromochlorodifluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "9248",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-12B1",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/CBrClF2/c2-1(3,4)5",
+      "type": "inchi"
+    },
+    {
+      "alias": "MEXUFEQDCXZEON-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

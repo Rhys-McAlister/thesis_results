@@ -1,0 +1,15 @@
+{
+  "numin": 400.1569,
+  "numax": 3999.6401,
+  "npnts": 7467,
+  "sigma_max": 2.0709998987349802e-18,
+  "temperature": 298.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CHF2CF2CH2OH_298.0K-0.0Torr_400.2-3999.6_34_31.txt",
+  "srcdir": "cross_section_data/2,2,3,3-Tetrafluoro-1-propanol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sellevag et al. (2007)",
+  "molecule_alias": "CHF2CF2CH2OH",
+  "experiment_alias": "EXPERIMENT"
+}

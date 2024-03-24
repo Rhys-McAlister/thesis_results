@@ -1,0 +1,16 @@
+{
+  "numin": 100.0049,
+  "numax": 650.032,
+  "npnts": 3994,
+  "sigma_max": 1.8799999661885765e-18,
+  "temperature": 296.0,
+  "resolution": 0.9,
+  "resolution_units": "cm-1",
+  "srcfile": "SF5CF3_296.0K-0.0Torr_100.0-650.0_0.90_7_20.txt",
+  "srcdir": "cross_section_data/Trifluoromethyl Sulfur Pentafluoride.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Nielsen et al. (2002)",
+  "molecule_alias": "SF5CF3",
+  "experiment_alias": "EXPERIMENT"
+}

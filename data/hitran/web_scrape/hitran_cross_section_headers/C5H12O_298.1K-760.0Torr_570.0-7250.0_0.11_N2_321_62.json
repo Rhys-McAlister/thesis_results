@@ -1,0 +1,18 @@
+{
+  "numin": 569.984141,
+  "numax": 7250.021891,
+  "npnts": 110846,
+  "sigma_max": 6.74204776898403e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C5H12O_298.1K-760.0Torr_570.0-7250.0_0.11_N2_321_62.txt",
+  "srcdir": "cross_section_data/3-Pentanol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "3-Pentanol",
+  "experiment_alias": "EXPERIMENT"
+}

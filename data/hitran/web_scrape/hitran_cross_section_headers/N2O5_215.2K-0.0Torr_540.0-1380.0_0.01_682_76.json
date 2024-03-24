@@ -1,0 +1,17 @@
+{
+  "numin": 540.0189,
+  "numax": 1380.0108,
+  "npnts": 17424,
+  "sigma_max": 2.449e-18,
+  "temperature": 215.15,
+  "pressure": 0.0,
+  "resolution": 0.008,
+  "resolution_units": "cm-1",
+  "srcfile": "N2O5_215.2K-0.0Torr_540.0-1380.0_0.01_682_76.txt",
+  "srcdir": "cross_section_data/Dinitrogen Pentoxide.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [634]",
+  "molecule_alias": "DinitrogenPentoxide",
+  "experiment_alias": "EXPERIMENT"
+}

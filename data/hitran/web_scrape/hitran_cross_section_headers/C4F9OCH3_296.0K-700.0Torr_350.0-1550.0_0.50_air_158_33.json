@@ -1,0 +1,18 @@
+{
+  "numin": 350.0189,
+  "numax": 1550.015,
+  "npnts": 19913,
+  "sigma_max": 3.573000038477903e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "C4F9OCH3_296.0K-700.0Torr_350.0-1550.0_0.50_air_158_33.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,3,3,4,4-Nonafluoro-4-methoxybutane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "HFE-449s1",
+  "experiment_alias": "EXPERIMENT"
+}

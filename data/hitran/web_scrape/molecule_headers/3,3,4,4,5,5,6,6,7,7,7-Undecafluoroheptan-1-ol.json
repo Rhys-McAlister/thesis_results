@@ -1,0 +1,36 @@
+{
+  "short_alias": "3,3,4,4,5,5,6,6,7,7,7-Undecafluoroheptan-1-ol",
+  "molid": "9897841",
+  "common_name": "3,3,4,4,5,5,6,6,7,7,7-Undecafluoroheptan-1-ol",
+  "ordinary_formula": "CF3(CF2)4CH2CH2OH",
+  "stoichiometric_formula": "C7H5F11O",
+  "inchi": "InChI=1S/C7H5F11O/c8-3(9,1-2-19)4(10,11)5(12,13)6(14,15)7(16,17)18/h19H,1-2H2",
+  "inchikey": "NPOAVCPGPRUNOX-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3(CF2)4CH2CH2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "185689-57-0",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,4,4,5,5,6,6,7,7,7-Undecafluoroheptan-1-ol",
+      "type": "name"
+    },
+    {
+      "alias": "9897841",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C7H5F11O/c8-3(9,1-2-19)4(10,11)5(12,13)6(14,15)7(16,17)18/h19H,1-2H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "NPOAVCPGPRUNOX-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

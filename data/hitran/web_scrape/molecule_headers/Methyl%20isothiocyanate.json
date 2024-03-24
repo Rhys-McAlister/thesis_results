@@ -1,0 +1,32 @@
+{
+  "short_alias": "Methyl isothiocyanate",
+  "molid": "10694",
+  "common_name": "Methyl isothiocyanate",
+  "ordinary_formula": "C2H3NS",
+  "stoichiometric_formula": "C2H3NS",
+  "inchi": "InChI=1S/C2H3NS/c1-3-2-4/h1H3",
+  "inchikey": "LGDSHSYDSCRFAB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "556-61-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl isothiocyanate",
+      "type": "name"
+    },
+    {
+      "alias": "10694",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H3NS/c1-3-2-4/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "LGDSHSYDSCRFAB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

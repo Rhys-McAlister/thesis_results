@@ -1,0 +1,36 @@
+{
+  "short_alias": "i-HFE-7200",
+  "molid": "178495",
+  "common_name": "i-HFE-7200",
+  "ordinary_formula": "i-C4F9OC2H5",
+  "stoichiometric_formula": "C6H5F9O",
+  "inchi": "InChI=1S/C6H5F9O/c1-2-16-6(14,15)3(7,4(8,9)10)5(11,12)13/h2H2,1H3",
+  "inchikey": "SQEGLLMNIBLLNQ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "i-HFE-7200",
+      "type": "name"
+    },
+    {
+      "alias": "i-C4F9OC2H5",
+      "type": "formula"
+    },
+    {
+      "alias": "163702-06-5",
+      "type": "cas"
+    },
+    {
+      "alias": "178495",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H5F9O/c1-2-16-6(14,15)3(7,4(8,9)10)5(11,12)13/h2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "SQEGLLMNIBLLNQ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

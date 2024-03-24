@@ -1,0 +1,44 @@
+{
+  "short_alias": "HCFC-22",
+  "molid": "6132",
+  "common_name": "HCFC-22",
+  "ordinary_formula": "CHClF2",
+  "stoichiometric_formula": "CClF2H",
+  "inchi": "InChI=1S/CHClF2/c2-1(3)4/h1H",
+  "inchikey": "VOPWNXZWBYDODV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HCFC-22",
+      "type": "name"
+    },
+    {
+      "alias": "CHClF2",
+      "type": "formula"
+    },
+    {
+      "alias": "75-45-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Chlorodifluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6132",
+      "type": "csid"
+    },
+    {
+      "alias": "F22",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/CHClF2/c2-1(3)4/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "VOPWNXZWBYDODV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

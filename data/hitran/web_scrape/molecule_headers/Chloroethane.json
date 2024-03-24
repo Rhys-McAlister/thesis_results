@@ -1,0 +1,32 @@
+{
+  "short_alias": "Chloroethane",
+  "molid": "6097",
+  "common_name": "Chloroethane",
+  "ordinary_formula": "C2H5Cl",
+  "stoichiometric_formula": "C2H5Cl",
+  "inchi": "InChI=1S/C2H5Cl/c1-2-3/h2H2,1H3",
+  "inchikey": "HRYZWHHZPQKTII-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-00-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Chloroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6097",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H5Cl/c1-2-3/h2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "HRYZWHHZPQKTII-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

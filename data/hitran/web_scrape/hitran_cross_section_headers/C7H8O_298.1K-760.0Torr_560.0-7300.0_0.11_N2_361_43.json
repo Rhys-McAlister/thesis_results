@@ -1,0 +1,18 @@
+{
+  "numin": 559.980456,
+  "numax": 7300.000004,
+  "npnts": 111841,
+  "sigma_max": 3.5475977354567054e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C7H8O_298.1K-760.0Torr_560.0-7300.0_0.11_N2_361_43.txt",
+  "srcdir": "cross_section_data/Benzyl alcohol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Benzyl alcohol",
+  "experiment_alias": "EXPERIMENT"
+}

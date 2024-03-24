@@ -1,0 +1,36 @@
+{
+  "short_alias": "2,2,3,4,4,4-Hexafluoro-1-butanol",
+  "molid": "465239",
+  "common_name": "2,2,3,4,4,4-Hexafluoro-1-butanol",
+  "ordinary_formula": "CF3CHFCF2CH2OH",
+  "stoichiometric_formula": "C4H4F6O",
+  "inchi": "InChI=1S/C4H4F6O/c5-2(4(8,9)10)3(6,7)1-11/h2,11H,1H2",
+  "inchikey": "LVFXLZRISXUAIL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3CHFCF2CH2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "382-31-0",
+      "type": "cas"
+    },
+    {
+      "alias": "2,2,3,4,4,4-Hexafluoro-1-butanol",
+      "type": "name"
+    },
+    {
+      "alias": "465239",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H4F6O/c5-2(4(8,9)10)3(6,7)1-11/h2,11H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "LVFXLZRISXUAIL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

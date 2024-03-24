@@ -1,0 +1,36 @@
+{
+  "short_alias": "CFC-114a",
+  "molid": "9392",
+  "common_name": "CFC-114a",
+  "ordinary_formula": "C2Cl2F4",
+  "stoichiometric_formula": "C2Cl2F4",
+  "inchi": "InChI=1S/C2Cl2F4/c3-1(4,5)2(6,7)8",
+  "inchikey": "BAMUEXIPKSRTBS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CFC-114a",
+      "type": "name"
+    },
+    {
+      "alias": "374-07-2",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1-Dichlorotetrafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9392",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2Cl2F4/c3-1(4,5)2(6,7)8",
+      "type": "inchi"
+    },
+    {
+      "alias": "BAMUEXIPKSRTBS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

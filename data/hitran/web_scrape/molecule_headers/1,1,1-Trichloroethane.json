@@ -1,0 +1,44 @@
+{
+  "short_alias": "1,1,1-Trichloroethane",
+  "molid": "6042",
+  "common_name": "1,1,1-Trichloroethane",
+  "ordinary_formula": "CH3CCl3",
+  "stoichiometric_formula": "C2H3Cl3",
+  "inchi": "InChI=1S/C2H3Cl3/c1-2(3,4)5/h1H3",
+  "inchikey": "UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "1,1,1-TCE",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH3CCl3",
+      "type": "formula"
+    },
+    {
+      "alias": "71-55-6",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1-Trichloroethane",
+      "type": "name"
+    },
+    {
+      "alias": "Methyl chloroform",
+      "type": "name"
+    },
+    {
+      "alias": "6042",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H3Cl3/c1-2(3,4)5/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "UOCLXMDMGBRAIB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

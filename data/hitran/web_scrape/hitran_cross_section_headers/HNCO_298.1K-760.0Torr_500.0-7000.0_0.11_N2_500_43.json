@@ -1,0 +1,18 @@
+{
+  "numin": 500.016855,
+  "numax": 6999.98376,
+  "npnts": 107858,
+  "sigma_max": 2.5856588545659795e-18,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "HNCO_298.1K-760.0Torr_500.0-7000.0_0.11_N2_500_43.txt",
+  "srcdir": "cross_section_data/Isocyanic acid.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Isocyanic acid",
+  "experiment_alias": "EXPERIMENT"
+}

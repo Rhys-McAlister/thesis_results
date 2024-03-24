@@ -1,0 +1,18 @@
+{
+  "numin": 535.029938,
+  "numax": 6499.968668,
+  "npnts": 98980,
+  "sigma_max": 3.9337971965194446e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CCl2O_278.1K-760.0Torr_535.0-6500.0_0.11_N2_587_43.txt",
+  "srcdir": "cross_section_data/Phosgene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Phosgene",
+  "experiment_alias": "EXPERIMENT"
+}

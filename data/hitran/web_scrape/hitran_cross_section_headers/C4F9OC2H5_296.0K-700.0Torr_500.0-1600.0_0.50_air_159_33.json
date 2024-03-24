@@ -1,0 +1,18 @@
+{
+  "numin": 500.0184,
+  "numax": 1600.035,
+  "npnts": 18254,
+  "sigma_max": 3.9590001490130165e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "C4F9OC2H5_296.0K-700.0Torr_500.0-1600.0_0.50_air_159_33.txt",
+  "srcdir": "cross_section_data/1-Ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "HFE-569sf2",
+  "experiment_alias": "EXPERIMENT"
+}

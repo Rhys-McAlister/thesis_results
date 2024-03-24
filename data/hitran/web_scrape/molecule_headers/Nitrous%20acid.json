@@ -1,0 +1,32 @@
+{
+  "short_alias": "Nitrous acid",
+  "molid": "22936",
+  "common_name": "Nitrous acid",
+  "ordinary_formula": "HNO2",
+  "stoichiometric_formula": "HNO2",
+  "inchi": "InChI=1S/HNO2/c2-1-3/h(H,2,3)",
+  "inchikey": "IOVCWXUNBOPUCH-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "7782-77-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Nitrous acid",
+      "type": "name"
+    },
+    {
+      "alias": "22936",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/HNO2/c2-1-3/h(H,2,3)",
+      "type": "inchi"
+    },
+    {
+      "alias": "IOVCWXUNBOPUCH-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

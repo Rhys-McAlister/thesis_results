@@ -1,0 +1,18 @@
+{
+  "numin": 0.0,
+  "numax": 2000.0137,
+  "npnts": 33188,
+  "sigma_max": 4.541999939872534e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "C10F18_296.0K-700.0Torr_0.0-2000.0_0.50_air_215_32.txt",
+  "srcdir": "cross_section_data/Perfluorodecalin (mixed).zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Shine et al. (2005)",
+  "molecule_alias": "PFC-9-1-18",
+  "experiment_alias": "EXPERIMENT"
+}

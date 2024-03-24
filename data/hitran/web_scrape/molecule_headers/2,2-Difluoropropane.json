@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFC-272ca",
+  "molid": "61212",
+  "common_name": "2,2-Difluoropropane",
+  "ordinary_formula": "CH3CF2CH3",
+  "stoichiometric_formula": "C3H6F2",
+  "inchi": "InChI=1S/C3H6F2/c1-3(2,4)5/h1-2H3",
+  "inchikey": "YZXSQDNPKVBDOG-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-272ca",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH3CF2CH3",
+      "type": "formula"
+    },
+    {
+      "alias": "420-45-1",
+      "type": "cas"
+    },
+    {
+      "alias": "2,2-Difluoropropane",
+      "type": "name"
+    },
+    {
+      "alias": "61212",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H6F2/c1-3(2,4)5/h1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "YZXSQDNPKVBDOG-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

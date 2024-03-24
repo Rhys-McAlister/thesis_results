@@ -1,0 +1,18 @@
+{
+  "numin": 599.998857,
+  "numax": 6500.064444,
+  "npnts": 97903,
+  "sigma_max": 6.085155727209997e-19,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C20H18O_323.1K-760.0Torr_600.0-6500.1_0.11_N2_471_62.txt",
+  "srcdir": "cross_section_data/Geraniol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Geraniol",
+  "experiment_alias": "EXPERIMENT"
+}

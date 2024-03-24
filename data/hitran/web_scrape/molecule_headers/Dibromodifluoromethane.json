@@ -1,0 +1,48 @@
+{
+  "short_alias": "Halon-1202",
+  "molid": "6142",
+  "common_name": "Dibromodifluoromethane",
+  "ordinary_formula": "CBr2F2",
+  "stoichiometric_formula": "CBr2F2",
+  "inchi": "InChI=1S/CBr2F2/c2-1(3,4)5",
+  "inchikey": "AZSZCFSOHXEJQE-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "Halon-1202",
+      "type": "acronym"
+    },
+    {
+      "alias": "CBr2F2",
+      "type": "formula"
+    },
+    {
+      "alias": "75-61-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Dibromodifluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6142",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-12B2",
+      "type": "acronym"
+    },
+    {
+      "alias": "Difluorodibromomethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CBr2F2/c2-1(3,4)5",
+      "type": "inchi"
+    },
+    {
+      "alias": "AZSZCFSOHXEJQE-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

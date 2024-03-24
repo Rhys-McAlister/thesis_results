@@ -1,0 +1,16 @@
+{
+  "numin": 549.6218,
+  "numax": 1397.1964,
+  "npnts": 1763,
+  "sigma_max": 2.9595829553384317e-18,
+  "temperature": 296.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C2Cl4F2_296.0K-0.0Torr_549.6-1397.2_1.00_461_44.txt",
+  "srcdir": "cross_section_data/2,2-Difluorotetrachloroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Davis et al. ACP (2016)",
+  "molecule_alias": "CFC-112a",
+  "experiment_alias": "EXPERIMENT"
+}

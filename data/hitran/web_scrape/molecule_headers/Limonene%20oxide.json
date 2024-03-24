@@ -1,0 +1,32 @@
+{
+  "short_alias": "Limonene oxide",
+  "molid": "82617",
+  "common_name": "Limonene oxide",
+  "ordinary_formula": "C10H16O",
+  "stoichiometric_formula": "C10H16O",
+  "inchi": "InChI=1S/C10H16O/c1-7(2)8-4-5-10(3)9(6-8)11-10/h8-9H,1,4-6H2,2-3H3",
+  "inchikey": "CCEFMUBVSUDRLG-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "1195-92-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Limonene oxide",
+      "type": "name"
+    },
+    {
+      "alias": "82617",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10H16O/c1-7(2)8-4-5-10(3)9(6-8)11-10/h8-9H,1,4-6H2,2-3H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "CCEFMUBVSUDRLG-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

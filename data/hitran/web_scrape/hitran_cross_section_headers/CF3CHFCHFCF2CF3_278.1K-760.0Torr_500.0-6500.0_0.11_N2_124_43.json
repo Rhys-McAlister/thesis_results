@@ -1,0 +1,18 @@
+{
+  "numin": 500.017609,
+  "numax": 6500.033761,
+  "npnts": 99562,
+  "sigma_max": 3.357349296496806e-18,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CF3CHFCHFCF2CF3_278.1K-760.0Torr_500.0-6500.0_0.11_N2_124_43.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,3,4,5,5,5-Decafluoropentane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "2H, 3H-Perfluoropentane",
+  "experiment_alias": "EXPERIMENT"
+}

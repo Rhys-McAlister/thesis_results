@@ -1,0 +1,18 @@
+{
+  "numin": 925.0012,
+  "numax": 955.002,
+  "npnts": 5477,
+  "sigma_max": 1.6780000617793508e-16,
+  "temperature": 180.0,
+  "pressure": 75.3,
+  "resolution": 0.01,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "SF6_180.0K-75.3Torr_925.0-955.0_0.01_air_220_73.txt",
+  "srcdir": "cross_section_data/Sulfur Hexafluoride.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [631]",
+  "molecule_alias": "SulfurHexafluoride",
+  "experiment_alias": "EXPERIMENT"
+}

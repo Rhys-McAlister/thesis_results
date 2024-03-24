@@ -1,0 +1,18 @@
+{
+  "numin": 549.976628,
+  "numax": 6499.981305,
+  "npnts": 98732,
+  "sigma_max": 4.213753993296179e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "c-C4F8_323.1K-760.0Torr_550.0-6500.0_0.11_N2_210_43.txt",
+  "srcdir": "cross_section_data/Perfluorocyclobutane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Octafluorocyclobutane",
+  "experiment_alias": "EXPERIMENT"
+}

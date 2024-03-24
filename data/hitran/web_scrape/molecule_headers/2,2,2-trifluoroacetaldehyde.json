@@ -1,0 +1,48 @@
+{
+  "short_alias": "2,2,2-trifluoroacetaldehyde",
+  "molid": "59007",
+  "common_name": "2,2,2-trifluoroacetaldehyde",
+  "ordinary_formula": "CF3CHO",
+  "stoichiometric_formula": "C2HF3O",
+  "inchi": "InChI=1S/C2HF3O/c3-2(4,5)1-6/h1H",
+  "inchikey": "JVTSHOJDBRTPHD-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3CHO",
+      "type": "formula"
+    },
+    {
+      "alias": "2,2,2-trifluoroacetaldehyde",
+      "type": "name"
+    },
+    {
+      "alias": "fluoral",
+      "type": "name"
+    },
+    {
+      "alias": "Trifluoracetaldehyd",
+      "type": "name"
+    },
+    {
+      "alias": "59007",
+      "type": "csid"
+    },
+    {
+      "alias": "75-90-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Trifluoroacetaldehyde",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2HF3O/c3-2(4,5)1-6/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "JVTSHOJDBRTPHD-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

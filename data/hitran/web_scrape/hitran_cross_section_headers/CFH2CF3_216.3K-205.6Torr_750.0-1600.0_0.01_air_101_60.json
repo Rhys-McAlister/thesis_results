@@ -1,0 +1,18 @@
+{
+  "numin": 750.0007,
+  "numax": 1600.0109,
+  "npnts": 677021,
+  "sigma_max": 4.4642999698032845e-18,
+  "temperature": 216.3,
+  "pressure": 205.6,
+  "resolution": 0.015,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CFH2CF3_216.3K-205.6Torr_750.0-1600.0_0.01_air_101_60.txt",
+  "srcdir": "cross_section_data/HFC-134a.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Harrison JQSRT (2015)",
+  "molecule_alias": "HFC-134a",
+  "experiment_alias": "EXPERIMENT"
+}

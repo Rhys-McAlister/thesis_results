@@ -1,0 +1,52 @@
+{
+  "short_alias": "Perfluoroethane",
+  "molid": "6191",
+  "common_name": "Hexafluoroethane",
+  "ordinary_formula": "C2F6",
+  "stoichiometric_formula": "C2F6",
+  "inchi": "InChI=1S/C2F6/c3-1(4,5)2(6,7)8",
+  "inchikey": "WMIYKQLTONQJES-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-116",
+      "type": "acronym"
+    },
+    {
+      "alias": "C2F6",
+      "type": "formula"
+    },
+    {
+      "alias": "76-16-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6191",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-116",
+      "type": "acronym"
+    },
+    {
+      "alias": "Hexafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2F6/c3-1(4,5)2(6,7)8",
+      "type": "inchi"
+    },
+    {
+      "alias": "WMIYKQLTONQJES-UHFFFAOYSA-N",
+      "type": "inchikey"
+    },
+    {
+      "alias": "CFC-116",
+      "type": null
+    }
+  ]
+}

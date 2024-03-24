@@ -1,0 +1,32 @@
+{
+  "short_alias": "3-Methoxyphenol",
+  "molid": "8657",
+  "common_name": "3-Methoxyphenol",
+  "ordinary_formula": "C7H8O2",
+  "stoichiometric_formula": "C7H8O2",
+  "inchi": "InChI=1S/C7H8O2/c1-9-7-4-2-3-6(8)5-7/h2-5,8H,1H3",
+  "inchikey": "ASHGTJPOSUFTGB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "150-19-6",
+      "type": "cas"
+    },
+    {
+      "alias": "3-Methoxyphenol",
+      "type": "name"
+    },
+    {
+      "alias": "8657",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C7H8O2/c1-9-7-4-2-3-6(8)5-7/h2-5,8H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "ASHGTJPOSUFTGB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

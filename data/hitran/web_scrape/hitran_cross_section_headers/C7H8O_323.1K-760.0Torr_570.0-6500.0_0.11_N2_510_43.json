@@ -1,0 +1,18 @@
+{
+  "numin": 569.984674,
+  "numax": 6499.981137,
+  "npnts": 98400,
+  "sigma_max": 5.530320195436991e-19,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C7H8O_323.1K-760.0Torr_570.0-6500.0_0.11_N2_510_43.txt",
+  "srcdir": "cross_section_data/m-Cresol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "m-Cresol",
+  "experiment_alias": "EXPERIMENT"
+}

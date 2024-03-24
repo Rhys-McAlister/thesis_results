@@ -1,0 +1,18 @@
+{
+  "numin": 149.8694,
+  "numax": 1900.0908,
+  "npnts": 6354,
+  "sigma_max": 2.8229999265694415e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH3OCF2CF2OCH3_296.0K-700.0Torr_149.9-1900.1_0.25_air_14_2.txt",
+  "srcdir": "cross_section_data/1,1,2,2-Tetrafluoro-1,2-dimethoxyethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Andersen et al. (2004)",
+  "molecule_alias": "HG'-01",
+  "experiment_alias": "EXPERIMENT"
+}

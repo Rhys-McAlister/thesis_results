@@ -1,0 +1,16 @@
+{
+  "numin": 599.99549,
+  "numax": 1249.9956,
+  "npnts": 43144,
+  "sigma_max": 1.69715e-18,
+  "temperature": 283.0,
+  "resolution": 0.05,
+  "resolution_units": "cm-1",
+  "srcfile": "C2Cl3F3_283.0K-0.0Torr_600.0-1250.0_0.05_51_111.txt",
+  "srcdir": "cross_section_data/CFC-113.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Le Bris et al. (2011)",
+  "molecule_alias": "CFC-113",
+  "experiment_alias": "EXPERIMENT"
+}

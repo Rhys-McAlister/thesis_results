@@ -1,0 +1,52 @@
+{
+  "short_alias": "HCFC-142b",
+  "molid": "6148",
+  "common_name": "HCFC-142b",
+  "ordinary_formula": "CH3CClF2",
+  "stoichiometric_formula": "C2ClF2H3",
+  "inchi": "InChI=1S/C2H3ClF2/c1-2(3,4)5/h1H3",
+  "inchikey": "BHNZEZWIUMJCGF-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HCFC-142b",
+      "type": "name"
+    },
+    {
+      "alias": "CH3CClF2",
+      "type": "formula"
+    },
+    {
+      "alias": "75-68-3",
+      "type": "cas"
+    },
+    {
+      "alias": "1-Chloro-1,1-difluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6148",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-142B",
+      "type": "acronym"
+    },
+    {
+      "alias": "HCFC142B",
+      "type": "acronym"
+    },
+    {
+      "alias": "1,1,1-Chlorodifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2H3ClF2/c1-2(3,4)5/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "BHNZEZWIUMJCGF-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "short_alias": "Trichloroethylene",
+  "molid": "13837280",
+  "common_name": "Trichloroethene",
+  "ordinary_formula": "C2HCl3",
+  "stoichiometric_formula": "C2HCl3",
+  "inchi": "InChI=1S/C2HCl3/c3-1-2(4)5/h1H",
+  "inchikey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "79-01-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Trichloroethylene",
+      "type": "name"
+    },
+    {
+      "alias": "13837280",
+      "type": "csid"
+    },
+    {
+      "alias": "Trichloroethene",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2HCl3/c3-1-2(4)5/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

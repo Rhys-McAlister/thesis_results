@@ -1,0 +1,16 @@
+{
+  "numin": 550.0,
+  "numax": 2000.0,
+  "npnts": 24061,
+  "sigma_max": 8.350359332401375e-18,
+  "temperature": 344.0,
+  "resolution": 0.1,
+  "resolution_units": "cm-1",
+  "srcfile": "C12F27N_344.0K-0.0Torr_550.0-2000.0_0.10_664_46.txt",
+  "srcdir": "cross_section_data/Perfluorotributylamin.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Godin et al. JMS (2016)",
+  "molecule_alias": "Perfluorotributylamin",
+  "experiment_alias": "EXPERIMENT"
+}

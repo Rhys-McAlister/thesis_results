@@ -1,0 +1,44 @@
+{
+  "short_alias": "HFC-143a",
+  "molid": "9484",
+  "common_name": "HFC-143a",
+  "ordinary_formula": "CF3CH3",
+  "stoichiometric_formula": "C2F3H3",
+  "inchi": "InChI=1S/C2H3F3/c1-2(3,4)5/h1H3",
+  "inchikey": "UJPMYEOUBPIPHQ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-143a",
+      "type": "name"
+    },
+    {
+      "alias": "CH3CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "420-46-2",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1-Trifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9484",
+      "type": "csid"
+    },
+    {
+      "alias": "R143A",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/C2H3F3/c1-2(3,4)5/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "UJPMYEOUBPIPHQ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

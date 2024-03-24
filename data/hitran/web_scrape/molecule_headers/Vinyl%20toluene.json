@@ -1,0 +1,40 @@
+{
+  "short_alias": "Vinyl toluene",
+  "molid": "CH2CHC6H4CH3",
+  "common_name": "Vinyl toluene",
+  "ordinary_formula": "CH2CHC6H4CH3",
+  "stoichiometric_formula": "C9H10",
+  "inchi": "InChI=1S/C9H10/c1-3-9-7-5-4-6-8(9)2/h3-7H,1H2,2H3",
+  "inchikey": "NVZWEEGUWXZOKI-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "100-80-1",
+      "type": "cas"
+    },
+    {
+      "alias": "622-97-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Vinyl toluene",
+      "type": "name"
+    },
+    {
+      "alias": "8950",
+      "type": "csid"
+    },
+    {
+      "alias": "611-15-4",
+      "type": "cas"
+    },
+    {
+      "alias": "InChI=1S/C9H10/c1-3-9-7-5-4-6-8(9)2/h3-7H,1H2,2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "NVZWEEGUWXZOKI-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

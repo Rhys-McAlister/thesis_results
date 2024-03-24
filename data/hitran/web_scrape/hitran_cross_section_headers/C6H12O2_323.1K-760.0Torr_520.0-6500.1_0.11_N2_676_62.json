@@ -1,0 +1,18 @@
+{
+  "numin": 519.966432,
+  "numax": 6500.058395,
+  "npnts": 99231,
+  "sigma_max": 1.2490083969596508e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C6H12O2_323.1K-760.0Torr_520.0-6500.1_0.11_N2_676_62.txt",
+  "srcdir": "cross_section_data/Methyl 2-methylbutyrate.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Methyl 2-methylbutyrate",
+  "experiment_alias": "EXPERIMENT"
+}

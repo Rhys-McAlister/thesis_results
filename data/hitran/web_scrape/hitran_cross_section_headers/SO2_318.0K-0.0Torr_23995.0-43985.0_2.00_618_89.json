@@ -1,0 +1,17 @@
+{
+  "numin": 23995.0,
+  "numax": 43985.0,
+  "npnts": 39981,
+  "sigma_max": 1.1939999556466854e-18,
+  "temperature": 318.0,
+  "pressure": 0.0,
+  "resolution": 2.0,
+  "resolution_units": "cm-1",
+  "srcfile": "SO2_318.0K-0.0Torr_23995.0-43985.0_2.00_618_89.txt",
+  "srcdir": "cross_section_data/Sulfur Dioxide.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [653]",
+  "molecule_alias": "SulfurDioxide",
+  "experiment_alias": "EXPERIMENT"
+}

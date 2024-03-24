@@ -1,0 +1,16 @@
+{
+  "numin": 400.1569,
+  "numax": 3200.2906,
+  "npnts": 5809,
+  "sigma_max": 2.9209999428465083e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CHF2OCH2CF3_298.0K-0.0Torr_400.2-3200.3_1.00_135_26.txt",
+  "srcdir": "cross_section_data/2-(Difluoromethoxy)-1,1,1-trifluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Oyaro et al. (2005)",
+  "molecule_alias": "HFE-245fa2",
+  "experiment_alias": "EXPERIMENT"
+}

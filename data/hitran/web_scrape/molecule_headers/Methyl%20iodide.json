@@ -1,0 +1,36 @@
+{
+  "short_alias": "Methyl iodide",
+  "molid": "6088",
+  "common_name": "Methyl iodide",
+  "ordinary_formula": "CH3I",
+  "stoichiometric_formula": "CH3I",
+  "inchi": "InChI=1S/CH3I/c1-2/h1H3",
+  "inchikey": "INQOMBQAUSQDDS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "74-88-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl iodide",
+      "type": "name"
+    },
+    {
+      "alias": "Methyliodide",
+      "type": "name"
+    },
+    {
+      "alias": "6088",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CH3I/c1-2/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "INQOMBQAUSQDDS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

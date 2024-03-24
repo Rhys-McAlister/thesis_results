@@ -1,0 +1,44 @@
+{
+  "short_alias": "HCFC-21",
+  "molid": "6130",
+  "common_name": "HCFC-21",
+  "ordinary_formula": "CHCl2F",
+  "stoichiometric_formula": "CCl2FH",
+  "inchi": "InChI=1S/CHCl2F/c2-1(3)4/h1H",
+  "inchikey": "UMNKXPULIDJLSU-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HCFC-21",
+      "type": "name"
+    },
+    {
+      "alias": "CHCl2F",
+      "type": "formula"
+    },
+    {
+      "alias": "75-43-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Dichlorofluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6130",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-21",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/CHCl2F/c2-1(3)4/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "UMNKXPULIDJLSU-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

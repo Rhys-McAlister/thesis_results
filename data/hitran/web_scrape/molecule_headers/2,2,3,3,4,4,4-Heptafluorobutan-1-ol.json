@@ -1,0 +1,44 @@
+{
+  "short_alias": "2,2,3,3,4,4,4-Heptafluorobutan-1-ol",
+  "molid": "9393",
+  "common_name": "2,2,3,3,4,4,4-Heptafluorobutan-1-ol",
+  "ordinary_formula": "C3F7CH2OH",
+  "stoichiometric_formula": "C4H3OF7",
+  "inchi": "InChI=1S/C4H3F7O/c5-2(6,1-12)3(7,8)4(9,10)11/h12H,1H2",
+  "inchikey": "WXJFKAZDSQLPBX-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "C3F7CH2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "CF3CF2CF2CH2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "375-01-9",
+      "type": "cas"
+    },
+    {
+      "alias": "2,2,3,3,4,4,4-Heptafluorobutan-1-ol",
+      "type": "name"
+    },
+    {
+      "alias": "2,2,3,3,4,4,4-Heptafluoro-1-butanol",
+      "type": "name"
+    },
+    {
+      "alias": "9393",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H3F7O/c5-2(6,1-12)3(7,8)4(9,10)11/h12H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "WXJFKAZDSQLPBX-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "numin": 474.885,
+  "numax": 3100.0104,
+  "npnts": 5446,
+  "sigma_max": 4.139000026978537e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CH2OCH2CF3_298.0K-0.0Torr_474.9-3100.0_1.00_150_25.txt",
+  "srcdir": "cross_section_data/HFE-356mff2.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Oyaro et al. (2004)",
+  "molecule_alias": "HFE-356mff2",
+  "experiment_alias": "EXPERIMENT"
+}

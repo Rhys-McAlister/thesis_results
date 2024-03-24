@@ -1,0 +1,18 @@
+{
+  "numin": 650.0179,
+  "numax": 1499.9951,
+  "npnts": 14105,
+  "sigma_max": 6.543999947425944e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "Z-C10F18_296.0K-700.0Torr_650.0-1500.0_0.50_air_229_32.txt",
+  "srcdir": "cross_section_data/Perfluorodecalin (cis).zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Shine et al. (2005)",
+  "molecule_alias": "Z-C10F18",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,44 @@
+{
+  "short_alias": "HCFC-123",
+  "molid": "9016",
+  "common_name": "HCFC-123",
+  "ordinary_formula": "CHCl2CF3",
+  "stoichiometric_formula": "C2HCl2F3",
+  "inchi": "InChI=1S/C2HCl2F3/c3-1(4)2(5,6)7/h1H",
+  "inchikey": "OHMHBGPWCHTMQE-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HCFC-123",
+      "type": "name"
+    },
+    {
+      "alias": "CHCl2CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "306-83-2",
+      "type": "cas"
+    },
+    {
+      "alias": "2,2-Dichloro-1,1,1-trifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9016",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-123",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/C2HCl2F3/c3-1(4)2(5,6)7/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "OHMHBGPWCHTMQE-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

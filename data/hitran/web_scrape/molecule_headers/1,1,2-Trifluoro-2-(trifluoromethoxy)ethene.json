@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFE-216",
+  "molid": "13820",
+  "common_name": "1,1,2-Trifluoro-2-(trifluoromethoxy)ethene",
+  "ordinary_formula": "CF3OCF=CF2",
+  "stoichiometric_formula": "C3F6O",
+  "inchi": "InChI=1S/C3F6O/c4-1(5)2(6)10-3(7,8)9",
+  "inchikey": "BLTXWCKMNMYXEA-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-216",
+      "type": "acronym"
+    },
+    {
+      "alias": "CF3OCF=CF2",
+      "type": "formula"
+    },
+    {
+      "alias": "1187-93-5",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,2-Trifluoro-2-(trifluoromethoxy)ethene",
+      "type": "name"
+    },
+    {
+      "alias": "13820",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3F6O/c4-1(5)2(6)10-3(7,8)9",
+      "type": "inchi"
+    },
+    {
+      "alias": "BLTXWCKMNMYXEA-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

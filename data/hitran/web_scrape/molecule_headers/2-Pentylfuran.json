@@ -1,0 +1,36 @@
+{
+  "short_alias": "2-Pentylfuran",
+  "molid": "18465",
+  "common_name": "2-Pentylfuran",
+  "ordinary_formula": "C9H14O",
+  "stoichiometric_formula": "C9H14O",
+  "inchi": "InChI=1S/C9H14O/c1-2-3-4-6-9-7-5-8-10-9/h5,7-8H,2-4,6H2,1H3",
+  "inchikey": "YVBAUDVGOFCUSG-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "3777-69-3",
+      "type": "cas"
+    },
+    {
+      "alias": "2-Pentylfuran",
+      "type": "name"
+    },
+    {
+      "alias": "18465",
+      "type": "csid"
+    },
+    {
+      "alias": "3777-69-6",
+      "type": "cas"
+    },
+    {
+      "alias": "InChI=1S/C9H14O/c1-2-3-4-6-9-7-5-8-10-9/h5,7-8H,2-4,6H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "YVBAUDVGOFCUSG-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

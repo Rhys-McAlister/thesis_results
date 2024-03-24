@@ -1,0 +1,40 @@
+{
+  "short_alias": "Peroxyacetal nitrate",
+  "molid": "15907",
+  "common_name": "Peroxyacetal Nitrate",
+  "ordinary_formula": "CH3COOONO2",
+  "stoichiometric_formula": "C2H3NO5",
+  "inchi": "InChI=1S/C2H3NO5/c1-2(4)7-8-3(5)6/h1H3",
+  "inchikey": "VGQXTTSVLMQFHM-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PeroxyacetalNitrate",
+      "type": "name"
+    },
+    {
+      "alias": "15907",
+      "type": "csid"
+    },
+    {
+      "alias": "2278-22-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Peroxyacetal Nitrate",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2H3NO5/c1-2(4)7-8-3(5)6/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "VGQXTTSVLMQFHM-UHFFFAOYSA-N",
+      "type": "inchikey"
+    },
+    {
+      "alias": "PAN",
+      "type": "acronym"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 750.0028,
+  "numax": 811.995,
+  "npnts": 6173,
+  "sigma_max": 6.678999959297661e-18,
+  "temperature": 225.3,
+  "pressure": 147.4,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CCl4_225.3K-147.4Torr_750.0-812.0_0.03_air_47_73.txt",
+  "srcdir": "cross_section_data/Carbon Tetrachloride.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [631]",
+  "molecule_alias": "CarbonTetrachloride",
+  "experiment_alias": "EXPERIMENT"
+}

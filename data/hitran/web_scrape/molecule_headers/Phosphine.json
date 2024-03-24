@@ -1,0 +1,32 @@
+{
+  "short_alias": "Phosphine",
+  "molid": "22814",
+  "common_name": "Phosphine",
+  "ordinary_formula": "H3P",
+  "stoichiometric_formula": "H3P",
+  "inchi": "InChI=1S/H3P/h1H3",
+  "inchikey": "XYFCBTPGUUZFHI-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "7803-51-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Phosphine",
+      "type": "name"
+    },
+    {
+      "alias": "22814",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/H3P/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "XYFCBTPGUUZFHI-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

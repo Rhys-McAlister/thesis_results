@@ -1,0 +1,32 @@
+{
+  "short_alias": "Guaiacol",
+  "molid": "447",
+  "common_name": "Guaiacol",
+  "ordinary_formula": "C7H8O2",
+  "stoichiometric_formula": "C7H8O2",
+  "inchi": "InChI=1S/C7H8O2/c1-9-7-5-3-2-4-6(7)8/h2-5,8H,1H3",
+  "inchikey": "LHGVFZTZFXWLCP-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "90-05-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Guaiacol",
+      "type": "name"
+    },
+    {
+      "alias": "447",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C7H8O2/c1-9-7-5-3-2-4-6(7)8/h2-5,8H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "LHGVFZTZFXWLCP-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

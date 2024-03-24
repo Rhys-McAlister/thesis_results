@@ -1,0 +1,36 @@
+{
+  "short_alias": "3-methylfuran",
+  "molid": "12998",
+  "common_name": "3-methylfuran",
+  "ordinary_formula": "C5H6O",
+  "stoichiometric_formula": "C5H6O",
+  "inchi": "InChI=1S/C5H6O/c1-5-2-3-6-4-5/h2-4H,1H3",
+  "inchikey": "KJRRQXYWFQKJIP-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "930-27-8",
+      "type": "cas"
+    },
+    {
+      "alias": "3-methylfuran",
+      "type": "name"
+    },
+    {
+      "alias": "12998",
+      "type": "csid"
+    },
+    {
+      "alias": "3-Methylfuran",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C5H6O/c1-5-2-3-6-4-5/h2-4H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "KJRRQXYWFQKJIP-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

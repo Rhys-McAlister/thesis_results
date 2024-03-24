@@ -1,0 +1,32 @@
+{
+  "short_alias": "Dimethyl sulfate",
+  "molid": "6252",
+  "common_name": "Dimethyl sulfate",
+  "ordinary_formula": "C2H6O4S",
+  "stoichiometric_formula": "C2H6O4S",
+  "inchi": "InChI=1S/C2H6O4S/c1-5-7(3,4)6-2/h1-2H3",
+  "inchikey": "VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "77-78-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Dimethyl sulfate",
+      "type": "name"
+    },
+    {
+      "alias": "6252",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H6O4S/c1-5-7(3,4)6-2/h1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "VAYGXNSJCAHWJZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

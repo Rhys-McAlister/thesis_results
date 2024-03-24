@@ -1,0 +1,44 @@
+{
+  "short_alias": "HFC-134",
+  "molid": "9286",
+  "common_name": "HFC-134",
+  "ordinary_formula": "CHF2CHF2",
+  "stoichiometric_formula": "C2F4H2",
+  "inchi": "InChI=1S/C2H2F4/c3-1(4)2(5)6/h1-2H",
+  "inchikey": "WXGNWUVNYMJENI-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-134",
+      "type": "name"
+    },
+    {
+      "alias": "CHF2CHF2",
+      "type": "formula"
+    },
+    {
+      "alias": "359-35-3",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,2,2-Tetrafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9286",
+      "type": "csid"
+    },
+    {
+      "alias": "1,1,2,2-tetrafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2H2F4/c3-1(4)2(5)6/h1-2H",
+      "type": "inchi"
+    },
+    {
+      "alias": "WXGNWUVNYMJENI-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

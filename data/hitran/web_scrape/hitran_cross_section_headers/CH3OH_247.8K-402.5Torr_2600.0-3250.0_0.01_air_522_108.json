@@ -1,0 +1,18 @@
+{
+  "numin": 2599.9958,
+  "numax": 3249.9985,
+  "npnts": 258860,
+  "sigma_max": 3.189e-19,
+  "temperature": 247.8,
+  "pressure": 402.5,
+  "resolution": 0.015,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH3OH_247.8K-402.5Torr_2600.0-3250.0_0.01_air_522_108.txt",
+  "srcdir": "cross_section_data/Methanol.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [880]",
+  "molecule_alias": "Methanol",
+  "experiment_alias": "EXPERIMENT"
+}

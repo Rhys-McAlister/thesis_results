@@ -1,0 +1,18 @@
+{
+  "numin": 450.059,
+  "numax": 1501.13,
+  "npnts": 17440,
+  "sigma_max": 7.890000234291113e-18,
+  "temperature": 297.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "C4F10_297.0K-700.0Torr_450.1-1501.1_0.50_air_209_9.txt",
+  "srcdir": "cross_section_data/Perfluorobutane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Bravo et al. (2010b)",
+  "molecule_alias": "PFC-31-10",
+  "experiment_alias": "EXPERIMENT"
+}

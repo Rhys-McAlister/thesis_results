@@ -1,0 +1,48 @@
+{
+  "short_alias": "(Trifluoromethyl)sulfur pentafluoride",
+  "molid": "119988",
+  "common_name": "Trifluoromethyl Sulfur Pentafluoride",
+  "ordinary_formula": "SF5CF3",
+  "stoichiometric_formula": "CF8S",
+  "inchi": "InChI=1S/CF8S/c2-1(3,4)10(5,6,7,8)9",
+  "inchikey": "QIYZKVMAFMDRTP-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "SF5CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "373-80-8",
+      "type": "cas"
+    },
+    {
+      "alias": "(Trifluoromethyl)sulfur pentafluoride",
+      "type": "name"
+    },
+    {
+      "alias": "119988",
+      "type": "csid"
+    },
+    {
+      "alias": "Trifluoromethylsulfur pentafluoride",
+      "type": "name"
+    },
+    {
+      "alias": "TrifluoromethylSulfurPentafluoride",
+      "type": "name"
+    },
+    {
+      "alias": "Trifluoromethyl Sulfur Pentafluoride",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CF8S/c2-1(3,4)10(5,6,7,8)9",
+      "type": "inchi"
+    },
+    {
+      "alias": "QIYZKVMAFMDRTP-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

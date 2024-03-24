@@ -1,0 +1,48 @@
+{
+  "short_alias": "PFC-318",
+  "molid": "13846040",
+  "common_name": "Perfluorocyclobutane",
+  "ordinary_formula": "c-C4F8",
+  "stoichiometric_formula": "C4F8",
+  "inchi": "InChI=1S/C4F8/c5-1(6)2(7,8)4(11,12)3(1,9)10",
+  "inchikey": "BCCOBQSFUDVTJQ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-318",
+      "type": "acronym"
+    },
+    {
+      "alias": "c-C4F8",
+      "type": "formula"
+    },
+    {
+      "alias": "115-25-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorocyclobutane",
+      "type": "name"
+    },
+    {
+      "alias": "13846040",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-C318",
+      "type": "acronym"
+    },
+    {
+      "alias": "Octafluorocyclobutane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C4F8/c5-1(6)2(7,8)4(11,12)3(1,9)10",
+      "type": "inchi"
+    },
+    {
+      "alias": "BCCOBQSFUDVTJQ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

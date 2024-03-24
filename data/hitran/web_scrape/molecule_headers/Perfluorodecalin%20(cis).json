@@ -1,0 +1,36 @@
+{
+  "short_alias": "Z-C10F18",
+  "molid": "10328775",
+  "common_name": "Perfluorodecalin (cis)",
+  "ordinary_formula": "Z-C10F18",
+  "stoichiometric_formula": "C10F18",
+  "inchi": "InChI=1S/C10F18/c11-1-2(12,5(17,18)9(25,26)7(21,22)3(1,13)14)6(19,20)10(27,28)8(23,24)4(1,15)16/t1-,2+",
+  "inchikey": "UWEYRJFJVCLAGH-XIXRPRMCSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "Z-C10F18",
+      "type": "formula"
+    },
+    {
+      "alias": "60433-11-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorodecalin (cis)",
+      "type": "name"
+    },
+    {
+      "alias": "10328775",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10F18/c11-1-2(12,5(17,18)9(25,26)7(21,22)3(1,13)14)6(19,20)10(27,28)8(23,24)4(1,15)16/t1-,2+",
+      "type": "inchi"
+    },
+    {
+      "alias": "UWEYRJFJVCLAGH-XIXRPRMCSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

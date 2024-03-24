@@ -1,0 +1,32 @@
+{
+  "short_alias": "Diisopropylamine",
+  "molid": "7624",
+  "common_name": "Diisopropylamine",
+  "ordinary_formula": "C6H15N",
+  "stoichiometric_formula": "C6H15N",
+  "inchi": "InChI=1S/C6H15N/c1-5(2)7-6(3)4/h5-7H,1-4H3",
+  "inchikey": "UAOMVDZJSHZZME-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "108-18-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Diisopropylamine",
+      "type": "name"
+    },
+    {
+      "alias": "7624",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H15N/c1-5(2)7-6(3)4/h5-7H,1-4H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "UAOMVDZJSHZZME-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

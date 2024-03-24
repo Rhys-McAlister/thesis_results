@@ -1,0 +1,32 @@
+{
+  "short_alias": "Octanoic acid",
+  "molid": "370",
+  "common_name": "Octanoic acid",
+  "ordinary_formula": "C8H16O2",
+  "stoichiometric_formula": "C8H16O2",
+  "inchi": "InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)",
+  "inchikey": "WWZKQHOCKIZLMA-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "124-07-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Octanoic acid",
+      "type": "name"
+    },
+    {
+      "alias": "370",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)",
+      "type": "inchi"
+    },
+    {
+      "alias": "WWZKQHOCKIZLMA-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

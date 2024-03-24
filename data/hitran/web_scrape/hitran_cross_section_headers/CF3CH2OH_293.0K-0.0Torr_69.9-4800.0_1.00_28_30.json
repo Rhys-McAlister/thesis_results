@@ -1,0 +1,16 @@
+{
+  "numin": 69.9069,
+  "numax": 4799.9541,
+  "npnts": 9812,
+  "sigma_max": 1.7299999644863996e-18,
+  "temperature": 293.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CH2OH_293.0K-0.0Torr_69.9-4800.0_1.00_28_30.txt",
+  "srcdir": "cross_section_data/2,2,2-Trifluoroethanol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sellevag et al. (2004b)",
+  "molecule_alias": "CF3CH2OH",
+  "experiment_alias": "EXPERIMENT"
+}

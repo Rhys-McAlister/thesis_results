@@ -1,0 +1,36 @@
+{
+  "short_alias": "1,2-Dichloroethane",
+  "molid": "13837650",
+  "common_name": "1,2-Dichloroethane",
+  "ordinary_formula": "CH2ClCH2Cl",
+  "stoichiometric_formula": "C2H4Cl2",
+  "inchi": "InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2",
+  "inchikey": "WSLDOOZREJYCGB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CH2ClCH2Cl",
+      "type": "formula"
+    },
+    {
+      "alias": "107-06-2",
+      "type": "cas"
+    },
+    {
+      "alias": "1,2-Dichloroethane",
+      "type": "name"
+    },
+    {
+      "alias": "13837650",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "WSLDOOZREJYCGB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

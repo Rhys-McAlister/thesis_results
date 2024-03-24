@@ -1,0 +1,40 @@
+{
+  "short_alias": "Halon-1201",
+  "molid": "56193",
+  "common_name": "Bromodifluoromethane",
+  "ordinary_formula": "CHBrF2",
+  "stoichiometric_formula": "CHBrF2",
+  "inchi": "InChI=1S/CHBrF2/c2-1(3)4/h1H",
+  "inchikey": "GRCDJFHYVYUNHM-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "Halon-1201",
+      "type": "acronym"
+    },
+    {
+      "alias": "CHBrF2",
+      "type": "formula"
+    },
+    {
+      "alias": "1511-62-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Bromodifluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "56193",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CHBrF2/c2-1(3)4/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "GRCDJFHYVYUNHM-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

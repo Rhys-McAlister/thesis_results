@@ -1,0 +1,18 @@
+{
+  "numin": 549.978043,
+  "numax": 6500.051589,
+  "npnts": 98733,
+  "sigma_max": 4.7134153374409794e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C16H34_323.1K-760.0Torr_550.0-6500.1_0.11_N2_558_62.txt",
+  "srcdir": "cross_section_data/n-hexadecane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "n-Hexadecane",
+  "experiment_alias": "EXPERIMENT"
+}

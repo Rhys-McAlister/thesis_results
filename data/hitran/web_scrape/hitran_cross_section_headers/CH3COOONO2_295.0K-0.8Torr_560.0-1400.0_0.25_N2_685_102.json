@@ -1,0 +1,18 @@
+{
+  "numin": 560.0268,
+  "numax": 1399.9705,
+  "npnts": 8712,
+  "sigma_max": 1.206e-18,
+  "temperature": 295.0,
+  "pressure": 0.8,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH3COOONO2_295.0K-0.8Torr_560.0-1400.0_0.25_N2_685_102.txt",
+  "srcdir": "cross_section_data/Peroxyacetal Nitrate.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [668]",
+  "molecule_alias": "PeroxyacetalNitrate",
+  "experiment_alias": "EXPERIMENT"
+}

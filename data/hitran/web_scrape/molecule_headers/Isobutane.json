@@ -1,0 +1,36 @@
+{
+  "short_alias": "Isobutane",
+  "molid": "6120",
+  "common_name": "Isobutane",
+  "ordinary_formula": "C4H10",
+  "stoichiometric_formula": "C4H10",
+  "inchi": "InChI=1S/C4H10/c1-4(2)3/h4H,1-3H3",
+  "inchikey": "NNPPMTNAJDCUHE-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-28-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Isobutane",
+      "type": "name"
+    },
+    {
+      "alias": "2-methylpropane",
+      "type": "name"
+    },
+    {
+      "alias": "6120",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H10/c1-4(2)3/h4H,1-3H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "NNPPMTNAJDCUHE-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

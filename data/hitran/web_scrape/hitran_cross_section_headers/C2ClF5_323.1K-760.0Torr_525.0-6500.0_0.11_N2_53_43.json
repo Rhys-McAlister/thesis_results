@@ -1,0 +1,18 @@
+{
+  "numin": 525.027469,
+  "numax": 6500.033761,
+  "npnts": 99147,
+  "sigma_max": 4.464022037117467e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C2ClF5_323.1K-760.0Torr_525.0-6500.0_0.11_N2_53_43.txt",
+  "srcdir": "cross_section_data/CFC-115.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Chloropentafluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}

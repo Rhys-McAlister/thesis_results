@@ -1,0 +1,16 @@
+{
+  "numin": 450.004,
+  "numax": 630.006,
+  "npnts": 10455,
+  "sigma_max": 4.095999999262551e-20,
+  "temperature": 253.0,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "srcfile": "CH2F2_253.0K-0.0Torr_450.0-630.0_0.03_120_13.txt",
+  "srcdir": "cross_section_data/HFC-32.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Highwood and Shine (2000)",
+  "molecule_alias": "HFC-32",
+  "experiment_alias": "EXPERIMENT"
+}

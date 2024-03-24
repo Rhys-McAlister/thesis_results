@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFC-161",
+  "molid": "9243",
+  "common_name": "Fluoroethane",
+  "ordinary_formula": "CH3CH2F",
+  "stoichiometric_formula": "C2H5F",
+  "inchi": "InChI=1S/C2H5F/c1-2-3/h2H2,1H3",
+  "inchikey": "UHCBBWUQDAVSMS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-161",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH3CH2F",
+      "type": "formula"
+    },
+    {
+      "alias": "353-36-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Fluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9243",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H5F/c1-2-3/h2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "UHCBBWUQDAVSMS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

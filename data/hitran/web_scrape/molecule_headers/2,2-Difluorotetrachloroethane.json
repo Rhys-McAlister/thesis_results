@@ -1,0 +1,40 @@
+{
+  "short_alias": "CFC-112a",
+  "molid": "6186",
+  "common_name": "2,2-Difluorotetrachloroethane",
+  "ordinary_formula": "C2Cl4F2",
+  "stoichiometric_formula": "C2Cl4F2",
+  "inchi": "InChI=1S/C2Cl4F2/c3-1(4,5)2(6,7)8",
+  "inchikey": "SLGOCMATMKJJCE-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "F112A",
+      "type": "acronym"
+    },
+    {
+      "alias": "76-11-9",
+      "type": "cas"
+    },
+    {
+      "alias": "2,2-Difluorotetrachloroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6186",
+      "type": "csid"
+    },
+    {
+      "alias": "CFC-112a",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/C2Cl4F2/c3-1(4,5)2(6,7)8",
+      "type": "inchi"
+    },
+    {
+      "alias": "SLGOCMATMKJJCE-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

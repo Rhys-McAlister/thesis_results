@@ -1,0 +1,18 @@
+{
+  "numin": 400.0388,
+  "numax": 1549.8681,
+  "npnts": 9541,
+  "sigma_max": 2.06899998280898e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH2F2_296.0K-700.0Torr_400.0-1549.9_0.50_air_120_11.txt",
+  "srcdir": "cross_section_data/HFC-32.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Gohar et al. (2004)",
+  "molecule_alias": "HFC-32",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 599.993162,
+  "numax": 6500.006301,
+  "npnts": 97903,
+  "sigma_max": 5.024163725724847e-19,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH2ClCH2Cl_323.1K-760.0Torr_600.0-6500.0_0.11_N2_21_43.txt",
+  "srcdir": "cross_section_data/1,2-Dichloroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,2-Dichloroethane",
+  "experiment_alias": "EXPERIMENT"
+}

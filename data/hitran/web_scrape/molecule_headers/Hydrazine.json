@@ -1,0 +1,32 @@
+{
+  "short_alias": "Hydrazine",
+  "molid": "8960",
+  "common_name": "Hydrazine",
+  "ordinary_formula": "N2H4",
+  "stoichiometric_formula": "H4N2",
+  "inchi": "InChI=1S/H4N2/c1-2/h1-2H2",
+  "inchikey": "OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "302-01-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Hydrazine",
+      "type": "name"
+    },
+    {
+      "alias": "8960",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/H4N2/c1-2/h1-2H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "OAKJQQAXSVQMHS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

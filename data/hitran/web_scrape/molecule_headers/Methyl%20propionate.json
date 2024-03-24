@@ -1,0 +1,32 @@
+{
+  "short_alias": "Methyl propionate",
+  "molid": "10653",
+  "common_name": "Methyl propionate",
+  "ordinary_formula": "C4H8O2",
+  "stoichiometric_formula": "C4H8O2",
+  "inchi": "InChI=1S/C4H8O2/c1-3-4(5)6-2/h3H2,1-2H3",
+  "inchikey": "RJUFJBKOKNCXHH-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "554-12-1",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl propionate",
+      "type": "name"
+    },
+    {
+      "alias": "10653",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H8O2/c1-3-4(5)6-2/h3H2,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "RJUFJBKOKNCXHH-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

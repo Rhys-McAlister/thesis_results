@@ -1,0 +1,16 @@
+{
+  "numin": 520.0,
+  "numax": 3400.0,
+  "npnts": 95578,
+  "sigma_max": 4.333815123305188e-18,
+  "temperature": 352.8,
+  "resolution": 0.1,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CF2CH2OH_352.8K-0.0Torr_520.0-3400.0_0.10_48_47.txt",
+  "srcdir": "cross_section_data/2,2,3,3,3-Pentafluoropropan-1-ol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Godin et al. JQSRT (2017)",
+  "molecule_alias": "2,2,3,3,3-pentafluoropropanol",
+  "experiment_alias": "EXPERIMENT"
+}

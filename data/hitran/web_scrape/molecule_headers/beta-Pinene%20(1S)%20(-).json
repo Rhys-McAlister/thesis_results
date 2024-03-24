@@ -1,0 +1,32 @@
+{
+  "short_alias": "beta-Pinene (1S) (-)",
+  "molid": "389794",
+  "common_name": "beta-Pinene (1S) (-)",
+  "ordinary_formula": "C10H16",
+  "stoichiometric_formula": "C10H16",
+  "inchi": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h8-9H,1,4-6H2,2-3H3/t8-,9-/m0/s1",
+  "inchikey": "WTARULDDTDQWMU-IUCAKERBSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "18172-67-3",
+      "type": "cas"
+    },
+    {
+      "alias": "beta-Pinene (1S) (-)",
+      "type": "name"
+    },
+    {
+      "alias": "389794",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h8-9H,1,4-6H2,2-3H3/t8-,9-/m0/s1",
+      "type": "inchi"
+    },
+    {
+      "alias": "WTARULDDTDQWMU-IUCAKERBSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

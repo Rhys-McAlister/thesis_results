@@ -1,0 +1,36 @@
+{
+  "short_alias": "HFE-356mff2",
+  "molid": "9155",
+  "common_name": "HFE-356mff2",
+  "ordinary_formula": "CF3CH2OCH2CF3",
+  "stoichiometric_formula": "C4H4F6O",
+  "inchi": "InChI=1S/C4H4F6O/c5-3(6,7)1-11-2-4(8,9)10/h1-2H2",
+  "inchikey": "KGPPDNUWZNWPSI-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-356mff2",
+      "type": "name"
+    },
+    {
+      "alias": "CF3CH2OCH2CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "333-36-8",
+      "type": "cas"
+    },
+    {
+      "alias": "9155",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H4F6O/c5-3(6,7)1-11-2-4(8,9)10/h1-2H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "KGPPDNUWZNWPSI-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

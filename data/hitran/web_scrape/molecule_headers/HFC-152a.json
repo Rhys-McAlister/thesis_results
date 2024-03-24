@@ -1,0 +1,52 @@
+{
+  "short_alias": "HFC-152a",
+  "molid": "6128",
+  "common_name": "HFC-152a",
+  "ordinary_formula": "CH3CHF2",
+  "stoichiometric_formula": "C2F2H4",
+  "inchi": "InChI=1S/C2H4F2/c1-2(3)4/h2H,1H3",
+  "inchikey": "NPNPZTNLOVBDOC-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-152a",
+      "type": "name"
+    },
+    {
+      "alias": "CH3CHF2",
+      "type": "formula"
+    },
+    {
+      "alias": "75-37-6",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1-Difluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6128",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-152A",
+      "type": "acronym"
+    },
+    {
+      "alias": "HFC152a",
+      "type": "acronym"
+    },
+    {
+      "alias": "73-37-6",
+      "type": "cas"
+    },
+    {
+      "alias": "InChI=1S/C2H4F2/c1-2(3)4/h2H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "NPNPZTNLOVBDOC-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

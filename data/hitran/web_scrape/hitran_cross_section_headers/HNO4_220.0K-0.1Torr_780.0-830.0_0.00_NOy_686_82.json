@@ -1,0 +1,18 @@
+{
+  "numin": 780.0023,
+  "numax": 829.9995,
+  "npnts": 20275,
+  "sigma_max": 3.136e-18,
+  "temperature": 220.0,
+  "pressure": 0.05,
+  "resolution": 0.003,
+  "resolution_units": "cm-1",
+  "broadener": "NOy",
+  "srcfile": "HNO4_220.0K-0.1Torr_780.0-830.0_0.00_NOy_686_82.txt",
+  "srcdir": "cross_section_data/Peroxynitric Acid.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [645]",
+  "molecule_alias": "PeroxynitricAcid",
+  "experiment_alias": "EXPERIMENT"
+}

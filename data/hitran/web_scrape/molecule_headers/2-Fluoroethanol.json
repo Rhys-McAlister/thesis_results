@@ -1,0 +1,36 @@
+{
+  "short_alias": "2-Fluoroethanol",
+  "molid": "9354",
+  "common_name": "2-Fluoroethanol",
+  "ordinary_formula": "CH2FCH2OH",
+  "stoichiometric_formula": "C2H5FO",
+  "inchi": "InChI=1S/C2H5FO/c3-1-2-4/h4H,1-2H2",
+  "inchikey": "GGDYAKVUZMZKRV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CH2FCH2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "371-62-0",
+      "type": "cas"
+    },
+    {
+      "alias": "2-Fluoroethanol",
+      "type": "name"
+    },
+    {
+      "alias": "9354",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H5FO/c3-1-2-4/h4H,1-2H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "GGDYAKVUZMZKRV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

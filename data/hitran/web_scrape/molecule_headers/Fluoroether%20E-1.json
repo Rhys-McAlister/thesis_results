@@ -1,0 +1,40 @@
+{
+  "short_alias": "Fluoroether E-1",
+  "molid": "85066",
+  "common_name": "Fluoroether E-1",
+  "ordinary_formula": "CF3CF2CF2OCHFCF3",
+  "stoichiometric_formula": "C5HF11O",
+  "inchi": "InChI=1S/C5HF11O/c6-1(2(7,8)9)17-5(15,16)3(10,11)4(12,13)14/h1H",
+  "inchikey": "CUTPKDUMZWIJKT-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3CF2CF2OCHFCF3",
+      "type": "formula"
+    },
+    {
+      "alias": "3330-15-2",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1,2,2,3,3-Heptafluoro-3-(1,2,2,2-tetrafluoroethoxy)-propane",
+      "type": "name"
+    },
+    {
+      "alias": "Fluoroether E-1",
+      "type": "name"
+    },
+    {
+      "alias": "85066",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C5HF11O/c6-1(2(7,8)9)17-5(15,16)3(10,11)4(12,13)14/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "CUTPKDUMZWIJKT-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

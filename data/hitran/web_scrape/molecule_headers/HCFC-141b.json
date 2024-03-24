@@ -1,0 +1,48 @@
+{
+  "short_alias": "HCFC-141b",
+  "molid": "14829",
+  "common_name": "HCFC-141b",
+  "ordinary_formula": "CH3CCl2F",
+  "stoichiometric_formula": "C2Cl2FH3",
+  "inchi": "InChI=1S/C2H3Cl2F/c1-2(3,4)5/h1H3",
+  "inchikey": "FRCHKSNAZZFGCA-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HCFC-141b",
+      "type": "name"
+    },
+    {
+      "alias": "CH3CCl2F",
+      "type": "formula"
+    },
+    {
+      "alias": "1717-00-6",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1-Dichloro-1-fluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "14829",
+      "type": "csid"
+    },
+    {
+      "alias": "R141B",
+      "type": "acronym"
+    },
+    {
+      "alias": "HCFC141B",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/C2H3Cl2F/c1-2(3,4)5/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "FRCHKSNAZZFGCA-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

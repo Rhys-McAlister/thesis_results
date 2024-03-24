@@ -1,0 +1,32 @@
+{
+  "short_alias": "Dimethyl ether",
+  "molid": "7956",
+  "common_name": "Dimethyl ether",
+  "ordinary_formula": "C2H6O",
+  "stoichiometric_formula": "C2H6O",
+  "inchi": "InChI=1S/C2H6O/c1-3-2/h1-2H3",
+  "inchikey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "115-10-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Dimethyl ether",
+      "type": "name"
+    },
+    {
+      "alias": "7956",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H6O/c1-3-2/h1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

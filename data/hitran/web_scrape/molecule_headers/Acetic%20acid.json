@@ -1,0 +1,32 @@
+{
+  "short_alias": "Acetic acid",
+  "molid": "171",
+  "common_name": "Acetic acid",
+  "ordinary_formula": "C2H4O2",
+  "stoichiometric_formula": "C2H4O2",
+  "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
+  "inchikey": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "64-19-7",
+      "type": "cas"
+    },
+    {
+      "alias": "Acetic acid",
+      "type": "name"
+    },
+    {
+      "alias": "171",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
+      "type": "inchi"
+    },
+    {
+      "alias": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

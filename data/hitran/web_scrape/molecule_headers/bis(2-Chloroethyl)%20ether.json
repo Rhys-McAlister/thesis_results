@@ -1,0 +1,32 @@
+{
+  "short_alias": "bis(2-Chloroethyl) ether",
+  "molid": "21106016",
+  "common_name": "bis(2-Chloroethyl) ether",
+  "ordinary_formula": "C4H8Cl2O",
+  "stoichiometric_formula": "C4H8Cl2O",
+  "inchi": "InChI=1S/C4H8Cl2O/c5-1-3-7-4-2-6/h1-4H2",
+  "inchikey": "ZNSMNVMLTJELDZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "111-44-4",
+      "type": "cas"
+    },
+    {
+      "alias": "bis(2-Chloroethyl) ether",
+      "type": "name"
+    },
+    {
+      "alias": "21106016",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H8Cl2O/c5-1-3-7-4-2-6/h1-4H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "ZNSMNVMLTJELDZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

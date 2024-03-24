@@ -1,0 +1,32 @@
+{
+  "short_alias": "Trimethylamine",
+  "molid": "1114",
+  "common_name": "Trimethylamine",
+  "ordinary_formula": "C3H9N",
+  "stoichiometric_formula": "C3H9N",
+  "inchi": "InChI=1S/C3H9N/c1-4(2)3/h1-3H3",
+  "inchikey": "GETQZCLCWQTVFV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-50-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Trimethylamine",
+      "type": "name"
+    },
+    {
+      "alias": "1114",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H9N/c1-4(2)3/h1-3H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "GETQZCLCWQTVFV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

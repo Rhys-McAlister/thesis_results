@@ -1,0 +1,18 @@
+{
+  "numin": 510.019595,
+  "numax": 6500.012516,
+  "npnts": 99396,
+  "sigma_max": 4.692929072197761e-19,
+  "temperature": 278.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH3CHO_278.1K-760.0Torr_510.0-6500.0_0.11_N2_338_43.txt",
+  "srcdir": "cross_section_data/Acetaldehyde.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Acetylaldehyde",
+  "experiment_alias": "EXPERIMENT"
+}

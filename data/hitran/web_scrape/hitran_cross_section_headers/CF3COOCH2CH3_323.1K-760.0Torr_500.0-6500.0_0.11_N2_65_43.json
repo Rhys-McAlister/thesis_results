@@ -1,0 +1,18 @@
+{
+  "numin": 500.016051,
+  "numax": 6500.025243,
+  "npnts": 99562,
+  "sigma_max": 2.0970110066870165e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CF3COOCH2CH3_323.1K-760.0Torr_500.0-6500.0_0.11_N2_65_43.txt",
+  "srcdir": "cross_section_data/Ethyl 2,2,2-trifluoroacetate.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Ethyl trifluoroacetate",
+  "experiment_alias": "EXPERIMENT"
+}

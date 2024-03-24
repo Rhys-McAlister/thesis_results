@@ -1,0 +1,44 @@
+{
+  "short_alias": "PFC-91-18",
+  "molid": "13888074",
+  "common_name": "Perfluorodecalin (mixed)",
+  "ordinary_formula": "C10F18",
+  "stoichiometric_formula": "C10F18",
+  "inchi": "InChI=1S/C10F18/c11-1-2(12,5(17,18)9(25,26)7(21,22)3(1,13)14)6(19,20)10(27,28)8(23,24)4(1,15)16",
+  "inchikey": "UWEYRJFJVCLAGH-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-91-18",
+      "type": "acronym"
+    },
+    {
+      "alias": "PFC-9-1-18",
+      "type": "acronym"
+    },
+    {
+      "alias": "C10F18",
+      "type": "formula"
+    },
+    {
+      "alias": "306-94-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorodecalin (mixed)",
+      "type": "name"
+    },
+    {
+      "alias": "13888074",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10F18/c11-1-2(12,5(17,18)9(25,26)7(21,22)3(1,13)14)6(19,20)10(27,28)8(23,24)4(1,15)16",
+      "type": "inchi"
+    },
+    {
+      "alias": "UWEYRJFJVCLAGH-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

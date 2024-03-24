@@ -1,0 +1,18 @@
+{
+  "numin": 510.023189,
+  "numax": 7500.041853,
+  "npnts": 115989,
+  "sigma_max": 4.314945530870417e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "H2O2_298.1K-760.0Torr_510.0-7500.0_0.11_N2_488_62.txt",
+  "srcdir": "cross_section_data/Hydrogen peroxide.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Hydrogen peroxide",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 599.0303,
+  "numax": 623.9798,
+  "npnts": 415,
+  "sigma_max": 2.06000005094925e-18,
+  "temperature": 213.0,
+  "pressure": 760.0,
+  "resolution": 0.11,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "SF5CF3_213.0K-760.0Torr_599.0-624.0_0.11_air_7_79.txt",
+  "srcdir": "cross_section_data/Trifluoromethyl Sulfur Pentafluoride.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [642]",
+  "molecule_alias": "TrifluoromethylSulfurPentafluoride",
+  "experiment_alias": "EXPERIMENT"
+}

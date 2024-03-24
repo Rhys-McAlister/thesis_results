@@ -1,0 +1,17 @@
+{
+  "numin": 690.01,
+  "numax": 1729.99,
+  "npnts": 103543,
+  "sigma_max": 1.6752091750721122e-18,
+  "temperature": 295.0,
+  "pressure": 6.96,
+  "resolution": 0.01,
+  "resolution_units": "cm-1",
+  "srcfile": "C2H2ClF3_295.0K-7.0Torr_690.0-1730.0_0.01_609_45.txt",
+  "srcdir": "cross_section_data/2-Chloro-1,1,1-trifluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Etminan et al. Atmos (2014)",
+  "molecule_alias": "HCFC-133a",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,64 @@
+{
+  "short_alias": "PFC-14",
+  "molid": "6153",
+  "common_name": "Carbon Tetrafluoride",
+  "ordinary_formula": "CF4",
+  "stoichiometric_formula": "CF4",
+  "inchi": "InChI=1S/CF4/c2-1(3,4)5",
+  "inchikey": "TXEYQDLBPFQVAA-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-14",
+      "type": "acronym"
+    },
+    {
+      "alias": "CF4",
+      "type": "formula"
+    },
+    {
+      "alias": "75-73-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "tetrafluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6153",
+      "type": "csid"
+    },
+    {
+      "alias": "Tetrafluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "CarbonTetrafluoride",
+      "type": "name"
+    },
+    {
+      "alias": "Carbon tetrafluoride",
+      "type": "name"
+    },
+    {
+      "alias": "Carbon Tetrafluoride",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CF4/c2-1(3,4)5",
+      "type": "inchi"
+    },
+    {
+      "alias": "TXEYQDLBPFQVAA-UHFFFAOYSA-N",
+      "type": "inchikey"
+    },
+    {
+      "alias": "CFC-14",
+      "type": null
+    }
+  ]
+}

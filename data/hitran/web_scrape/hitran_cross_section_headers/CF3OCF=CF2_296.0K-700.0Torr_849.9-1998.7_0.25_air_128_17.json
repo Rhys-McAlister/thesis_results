@@ -1,0 +1,18 @@
+{
+  "numin": 849.91,
+  "numax": 1998.748,
+  "npnts": 19064,
+  "sigma_max": 4.423000082589431e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF3OCF=CF2_296.0K-700.0Torr_849.9-1998.7_0.25_air_128_17.txt",
+  "srcdir": "cross_section_data/1,1,2-Trifluoro-2-(trifluoromethoxy)ethene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Mashino et al. (2000)",
+  "molecule_alias": "HFE-216",
+  "experiment_alias": "EXPERIMENT"
+}

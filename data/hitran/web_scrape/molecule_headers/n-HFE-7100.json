@@ -1,0 +1,32 @@
+{
+  "short_alias": "n-HFE-7100",
+  "molid": "163702-07-6",
+  "common_name": "n-HFE-7100",
+  "ordinary_formula": "n-C4F9OCH3",
+  "stoichiometric_formula": "C5H3F9O",
+  "inchi": "STUB_YIXHOYKZTBUOTQM0",
+  "inchikey": "STUB_YIXHOYKZTBUOTQM1",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "163702-07-6",
+      "type": "cas"
+    },
+    {
+      "alias": "n-HFE-7100",
+      "type": "name"
+    },
+    {
+      "alias": "n-C4F9OCH3",
+      "type": "formula"
+    },
+    {
+      "alias": "STUB_YIXHOYKZTBUOTQM0",
+      "type": "inchi"
+    },
+    {
+      "alias": "STUB_YIXHOYKZTBUOTQM1",
+      "type": "inchikey"
+    }
+  ]
+}

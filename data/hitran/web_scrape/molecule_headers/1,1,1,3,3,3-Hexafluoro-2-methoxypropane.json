@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFE-356mmz1",
+  "molid": "23989",
+  "common_name": "1,1,1,3,3,3-Hexafluoro-2-methoxypropane",
+  "ordinary_formula": "(CF3)2CHOCH3",
+  "stoichiometric_formula": "C4H4F6O",
+  "inchi": "InChI=1S/C4H4F6O/c1-11-2(3(5,6)7)4(8,9)10/h2H,1H3",
+  "inchikey": "VNXYDFNVQBICRO-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-356mmz1",
+      "type": "acronym"
+    },
+    {
+      "alias": "(CF3)2CHOCH3",
+      "type": "formula"
+    },
+    {
+      "alias": "13171-18-1",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1,3,3,3-Hexafluoro-2-methoxypropane",
+      "type": "name"
+    },
+    {
+      "alias": "23989",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H4F6O/c1-11-2(3(5,6)7)4(8,9)10/h2H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "VNXYDFNVQBICRO-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

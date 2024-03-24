@@ -1,0 +1,32 @@
+{
+  "short_alias": "Dimethylamine",
+  "molid": "654",
+  "common_name": "Dimethylamine",
+  "ordinary_formula": "C2H7N",
+  "stoichiometric_formula": "C2H7N",
+  "inchi": "InChI=1S/C2H7N/c1-3-2/h3H,1-2H3",
+  "inchikey": "ROSDSFDQCJNGOL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "124-40-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Dimethylamine",
+      "type": "name"
+    },
+    {
+      "alias": "654",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H7N/c1-3-2/h3H,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "ROSDSFDQCJNGOL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

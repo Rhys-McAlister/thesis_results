@@ -1,0 +1,32 @@
+{
+  "short_alias": "1,2-Dichloropropane",
+  "molid": "6316",
+  "common_name": "1,2-Dichloropropane",
+  "ordinary_formula": "C3Cl2H6",
+  "stoichiometric_formula": "C3H6Cl2",
+  "inchi": "InChI=1S/C3H6Cl2/c1-3(5)2-4/h3H,2H2,1H3",
+  "inchikey": "KNKRKFALVUDBJE-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "78-87-5",
+      "type": "cas"
+    },
+    {
+      "alias": "1,2-Dichloropropane",
+      "type": "name"
+    },
+    {
+      "alias": "6316",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H6Cl2/c1-3(5)2-4/h3H,2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "KNKRKFALVUDBJE-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

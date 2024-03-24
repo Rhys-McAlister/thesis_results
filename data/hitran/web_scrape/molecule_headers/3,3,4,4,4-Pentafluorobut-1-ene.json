@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFC-1345zfc",
+  "molid": "71323",
+  "common_name": "3,3,4,4,4-Pentafluorobut-1-ene",
+  "ordinary_formula": "C2F5CH=CH2",
+  "stoichiometric_formula": "C4H3F5",
+  "inchi": "InChI=1S/C4H3F5/c1-2-3(5,6)4(7,8)9/h2H,1H2",
+  "inchikey": "IZHPSCJEIFFRLN-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-1345zfc",
+      "type": "acronym"
+    },
+    {
+      "alias": "C2F5CH=CH2",
+      "type": "formula"
+    },
+    {
+      "alias": "374-27-6",
+      "type": "cas"
+    },
+    {
+      "alias": "3,3,4,4,4-Pentafluorobut-1-ene",
+      "type": "name"
+    },
+    {
+      "alias": "71323",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H3F5/c1-2-3(5,6)4(7,8)9/h2H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "IZHPSCJEIFFRLN-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "short_alias": "Formic acid, dimer",
+  "molid": "14523-98-9",
+  "common_name": "Formic acid, dimer",
+  "ordinary_formula": "C2H4O4",
+  "stoichiometric_formula": "C2H4O4",
+  "inchi": "STUB_LPMGWYRBSMOZANB0",
+  "inchikey": "STUB_LPMGWYRBSMOZANB1",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "14523-98-9",
+      "type": "cas"
+    },
+    {
+      "alias": "Formic acid, dimer",
+      "type": "name"
+    },
+    {
+      "alias": "STUB_LPMGWYRBSMOZANB0",
+      "type": "inchi"
+    },
+    {
+      "alias": "STUB_LPMGWYRBSMOZANB1",
+      "type": "inchikey"
+    }
+  ]
+}

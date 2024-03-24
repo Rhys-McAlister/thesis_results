@@ -1,0 +1,18 @@
+{
+  "numin": 600.0,
+  "numax": 6500.0,
+  "npnts": 97902,
+  "sigma_max": 7.70234914245463e-19,
+  "temperature": 295.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH2Cl2_295.0K-700.0Torr_600.0-6500.0_0.25_air_182_55.txt",
+  "srcdir": "cross_section_data/Dichloromethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Wallington et al. JQSRT (2016)",
+  "molecule_alias": "Dichloromethane",
+  "experiment_alias": "EXPERIMENT"
+}

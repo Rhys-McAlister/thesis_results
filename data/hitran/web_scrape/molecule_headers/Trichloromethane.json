@@ -1,0 +1,44 @@
+{
+  "short_alias": "Chloroform",
+  "molid": "5977",
+  "common_name": "Trichloromethane",
+  "ordinary_formula": "CHCl3",
+  "stoichiometric_formula": "CHCl3",
+  "inchi": "InChI=1S/CHCl3/c2-1(3)4/h1H",
+  "inchikey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CHCl3",
+      "type": "formula"
+    },
+    {
+      "alias": "67-66-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Trichloromethane",
+      "type": "name"
+    },
+    {
+      "alias": "Chloroform",
+      "type": "name"
+    },
+    {
+      "alias": "5977",
+      "type": "csid"
+    },
+    {
+      "alias": "trichloromethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CHCl3/c2-1(3)4/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "short_alias": "cis-1,3-Dichloropropene",
+  "molid": "4444456",
+  "common_name": "cis-1,3-Dichloropropene",
+  "ordinary_formula": "C3H4Cl2",
+  "stoichiometric_formula": "C3H4Cl2",
+  "inchi": "InChI=1S/C3H4Cl2/c4-2-1-3-5/h1-2H,3H2/b2-1-",
+  "inchikey": "UOORRWUZONOOLO-UPHRSURJSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "10061-01-5",
+      "type": "cas"
+    },
+    {
+      "alias": "cis-1,3-Dichloropropene",
+      "type": "name"
+    },
+    {
+      "alias": "4444456",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H4Cl2/c4-2-1-3-5/h1-2H,3H2/b2-1-",
+      "type": "inchi"
+    },
+    {
+      "alias": "UOORRWUZONOOLO-UPHRSURJSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

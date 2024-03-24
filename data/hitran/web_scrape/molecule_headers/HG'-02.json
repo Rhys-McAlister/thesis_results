@@ -1,0 +1,36 @@
+{
+  "short_alias": "HG'-02",
+  "molid": "485399-46-0",
+  "common_name": "HG'-02",
+  "ordinary_formula": "CH3O(CF2CF2O)2CH3",
+  "stoichiometric_formula": "C6H6F8O3",
+  "inchi": "InChI=1S/C6H6F8O3/c1-15-3(7,8)5(11,12)17-6(13,14)4(9,10)16-2/h1-2H3",
+  "inchikey": "SOTHGFWOXYVWFW-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HG'-02",
+      "type": "name"
+    },
+    {
+      "alias": "CH3O(CF2CF2O)2CH3",
+      "type": "formula"
+    },
+    {
+      "alias": "485399-46-0",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,2,2-Tetrafluoro-1-methoxy-2-(1,1,2,2-tetrafluoro-2-methoxyethoxy)ethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C6H6F8O3/c1-15-3(7,8)5(11,12)17-6(13,14)4(9,10)16-2/h1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "SOTHGFWOXYVWFW-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "short_alias": "PFC-41-12",
+  "molid": "12154",
+  "common_name": "Perfluoropentane",
+  "ordinary_formula": "n-C5F12",
+  "stoichiometric_formula": "C5F12",
+  "inchi": "InChI=1S/C5F12/c6-1(7,2(8,9)4(12,13)14)3(10,11)5(15,16)17",
+  "inchikey": "NJCBUSHGCBERSK-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-41-12",
+      "type": "acronym"
+    },
+    {
+      "alias": "n-C5F12",
+      "type": "formula"
+    },
+    {
+      "alias": "678-26-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluoropentane",
+      "type": "name"
+    },
+    {
+      "alias": "12154",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C5F12/c6-1(7,2(8,9)4(12,13)14)3(10,11)5(15,16)17",
+      "type": "inchi"
+    },
+    {
+      "alias": "NJCBUSHGCBERSK-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

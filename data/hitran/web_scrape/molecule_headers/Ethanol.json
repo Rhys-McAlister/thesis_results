@@ -1,0 +1,36 @@
+{
+  "short_alias": "Ethyl alcohol",
+  "molid": "682",
+  "common_name": "Ethanol",
+  "ordinary_formula": "C2H6O",
+  "stoichiometric_formula": "C2H6O",
+  "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+  "inchikey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "64-17-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Ethyl alcohol",
+      "type": "name"
+    },
+    {
+      "alias": "682",
+      "type": "csid"
+    },
+    {
+      "alias": "Ethanol",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

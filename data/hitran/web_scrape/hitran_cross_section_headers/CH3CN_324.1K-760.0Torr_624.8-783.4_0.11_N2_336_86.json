@@ -1,0 +1,18 @@
+{
+  "numin": 624.7652,
+  "numax": 783.3822,
+  "npnts": 2632,
+  "sigma_max": 1.2180000259708918e-20,
+  "temperature": 324.1,
+  "pressure": 760.0,
+  "resolution": 0.11,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CH3CN_324.1K-760.0Torr_624.8-783.4_0.11_N2_336_86.txt",
+  "srcdir": "cross_section_data/Methyl Cyanide.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [650]",
+  "molecule_alias": "MethylCyanide",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,48 @@
+{
+  "short_alias": "CFC-115",
+  "molid": "6190",
+  "common_name": "CFC-115",
+  "ordinary_formula": "C2ClF5",
+  "stoichiometric_formula": "C2ClF5",
+  "inchi": "InChI=1S/C2ClF5/c3-1(4,5)2(6,7)8",
+  "inchikey": "RFCAUADVODFSLZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CFC-115",
+      "type": "name"
+    },
+    {
+      "alias": "CClF2CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "76-15-3",
+      "type": "cas"
+    },
+    {
+      "alias": "1-Chloro-1,1,2,2,2-pentafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6190",
+      "type": "csid"
+    },
+    {
+      "alias": "R115",
+      "type": "acronym"
+    },
+    {
+      "alias": "Chloropentafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C2ClF5/c3-1(4,5)2(6,7)8",
+      "type": "inchi"
+    },
+    {
+      "alias": "RFCAUADVODFSLZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

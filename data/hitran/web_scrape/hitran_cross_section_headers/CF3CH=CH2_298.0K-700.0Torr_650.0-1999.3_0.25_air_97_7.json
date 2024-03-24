@@ -1,0 +1,18 @@
+{
+  "numin": 650.018,
+  "numax": 1999.2905,
+  "npnts": 22390,
+  "sigma_max": 2.309000026891494e-18,
+  "temperature": 298.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF3CH=CH2_298.0K-700.0Torr_650.0-1999.3_0.25_air_97_7.txt",
+  "srcdir": "cross_section_data/3,3,3-Trifluoroprop-1-ene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Andersen et al. (2012b)",
+  "molecule_alias": "HFC-1243zf",
+  "experiment_alias": "EXPERIMENT"
+}

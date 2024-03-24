@@ -1,0 +1,18 @@
+{
+  "numin": 750.0004,
+  "numax": 830.0003,
+  "npnts": 53100,
+  "sigma_max": 2.615e-18,
+  "temperature": 249.3,
+  "pressure": 110.9,
+  "resolution": 0.008,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "ClONO2_249.3K-110.9Torr_750.0-830.0_0.01_air_680_76.txt",
+  "srcdir": "cross_section_data/Chlorine Nitrate.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [634]",
+  "molecule_alias": "ChlorineNitrate",
+  "experiment_alias": "EXPERIMENT"
+}

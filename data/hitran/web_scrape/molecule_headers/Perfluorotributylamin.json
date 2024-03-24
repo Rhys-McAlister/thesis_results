@@ -1,0 +1,36 @@
+{
+  "short_alias": "PFTBA",
+  "molid": "13836523",
+  "common_name": "Perfluorotributylamin",
+  "ordinary_formula": "C12F27N",
+  "stoichiometric_formula": "C12F27N",
+  "inchi": "InChI=1S/C12F27N/c13-1(14,7(25,26)27)4(19,20)10(34,35)40(11(36,37)5(21,22)2(15,16)8(28,29)30)12(38,39)6(23,24)3(17,18)9(31,32)33",
+  "inchikey": "RVZRBWKZFJCCIB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFTBA",
+      "type": "acronym"
+    },
+    {
+      "alias": "311-89-7",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorotributylamin",
+      "type": "name"
+    },
+    {
+      "alias": "13836523",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C12F27N/c13-1(14,7(25,26)27)4(19,20)10(34,35)40(11(36,37)5(21,22)2(15,16)8(28,29)30)12(38,39)6(23,24)3(17,18)9(31,32)33",
+      "type": "inchi"
+    },
+    {
+      "alias": "RVZRBWKZFJCCIB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

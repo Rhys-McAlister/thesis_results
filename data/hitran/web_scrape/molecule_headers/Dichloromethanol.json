@@ -1,0 +1,44 @@
+{
+  "short_alias": "Dichloromethanol",
+  "molid": "148431",
+  "common_name": "Dichloromethanol",
+  "ordinary_formula": "CHCl2OH",
+  "stoichiometric_formula": "CH2Cl2O",
+  "inchi": "InChI=1S/CH2Cl2O/c2-1(3)4/h1,4H",
+  "inchikey": "GJYVZUKSNFSLCL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CHCl2OH",
+      "type": "formula"
+    },
+    {
+      "alias": "Dichloromethanol",
+      "type": "name"
+    },
+    {
+      "alias": "Dichlormethanol",
+      "type": "name"
+    },
+    {
+      "alias": "Methanol, 1,1-dichloro-",
+      "type": "name"
+    },
+    {
+      "alias": "148431",
+      "type": "csid"
+    },
+    {
+      "alias": "35911-93-4",
+      "type": "cas"
+    },
+    {
+      "alias": "InChI=1S/CH2Cl2O/c2-1(3)4/h1,4H",
+      "type": "inchi"
+    },
+    {
+      "alias": "GJYVZUKSNFSLCL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

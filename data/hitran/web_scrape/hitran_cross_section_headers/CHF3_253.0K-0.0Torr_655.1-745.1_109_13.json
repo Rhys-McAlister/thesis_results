@@ -1,0 +1,15 @@
+{
+  "numin": 655.133,
+  "numax": 745.083,
+  "npnts": 654,
+  "sigma_max": 2.1959999173863904e-18,
+  "temperature": 253.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CHF3_253.0K-0.0Torr_655.1-745.1_109_13.txt",
+  "srcdir": "cross_section_data/Trifluoromethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Highwood and Shine (2000)",
+  "molecule_alias": "HFC-23",
+  "experiment_alias": "EXPERIMENT"
+}

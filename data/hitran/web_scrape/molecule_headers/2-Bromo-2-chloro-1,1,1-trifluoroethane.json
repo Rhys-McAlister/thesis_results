@@ -1,0 +1,44 @@
+{
+  "short_alias": "Halon-2311",
+  "molid": "3441",
+  "common_name": "2-Bromo-2-chloro-1,1,1-trifluoroethane",
+  "ordinary_formula": "CHBrClCF3",
+  "stoichiometric_formula": "C2HBrClF3",
+  "inchi": "InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H",
+  "inchikey": "BCQZXOMGPXTTIC-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "Halon-2311",
+      "type": "acronym"
+    },
+    {
+      "alias": "CHBrClCF3",
+      "type": "formula"
+    },
+    {
+      "alias": "151-67-7",
+      "type": "cas"
+    },
+    {
+      "alias": "2-Bromo-2-chloro-1,1,1-trifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "Halothane",
+      "type": "name"
+    },
+    {
+      "alias": "3441",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H",
+      "type": "inchi"
+    },
+    {
+      "alias": "BCQZXOMGPXTTIC-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

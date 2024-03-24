@@ -1,0 +1,44 @@
+{
+  "short_alias": "HCFE-235da2",
+  "molid": "3631",
+  "common_name": "2-Chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane",
+  "ordinary_formula": "CHF2OCHClCF3",
+  "stoichiometric_formula": "C3H2ClF5O",
+  "inchi": "InChI=1S/C3H2ClF5O/c4-1(3(7,8)9)10-2(5)6/h1-2H",
+  "inchikey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HCFE-235da2",
+      "type": "acronym"
+    },
+    {
+      "alias": "CHF2OCHClCF3",
+      "type": "formula"
+    },
+    {
+      "alias": "26675-46-7",
+      "type": "cas"
+    },
+    {
+      "alias": "2-Chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "isoflurane",
+      "type": "name"
+    },
+    {
+      "alias": "3631",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H2ClF5O/c4-1(3(7,8)9)10-2(5)6/h1-2H",
+      "type": "inchi"
+    },
+    {
+      "alias": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

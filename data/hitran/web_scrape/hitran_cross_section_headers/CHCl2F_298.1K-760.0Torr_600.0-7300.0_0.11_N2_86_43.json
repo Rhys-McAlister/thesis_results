@@ -1,0 +1,18 @@
+{
+  "numin": 599.994538,
+  "numax": 7299.963882,
+  "npnts": 111177,
+  "sigma_max": 1.9146631765527643e-18,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "CHCl2F_298.1K-760.0Torr_600.0-7300.0_0.11_N2_86_43.txt",
+  "srcdir": "cross_section_data/HCFC-21.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Dichlorofluoromethane",
+  "experiment_alias": "EXPERIMENT"
+}

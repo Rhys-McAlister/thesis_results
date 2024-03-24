@@ -1,0 +1,40 @@
+{
+  "short_alias": "HCFC-133a",
+  "molid": "6168",
+  "common_name": "2-Chloro-1,1,1-trifluoroethane",
+  "ordinary_formula": "C2H2ClF3",
+  "stoichiometric_formula": "C2H2ClF3",
+  "inchi": "InChI=1S/C2H2ClF3/c3-1-2(4,5)6/h1H2",
+  "inchikey": "CYXIKYKBLDZZNW-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "R133A",
+      "type": "acronym"
+    },
+    {
+      "alias": "75-88-7",
+      "type": "cas"
+    },
+    {
+      "alias": "2-Chloro-1,1,1-trifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "6168",
+      "type": "csid"
+    },
+    {
+      "alias": "HCFC-133a",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/C2H2ClF3/c3-1-2(4,5)6/h1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "CYXIKYKBLDZZNW-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

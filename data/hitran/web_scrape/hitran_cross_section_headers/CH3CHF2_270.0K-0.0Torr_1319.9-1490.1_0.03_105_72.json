@@ -1,0 +1,17 @@
+{
+  "numin": 1319.9496,
+  "numax": 1490.0614,
+  "npnts": 19760,
+  "sigma_max": 1.1360000156484219e-18,
+  "temperature": 270.0,
+  "pressure": 0.0,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "srcfile": "CH3CHF2_270.0K-0.0Torr_1319.9-1490.1_0.03_105_72.txt",
+  "srcdir": "cross_section_data/HFC-152a.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [630]",
+  "molecule_alias": "HFC-152a",
+  "experiment_alias": "EXPERIMENT"
+}

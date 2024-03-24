@@ -1,0 +1,32 @@
+{
+  "short_alias": "trans-1,2-Dichloroethene",
+  "molid": "553742",
+  "common_name": "trans-1,2-Dichloroethene",
+  "ordinary_formula": "C2H2Cl2",
+  "stoichiometric_formula": "C2H2Cl2",
+  "inchi": "InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1+",
+  "inchikey": "KFUSEUYYWQURPO-OWOJBTEDSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "156-60-5",
+      "type": "cas"
+    },
+    {
+      "alias": "trans-1,2-Dichloroethene",
+      "type": "name"
+    },
+    {
+      "alias": "553742",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1+",
+      "type": "inchi"
+    },
+    {
+      "alias": "KFUSEUYYWQURPO-OWOJBTEDSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

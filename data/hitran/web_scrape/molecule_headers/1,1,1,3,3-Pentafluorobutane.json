@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFC-365mfc",
+  "molid": "61201",
+  "common_name": "1,1,1,3,3-Pentafluorobutane",
+  "ordinary_formula": "CH3CF2CH2CF3",
+  "stoichiometric_formula": "C4H5F5",
+  "inchi": "InChI=1S/C4H5F5/c1-3(5,6)2-4(7,8)9/h2H2,1H3",
+  "inchikey": "WZLFPVPRZGTCKP-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-365mfc",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH3CF2CH2CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "406-58-6",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1,3,3-Pentafluorobutane",
+      "type": "name"
+    },
+    {
+      "alias": "61201",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H5F5/c1-3(5,6)2-4(7,8)9/h2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "WZLFPVPRZGTCKP-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

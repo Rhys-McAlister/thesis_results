@@ -1,0 +1,18 @@
+{
+  "numin": 550.0348,
+  "numax": 1550.015,
+  "npnts": 16594,
+  "sigma_max": 4.248000097836487e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH3OCF3_296.0K-700.0Torr_550.0-1550.0_0.50_air_127_33.txt",
+  "srcdir": "cross_section_data/Trifluoro(methoxy)methane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "HFE-143a",
+  "experiment_alias": "EXPERIMENT"
+}

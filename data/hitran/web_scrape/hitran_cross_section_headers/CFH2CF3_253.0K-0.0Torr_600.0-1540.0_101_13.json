@@ -1,0 +1,15 @@
+{
+  "numin": 600.025,
+  "numax": 1540.0,
+  "npnts": 62391,
+  "sigma_max": 4.170999922565457e-18,
+  "temperature": 253.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CFH2CF3_253.0K-0.0Torr_600.0-1540.0_101_13.txt",
+  "srcdir": "cross_section_data/HFC-134a.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Highwood and Shine (2000)",
+  "molecule_alias": "HFC-134a",
+  "experiment_alias": "EXPERIMENT"
+}

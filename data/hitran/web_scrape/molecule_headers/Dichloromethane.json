@@ -1,0 +1,40 @@
+{
+  "short_alias": "Methylene chloride",
+  "molid": "6104",
+  "common_name": "Dichloromethane",
+  "ordinary_formula": "CH2Cl2",
+  "stoichiometric_formula": "CH2Cl2",
+  "inchi": "InChI=1S/CH2Cl2/c2-1-3/h1H2",
+  "inchikey": "YMWUJEATGCHHMB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CH2Cl2",
+      "type": "formula"
+    },
+    {
+      "alias": "75-09-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Dichloromethane",
+      "type": "name"
+    },
+    {
+      "alias": "Methylene chloride",
+      "type": "name"
+    },
+    {
+      "alias": "6104",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CH2Cl2/c2-1-3/h1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "YMWUJEATGCHHMB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "short_alias": "Isocyanic acid",
+  "molid": "6107",
+  "common_name": "Isocyanic acid",
+  "ordinary_formula": "HNCO",
+  "stoichiometric_formula": "CHNO",
+  "inchi": "InChI=1S/CHNO/c2-1-3/h2H",
+  "inchikey": "OWIKHYCFFJSOEH-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-13-8",
+      "type": "cas"
+    },
+    {
+      "alias": "Isocyanic acid",
+      "type": "name"
+    },
+    {
+      "alias": "6107",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CHNO/c2-1-3/h2H",
+      "type": "inchi"
+    },
+    {
+      "alias": "OWIKHYCFFJSOEH-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

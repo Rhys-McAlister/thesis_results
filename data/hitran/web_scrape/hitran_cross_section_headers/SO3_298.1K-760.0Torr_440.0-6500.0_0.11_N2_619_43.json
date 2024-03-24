@@ -1,0 +1,18 @@
+{
+  "numin": 439.992636,
+  "numax": 6500.012516,
+  "npnts": 100558,
+  "sigma_max": 1.8975359883795476e-18,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "SO3_298.1K-760.0Torr_440.0-6500.0_0.11_N2_619_43.txt",
+  "srcdir": "cross_section_data/Sulfur trioxide.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Sulfur trioxide",
+  "experiment_alias": "EXPERIMENT"
+}

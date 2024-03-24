@@ -1,0 +1,18 @@
+{
+  "numin": 559.981009,
+  "numax": 6500.033761,
+  "npnts": 98567,
+  "sigma_max": 7.40166640485219e-19,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C2HCl4F_323.1K-760.0Torr_560.0-6500.0_0.11_N2_462_43.txt",
+  "srcdir": "cross_section_data/1,1,2,2-Tetrachloro-1-fluoroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,1,2,2-Tetrachloro-1-fluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}

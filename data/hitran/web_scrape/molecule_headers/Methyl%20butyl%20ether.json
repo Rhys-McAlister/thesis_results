@@ -1,0 +1,32 @@
+{
+  "short_alias": "Methyl butyl ether",
+  "molid": "11833",
+  "common_name": "Methyl butyl ether",
+  "ordinary_formula": "C5H12O",
+  "stoichiometric_formula": "C5H12O",
+  "inchi": "InChI=1S/C5H12O/c1-3-4-5-6-2/h3-5H2,1-2H3",
+  "inchikey": "CXBDYQVECUFKRK-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "628-28-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl butyl ether",
+      "type": "name"
+    },
+    {
+      "alias": "11833",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C5H12O/c1-3-4-5-6-2/h3-5H2,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "CXBDYQVECUFKRK-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "short_alias": "3-Pentanol",
+  "molid": "10947",
+  "common_name": "3-Pentanol",
+  "ordinary_formula": "C5H12O",
+  "stoichiometric_formula": "C5H12O",
+  "inchi": "InChI=1S/C5H12O/c1-3-5(6)4-2/h5-6H,3-4H2,1-2H3",
+  "inchikey": "AQIXEPGDORPWBJ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "584-02-1",
+      "type": "cas"
+    },
+    {
+      "alias": "3-Pentanol",
+      "type": "name"
+    },
+    {
+      "alias": "10947",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C5H12O/c1-3-5(6)4-2/h5-6H,3-4H2,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "AQIXEPGDORPWBJ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

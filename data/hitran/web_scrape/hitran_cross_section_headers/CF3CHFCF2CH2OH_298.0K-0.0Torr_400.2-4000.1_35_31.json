@@ -1,0 +1,15 @@
+{
+  "numin": 400.1569,
+  "numax": 4000.1222,
+  "npnts": 7468,
+  "sigma_max": 2.7300000103001046e-18,
+  "temperature": 298.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CHFCF2CH2OH_298.0K-0.0Torr_400.2-4000.1_35_31.txt",
+  "srcdir": "cross_section_data/2,2,3,4,4,4-Hexafluoro-1-butanol.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sellevag et al. (2007)",
+  "molecule_alias": "CF3CHFCF2CH2OH",
+  "experiment_alias": "EXPERIMENT"
+}

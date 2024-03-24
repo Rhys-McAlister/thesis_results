@@ -1,0 +1,44 @@
+{
+  "short_alias": "Allyl 2,2,2-trifluoroacetate",
+  "molid": "61162",
+  "common_name": "Allyl 2,2,2-trifluoroacetate",
+  "ordinary_formula": "CF3COOCH2CHCH2",
+  "stoichiometric_formula": "C5H5F3O2",
+  "inchi": "InChI=1S/C5H5F3O2/c1-2-3-10-4(9)5(6,7)8/h2H,1,3H2",
+  "inchikey": "XIVPVSIDXBTZLM-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CF3COOCH2CHCH2",
+      "type": "formula"
+    },
+    {
+      "alias": "383-67-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Allyl 2,2,2-trifluoroacetate",
+      "type": "name"
+    },
+    {
+      "alias": "61162",
+      "type": "csid"
+    },
+    {
+      "alias": "ATFA",
+      "type": "acronym"
+    },
+    {
+      "alias": "Allyl trifluoroacetate",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C5H5F3O2/c1-2-3-10-4(9)5(6,7)8/h2H,1,3H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "XIVPVSIDXBTZLM-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

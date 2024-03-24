@@ -1,0 +1,18 @@
+{
+  "numin": 529.970098,
+  "numax": 7250.048198,
+  "npnts": 111510,
+  "sigma_max": 1.203730701577606e-18,
+  "temperature": 340.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C4H8O2_340.1K-760.0Torr_530.0-7250.0_0.11_N2_498_62.txt",
+  "srcdir": "cross_section_data/Isobutyric acid.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Isobutyric acid",
+  "experiment_alias": "EXPERIMENT"
+}

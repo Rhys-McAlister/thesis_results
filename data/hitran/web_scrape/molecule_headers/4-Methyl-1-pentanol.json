@@ -1,0 +1,32 @@
+{
+  "short_alias": "4-Methyl-1-pentanol",
+  "molid": "11793",
+  "common_name": "4-Methyl-1-pentanol",
+  "ordinary_formula": "C6H14O",
+  "stoichiometric_formula": "C6H14O",
+  "inchi": "InChI=1S/C6H14O/c1-6(2)4-3-5-7/h6-7H,3-5H2,1-2H3",
+  "inchikey": "PCWGTDULNUVNBN-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "626-89-1",
+      "type": "cas"
+    },
+    {
+      "alias": "4-Methyl-1-pentanol",
+      "type": "name"
+    },
+    {
+      "alias": "11793",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H14O/c1-6(2)4-3-5-7/h6-7H,3-5H2,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "PCWGTDULNUVNBN-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

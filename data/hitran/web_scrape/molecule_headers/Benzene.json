@@ -1,0 +1,32 @@
+{
+  "short_alias": "Benzene",
+  "molid": "236",
+  "common_name": "Benzene",
+  "ordinary_formula": "C6H6",
+  "stoichiometric_formula": "C6H6",
+  "inchi": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+  "inchikey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "71-43-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Benzene",
+      "type": "name"
+    },
+    {
+      "alias": "236",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+      "type": "inchi"
+    },
+    {
+      "alias": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "numin": 35990.0,
+  "numax": 41285.0,
+  "npnts": 26476,
+  "sigma_max": 1.4689999760002725e-18,
+  "temperature": 283.0,
+  "pressure": 0.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C6H5CH3_283.0K-0.0Torr_35990.0-41285.0_1.00_637_88.txt",
+  "srcdir": "cross_section_data/Toluene.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [652]",
+  "molecule_alias": "Toluene",
+  "experiment_alias": "EXPERIMENT"
+}

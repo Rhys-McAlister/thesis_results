@@ -1,0 +1,16 @@
+{
+  "numin": 550.00916,
+  "numax": 3499.9843,
+  "npnts": 97901,
+  "sigma_max": 3.3221809e-18,
+  "temperature": 305.0,
+  "resolution": 0.1,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CHFCHFCF2CF3_305.0K-0.0Torr_550.0-3500.0_0.10_124_114.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,3,4,5,5,5-Decafluoropentane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Le Bris et al. (2018)",
+  "molecule_alias": "HFC-43-10mee",
+  "experiment_alias": "EXPERIMENT"
+}

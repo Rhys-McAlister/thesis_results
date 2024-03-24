@@ -1,0 +1,32 @@
+{
+  "short_alias": "Diiodomethane",
+  "molid": "6106",
+  "common_name": "Diiodomethane",
+  "ordinary_formula": "CH2I2",
+  "stoichiometric_formula": "CH2I2",
+  "inchi": "InChI=1S/CH2I2/c2-1-3/h1H2",
+  "inchikey": "NZZFYRREKKOMAT-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "75-11-6",
+      "type": "cas"
+    },
+    {
+      "alias": "Diiodomethane",
+      "type": "name"
+    },
+    {
+      "alias": "6106",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CH2I2/c2-1-3/h1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "NZZFYRREKKOMAT-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

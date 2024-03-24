@@ -1,0 +1,40 @@
+{
+  "short_alias": "o-Xylene",
+  "molid": "6967",
+  "common_name": "o-xylene",
+  "ordinary_formula": "o-C6H5(CH3)2",
+  "stoichiometric_formula": "C8H10",
+  "inchi": "InChI=1S/C8H10/c1-7-5-3-4-6-8(7)2/h3-6H,1-2H3",
+  "inchikey": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "95-47-6",
+      "type": "cas"
+    },
+    {
+      "alias": "o-Xylene",
+      "type": "name"
+    },
+    {
+      "alias": "6967",
+      "type": "csid"
+    },
+    {
+      "alias": "o-xylene",
+      "type": "name"
+    },
+    {
+      "alias": "1,2-Dimethylbenzene",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/C8H10/c1-7-5-3-4-6-8(7)2/h3-6H,1-2H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

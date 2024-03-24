@@ -1,0 +1,40 @@
+{
+  "short_alias": "Methylene bromide",
+  "molid": "2916",
+  "common_name": "Dibromomethane",
+  "ordinary_formula": "CH2Br2",
+  "stoichiometric_formula": "CH2Br2",
+  "inchi": "InChI=1S/CH2Br2/c2-1-3/h1H2",
+  "inchikey": "FJBFPHVGVWTDIP-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CH2Br2",
+      "type": "formula"
+    },
+    {
+      "alias": "74-95-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Dibromomethane",
+      "type": "name"
+    },
+    {
+      "alias": "Methylene bromide",
+      "type": "name"
+    },
+    {
+      "alias": "2916",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/CH2Br2/c2-1-3/h1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "FJBFPHVGVWTDIP-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

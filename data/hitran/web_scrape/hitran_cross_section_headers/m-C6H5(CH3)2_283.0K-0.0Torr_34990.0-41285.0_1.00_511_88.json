@@ -1,0 +1,17 @@
+{
+  "numin": 34990.0,
+  "numax": 41285.0,
+  "npnts": 31476,
+  "sigma_max": 1.0250000288644717e-18,
+  "temperature": 283.0,
+  "pressure": 0.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "m-C6H5(CH3)2_283.0K-0.0Torr_34990.0-41285.0_1.00_511_88.txt",
+  "srcdir": "cross_section_data/m-xylene.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [652]",
+  "molecule_alias": "m-xylene",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 149.8694,
+  "numax": 1800.086,
+  "npnts": 5991,
+  "sigma_max": 4.639000101584178e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.25,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CH3O(CF2CF2O)2CH3_296.0K-700.0Torr_149.9-1800.1_0.25_air_160_2.txt",
+  "srcdir": "cross_section_data/HG'-02.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Andersen et al. (2004)",
+  "molecule_alias": "HG'-02",
+  "experiment_alias": "EXPERIMENT"
+}

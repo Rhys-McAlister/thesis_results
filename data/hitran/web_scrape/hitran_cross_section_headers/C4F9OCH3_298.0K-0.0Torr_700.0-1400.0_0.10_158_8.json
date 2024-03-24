@@ -1,0 +1,16 @@
+{
+  "numin": 700.0043,
+  "numax": 1400.009,
+  "npnts": 23232,
+  "sigma_max": 3.3959999310038058e-18,
+  "temperature": 298.0,
+  "resolution": 0.1,
+  "resolution_units": "cm-1",
+  "srcfile": "C4F9OCH3_298.0K-0.0Torr_700.0-1400.0_0.10_158_8.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,3,3,4,4-Nonafluoro-4-methoxybutane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Bravo et al. (2010a)",
+  "molecule_alias": "HFE-449s1",
+  "experiment_alias": "EXPERIMENT"
+}

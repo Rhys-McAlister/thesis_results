@@ -1,0 +1,18 @@
+{
+  "numin": 700.0008,
+  "numax": 860.0036,
+  "npnts": 127441,
+  "sigma_max": 8.291180349837494e-18,
+  "temperature": 217.4,
+  "pressure": 7.523,
+  "resolution": 0.01,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CCl4_217.4K-7.5Torr_700.0-860.0_0.01_air_47_58.txt",
+  "srcdir": "cross_section_data/Carbon Tetrachloride.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Harrison et al. JQSRT (2016)",
+  "molecule_alias": "CFC-10",
+  "experiment_alias": "EXPERIMENT"
+}

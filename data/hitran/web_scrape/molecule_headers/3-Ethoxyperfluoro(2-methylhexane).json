@@ -1,0 +1,36 @@
+{
+  "short_alias": "HFE-7500",
+  "molid": "2062591",
+  "common_name": "3-Ethoxyperfluoro(2-methylhexane)",
+  "ordinary_formula": "C9H5F15O",
+  "stoichiometric_formula": "C9H5F15O",
+  "inchi": "InChI=1S/C9H5F15O/c1-2-25-6(15,3(10,7(16,17)18)8(19,20)21)4(11,12)5(13,14)9(22,23)24/h2H2,1H3",
+  "inchikey": "HHBBIOLEJRWIGU-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-7500",
+      "type": "acronym"
+    },
+    {
+      "alias": "297730-93-9",
+      "type": "cas"
+    },
+    {
+      "alias": "3-Ethoxyperfluoro(2-methylhexane)",
+      "type": "name"
+    },
+    {
+      "alias": "2062591",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C9H5F15O/c1-2-25-6(15,3(10,7(16,17)18)8(19,20)21)4(11,12)5(13,14)9(22,23)24/h2H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "HHBBIOLEJRWIGU-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

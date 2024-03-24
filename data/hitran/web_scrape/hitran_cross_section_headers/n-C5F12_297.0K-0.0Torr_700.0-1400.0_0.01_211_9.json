@@ -1,0 +1,16 @@
+{
+  "numin": 700.0103,
+  "numax": 1400.009,
+  "npnts": 58078,
+  "sigma_max": 6.3599998240181175e-18,
+  "temperature": 297.0,
+  "resolution": 0.01,
+  "resolution_units": "cm-1",
+  "srcfile": "n-C5F12_297.0K-0.0Torr_700.0-1400.0_0.01_211_9.txt",
+  "srcdir": "cross_section_data/Perfluoropentane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Bravo et al. (2010b)",
+  "molecule_alias": "PFC-41-12",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 799.9998,
+  "numax": 1270.003,
+  "npnts": 374352,
+  "sigma_max": 3.351200159900179e-17,
+  "temperature": 216.1,
+  "pressure": 7.538,
+  "resolution": 0.01,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CCl2F2_216.1K-7.5Torr_800.0-1270.0_0.01_air_54_56.txt",
+  "srcdir": "cross_section_data/CFC-12.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Harrison AMT (2015)",
+  "molecule_alias": "CFC-12",
+  "experiment_alias": "EXPERIMENT"
+}

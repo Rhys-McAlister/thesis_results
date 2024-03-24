@@ -1,0 +1,56 @@
+{
+  "short_alias": "Carbon tetrachloride",
+  "molid": "5730",
+  "common_name": "Carbon Tetrachloride",
+  "ordinary_formula": "CCl4",
+  "stoichiometric_formula": "CCl4",
+  "inchi": "InChI=1S/CCl4/c2-1(3,4)5",
+  "inchikey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CCl4",
+      "type": "formula"
+    },
+    {
+      "alias": "56-23-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Perchloromethane",
+      "type": "name"
+    },
+    {
+      "alias": "tetrachloromethane",
+      "type": "name"
+    },
+    {
+      "alias": "Carbon tetrachloride",
+      "type": "name"
+    },
+    {
+      "alias": "5730",
+      "type": "csid"
+    },
+    {
+      "alias": "CFC-10",
+      "type": "acronym"
+    },
+    {
+      "alias": "CarbonTetrachloride",
+      "type": "name"
+    },
+    {
+      "alias": "Carbon Tetrachloride",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/CCl4/c2-1(3,4)5",
+      "type": "inchi"
+    },
+    {
+      "alias": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

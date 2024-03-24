@@ -1,0 +1,32 @@
+{
+  "short_alias": "Isopentyl acetate",
+  "molid": "29016",
+  "common_name": "Isopentyl acetate",
+  "ordinary_formula": "C7H14O2",
+  "stoichiometric_formula": "C7H14O2",
+  "inchi": "InChI=1S/C7H14O2/c1-6(2)4-5-9-7(3)8/h6H,4-5H2,1-3H3",
+  "inchikey": "MLFHJEHSLIIPHL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "123-92-2",
+      "type": "cas"
+    },
+    {
+      "alias": "Isopentyl acetate",
+      "type": "name"
+    },
+    {
+      "alias": "29016",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C7H14O2/c1-6(2)4-5-9-7(3)8/h6H,4-5H2,1-3H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "MLFHJEHSLIIPHL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

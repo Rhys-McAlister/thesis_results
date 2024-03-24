@@ -1,0 +1,18 @@
+{
+  "numin": 530.027419,
+  "numax": 6500.012516,
+  "npnts": 99064,
+  "sigma_max": 8.204770891701097e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C2H2Cl4_298.1K-760.0Torr_530.0-6500.0_0.11_N2_230_43.txt",
+  "srcdir": "cross_section_data/1,1,1,2-Tetrachloroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,1,1,2-Tetrachloroethane",
+  "experiment_alias": "EXPERIMENT"
+}

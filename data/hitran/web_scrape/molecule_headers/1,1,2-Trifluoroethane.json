@@ -1,0 +1,40 @@
+{
+  "short_alias": "HFC-143",
+  "molid": "9506",
+  "common_name": "1,1,2-Trifluoroethane",
+  "ordinary_formula": "CH2FCHF2",
+  "stoichiometric_formula": "C2H3F3",
+  "inchi": "InChI=1S/C2H3F3/c3-1-2(4)5/h2H,1H2",
+  "inchikey": "WGZYQOSEVSXDNI-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFC-143",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH2FCHF2",
+      "type": "formula"
+    },
+    {
+      "alias": "430-66-0",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,2-Trifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9506",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2H3F3/c3-1-2(4)5/h2H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "WGZYQOSEVSXDNI-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

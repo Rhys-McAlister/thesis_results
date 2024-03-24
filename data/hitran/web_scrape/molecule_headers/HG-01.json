@@ -1,0 +1,44 @@
+{
+  "short_alias": "HG-01",
+  "molid": "8035172",
+  "common_name": "HG-01",
+  "ordinary_formula": "CHF2OCF2CF2OCHF2",
+  "stoichiometric_formula": "C4H2F8O2",
+  "inchi": "InChI=1S/C4H2F8O2/c5-1(6)13-3(9,10)4(11,12)14-2(7)8/h1-2H",
+  "inchikey": "YLKPVUPQPLZCQV-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-338pcc13",
+      "type": "acronym"
+    },
+    {
+      "alias": "HG-01",
+      "type": "name"
+    },
+    {
+      "alias": "CHF2OCF2CF2OCHF2",
+      "type": "formula"
+    },
+    {
+      "alias": "188690-78-0",
+      "type": "cas"
+    },
+    {
+      "alias": "1,2-Bis(difluoromethoxy)-1,1,2,2-tetrafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "8035172",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C4H2F8O2/c5-1(6)13-3(9,10)4(11,12)14-2(7)8/h1-2H",
+      "type": "inchi"
+    },
+    {
+      "alias": "YLKPVUPQPLZCQV-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

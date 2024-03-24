@@ -1,0 +1,40 @@
+{
+  "short_alias": "PFC-51-14",
+  "molid": "9262",
+  "common_name": "Perfluorohexane",
+  "ordinary_formula": "n-C6F14",
+  "stoichiometric_formula": "C6F14",
+  "inchi": "InChI=1S/C6F14/c7-1(8,3(11,12)5(15,16)17)2(9,10)4(13,14)6(18,19)20",
+  "inchikey": "ZJIJAJXFLBMLCK-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "PFC-51-14",
+      "type": "acronym"
+    },
+    {
+      "alias": "n-C6F14",
+      "type": "formula"
+    },
+    {
+      "alias": "355-42-0",
+      "type": "cas"
+    },
+    {
+      "alias": "Perfluorohexane",
+      "type": "name"
+    },
+    {
+      "alias": "9262",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C6F14/c7-1(8,3(11,12)5(15,16)17)2(9,10)4(13,14)6(18,19)20",
+      "type": "inchi"
+    },
+    {
+      "alias": "ZJIJAJXFLBMLCK-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

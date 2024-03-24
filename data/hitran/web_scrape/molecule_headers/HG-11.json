@@ -1,0 +1,44 @@
+{
+  "short_alias": "HG-11",
+  "molid": "8123867",
+  "common_name": "HG-11",
+  "ordinary_formula": "CHF2OCF2OC2F4OCHF2",
+  "stoichiometric_formula": "C5H2F10O3",
+  "inchi": "InChI=1S/C5H2F10O3/c6-1(7)16-3(10,11)4(12,13)18-5(14,15)17-2(8)9/h1-2H",
+  "inchikey": "ICIZOWVAGSOWBZ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-43-10pccc124",
+      "type": "acronym"
+    },
+    {
+      "alias": "H-Galden 1040x",
+      "type": "acronym"
+    },
+    {
+      "alias": "HG-11",
+      "type": "name"
+    },
+    {
+      "alias": "CHF2OCF2OC2F4OCHF2",
+      "type": "formula"
+    },
+    {
+      "alias": "1-(Difluoromethoxy)-2-((difluoromethoxy)difluoromethoxy)-1,1,2,2-tetrafluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "8123867",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C5H2F10O3/c6-1(7)16-3(10,11)4(12,13)18-5(14,15)17-2(8)9/h1-2H",
+      "type": "inchi"
+    },
+    {
+      "alias": "ICIZOWVAGSOWBZ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

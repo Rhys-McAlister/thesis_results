@@ -1,0 +1,32 @@
+{
+  "short_alias": "Valeraldehyde",
+  "molid": "7772",
+  "common_name": "Valeraldehyde",
+  "ordinary_formula": "C5H10O",
+  "stoichiometric_formula": "C5H10O",
+  "inchi": "InChI=1S/C5H10O/c1-2-3-4-5-6/h5H,2-4H2,1H3",
+  "inchikey": "HGBOYTHUEUWSSQ-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "110-62-3",
+      "type": "cas"
+    },
+    {
+      "alias": "Valeraldehyde",
+      "type": "name"
+    },
+    {
+      "alias": "7772",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C5H10O/c1-2-3-4-5-6/h5H,2-4H2,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "HGBOYTHUEUWSSQ-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

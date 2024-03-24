@@ -1,0 +1,32 @@
+{
+  "short_alias": "Methyl salicylate",
+  "molid": "13848808",
+  "common_name": "Methyl salicylate",
+  "ordinary_formula": "C8H8O3",
+  "stoichiometric_formula": "C8H8O3",
+  "inchi": "InChI=1S/C8H8O3/c1-11-8(10)6-4-2-3-5-7(6)9/h2-5,9H,1H3",
+  "inchikey": "OSWPMRLSEDHDFF-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "119-36-8",
+      "type": "cas"
+    },
+    {
+      "alias": "Methyl salicylate",
+      "type": "name"
+    },
+    {
+      "alias": "13848808",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C8H8O3/c1-11-8(10)6-4-2-3-5-7(6)9/h2-5,9H,1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "OSWPMRLSEDHDFF-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

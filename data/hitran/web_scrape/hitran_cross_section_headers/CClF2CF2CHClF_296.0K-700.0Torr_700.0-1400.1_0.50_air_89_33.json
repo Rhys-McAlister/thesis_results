@@ -1,0 +1,18 @@
+{
+  "numin": 700.0334,
+  "numax": 1400.0668,
+  "npnts": 5809,
+  "sigma_max": 1.726999987199823e-18,
+  "temperature": 296.0,
+  "pressure": 700.0,
+  "resolution": 0.5,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CClF2CF2CHClF_296.0K-700.0Torr_700.0-1400.1_0.50_air_89_33.txt",
+  "srcdir": "cross_section_data/HCFC-225cb.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sihra et al. (2001)",
+  "molecule_alias": "HCFC-225cb",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,16 @@
+{
+  "numin": 449.8149,
+  "numax": 1999.8201,
+  "npnts": 3216,
+  "sigma_max": 6.534999808771061e-18,
+  "temperature": 298.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CF3CF2C(O)CF(CF3)2_298.0K-0.0Torr_449.8-1999.8_1.00_189_10.txt",
+  "srcdir": "cross_section_data/1,1,1,2,2,4,5,5,5-Nonafluoro-4-(trifluoromethyl)-3-pentanone.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "D'Anna et al. (2005)",
+  "molecule_alias": "CF3CF2C(O)CF(CF3)2",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,16 @@
+{
+  "numin": 560.01316,
+  "numax": 3000.0253,
+  "npnts": 80977,
+  "sigma_max": 8.524207e-18,
+  "temperature": 340.0,
+  "resolution": 0.1,
+  "resolution_units": "cm-1",
+  "srcfile": "E-C10F18_340.0K-0.0Torr_560.0-3000.0_0.10_64_113.txt",
+  "srcdir": "cross_section_data/Perfluorodecalin (trans).zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Le Bris et al. (2017)",
+  "molecule_alias": "Perfluorodecalin (trans)",
+  "experiment_alias": "EXPERIMENT"
+}

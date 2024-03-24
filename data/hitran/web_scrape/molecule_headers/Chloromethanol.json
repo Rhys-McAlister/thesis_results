@@ -1,0 +1,44 @@
+{
+  "short_alias": "Chloromethanol",
+  "molid": "9323393",
+  "common_name": "Chloromethanol",
+  "ordinary_formula": "CH2ClOH",
+  "stoichiometric_formula": "CH3ClO",
+  "inchi": "InChI=1S/CH3ClO/c2-1-3/h3H,1H2",
+  "inchikey": "BCUPGIHTCQJCSI-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CH2ClOH",
+      "type": "formula"
+    },
+    {
+      "alias": "Chloromethanol",
+      "type": "name"
+    },
+    {
+      "alias": "2-Chloraethanol",
+      "type": "name"
+    },
+    {
+      "alias": "Methanol, 1-chloro-",
+      "type": "name"
+    },
+    {
+      "alias": "9323393",
+      "type": "csid"
+    },
+    {
+      "alias": "62-51-1",
+      "type": "cas"
+    },
+    {
+      "alias": "InChI=1S/CH3ClO/c2-1-3/h3H,1H2",
+      "type": "inchi"
+    },
+    {
+      "alias": "BCUPGIHTCQJCSI-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

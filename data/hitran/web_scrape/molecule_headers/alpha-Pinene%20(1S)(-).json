@@ -1,0 +1,32 @@
+{
+  "short_alias": "alpha-Pinene (1S)(-)",
+  "molid": "389795",
+  "common_name": "alpha-Pinene (1S)(-)",
+  "ordinary_formula": "C10H16",
+  "stoichiometric_formula": "C10H16",
+  "inchi": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h4,8-9H,5-6H2,1-3H3/t8-,9-/m0/s1",
+  "inchikey": "GRWFGVWFFZKLTI-IUCAKERBSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "7785-26-4",
+      "type": "cas"
+    },
+    {
+      "alias": "alpha-Pinene (1S)(-)",
+      "type": "name"
+    },
+    {
+      "alias": "389795",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h4,8-9H,5-6H2,1-3H3/t8-,9-/m0/s1",
+      "type": "inchi"
+    },
+    {
+      "alias": "GRWFGVWFFZKLTI-IUCAKERBSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

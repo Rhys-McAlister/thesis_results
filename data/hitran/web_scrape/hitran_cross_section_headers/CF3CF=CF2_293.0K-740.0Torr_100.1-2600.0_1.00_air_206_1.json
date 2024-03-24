@@ -1,0 +1,18 @@
+{
+  "numin": 100.0519,
+  "numax": 2600.0229,
+  "npnts": 20740,
+  "sigma_max": 2.7000000306391845e-18,
+  "temperature": 293.0,
+  "pressure": 740.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF3CF=CF2_293.0K-740.0Torr_100.1-2600.0_1.00_air_206_1.txt",
+  "srcdir": "cross_section_data/Perfluoropropene.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Acerboni et al. (2001)",
+  "molecule_alias": "PFC-1216",
+  "experiment_alias": "EXPERIMENT"
+}

@@ -1,0 +1,18 @@
+{
+  "numin": 549.976269,
+  "numax": 6500.028027,
+  "npnts": 98733,
+  "sigma_max": 1.5237689485259038e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C3H6O_323.1K-760.0Torr_550.0-6500.0_0.11_N2_677_62.txt",
+  "srcdir": "cross_section_data/Methyl vinyl ether.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "Methyl vinyl ether",
+  "experiment_alias": "EXPERIMENT"
+}

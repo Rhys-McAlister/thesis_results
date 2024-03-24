@@ -1,0 +1,18 @@
+{
+  "numin": 1099.9,
+  "numax": 1499.9,
+  "npnts": 26550,
+  "sigma_max": 6.8970001010135615e-18,
+  "temperature": 297.0,
+  "pressure": 37.5,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF3CH3_297.0K-37.5Torr_1099.9-1499.9_0.03_air_103_70.txt",
+  "srcdir": "cross_section_data/HFC-143a.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [628]",
+  "molecule_alias": "HFC-143a",
+  "experiment_alias": "EXPERIMENT"
+}

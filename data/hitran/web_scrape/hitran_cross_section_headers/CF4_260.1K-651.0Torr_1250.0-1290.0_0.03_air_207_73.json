@@ -1,0 +1,18 @@
+{
+  "numin": 1250.0049,
+  "numax": 1289.9997,
+  "npnts": 3817,
+  "sigma_max": 8.690000188224016e-17,
+  "temperature": 260.1,
+  "pressure": 651.0,
+  "resolution": 0.03,
+  "resolution_units": "cm-1",
+  "broadener": "air",
+  "srcfile": "CF4_260.1K-651.0Torr_1250.0-1290.0_0.03_air_207_73.txt",
+  "srcdir": "cross_section_data/Carbon Tetrafluoride.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [631]",
+  "molecule_alias": "CarbonTetrafluoride",
+  "experiment_alias": "EXPERIMENT"
+}

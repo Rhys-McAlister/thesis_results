@@ -1,0 +1,18 @@
+{
+  "numin": 519.966126,
+  "numax": 6500.051589,
+  "npnts": 99231,
+  "sigma_max": 3.303586278993616e-18,
+  "temperature": 323.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C5H11NO_323.1K-760.0Torr_520.0-6500.1_0.11_N2_548_62.txt",
+  "srcdir": "cross_section_data/N,N-diethyl formamide.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Johnson et al. (2010)",
+  "molecule_alias": "N,N-Diethyl formamide",
+  "experiment_alias": "EXPERIMENT"
+}

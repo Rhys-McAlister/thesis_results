@@ -1,0 +1,17 @@
+{
+  "numin": 36990.0,
+  "numax": 41785.0,
+  "npnts": 23976,
+  "sigma_max": 8.301999872249687e-18,
+  "temperature": 283.0,
+  "pressure": 0.0,
+  "resolution": 1.0,
+  "resolution_units": "cm-1",
+  "srcfile": "C6H6_283.0K-0.0Torr_36990.0-41785.0_1.00_358_88.txt",
+  "srcdir": "cross_section_data/Benzene.zip",
+  "srcformat": "xsc",
+  "__class__": "CrossSection",
+  "source_alias": "Ref. [652]",
+  "molecule_alias": "Benzene",
+  "experiment_alias": "EXPERIMENT"
+}

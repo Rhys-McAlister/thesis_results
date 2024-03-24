@@ -1,0 +1,32 @@
+{
+  "short_alias": "Acrylic acid",
+  "molid": "6333",
+  "common_name": "Acrylic acid",
+  "ordinary_formula": "C3H4O2",
+  "stoichiometric_formula": "C3H4O2",
+  "inchi": "InChI=1S/C3H4O2/c1-2-3(4)5/h2H,1H2,(H,4,5)",
+  "inchikey": "NIXOWILDQLNWCW-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "79-10-7",
+      "type": "cas"
+    },
+    {
+      "alias": "Acrylic acid",
+      "type": "name"
+    },
+    {
+      "alias": "6333",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H4O2/c1-2-3(4)5/h2H,1H2,(H,4,5)",
+      "type": "inchi"
+    },
+    {
+      "alias": "NIXOWILDQLNWCW-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "short_alias": "HCFO-1233zd",
+  "molid": "4647642",
+  "common_name": "(E)-1-Chloro-3,3,3-trifluoroprop-1-ene",
+  "ordinary_formula": "trans-CF3CH=CHCl",
+  "stoichiometric_formula": "C3H2ClF3",
+  "inchi": "InChI=1S/C3H2ClF3/c4-2-1-3(5,6)7/h1-2H/b2-1+",
+  "inchikey": "LDTMPQQAWUMPKS-OWOJBTEDSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "trans-CF3CH=CHCl",
+      "type": "formula"
+    },
+    {
+      "alias": "102687-65-0",
+      "type": "cas"
+    },
+    {
+      "alias": "(E)-1-Chloro-3,3,3-trifluoroprop-1-ene",
+      "type": "name"
+    },
+    {
+      "alias": "4647642",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C3H2ClF3/c4-2-1-3(5,6)7/h1-2H/b2-1+",
+      "type": "inchi"
+    },
+    {
+      "alias": "LDTMPQQAWUMPKS-OWOJBTEDSA-N",
+      "type": "inchikey"
+    },
+    {
+      "alias": "HCFO-1233zd",
+      "type": "name"
+    }
+  ]
+}

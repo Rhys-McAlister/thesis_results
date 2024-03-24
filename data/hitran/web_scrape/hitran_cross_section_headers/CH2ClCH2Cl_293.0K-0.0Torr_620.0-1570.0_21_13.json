@@ -1,0 +1,15 @@
+{
+  "numin": 620.002,
+  "numax": 1570.0,
+  "npnts": 94584,
+  "sigma_max": 6.228999850793554e-19,
+  "temperature": 293.0,
+  "resolution_units": "cm-1",
+  "srcfile": "CH2ClCH2Cl_293.0K-0.0Torr_620.0-1570.0_21_13.txt",
+  "srcdir": "cross_section_data/1,2-Dichloroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Highwood and Shine (2000)",
+  "molecule_alias": "CH2ClCH2Cl",
+  "experiment_alias": "EXPERIMENT"
+}

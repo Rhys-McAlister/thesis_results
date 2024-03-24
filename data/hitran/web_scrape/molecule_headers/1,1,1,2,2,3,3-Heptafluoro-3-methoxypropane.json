@@ -1,0 +1,48 @@
+{
+  "short_alias": "HFE-347mcc3",
+  "molid": "2055318",
+  "common_name": "1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane",
+  "ordinary_formula": "CH3OCF2CF2CF3",
+  "stoichiometric_formula": "C4H3F7O",
+  "inchi": "InChI=1S/C4H3F7O/c1-12-4(10,11)2(5,6)3(7,8)9/h1H3",
+  "inchikey": "NOPJRYAFUXTDLX-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "HFE-347mcc3",
+      "type": "acronym"
+    },
+    {
+      "alias": "HFE-7000",
+      "type": "acronym"
+    },
+    {
+      "alias": "CH3OCF2CF2CF3",
+      "type": "formula"
+    },
+    {
+      "alias": "375-03-1",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1,2,2,3,3-Heptafluoro-3-methoxypropane",
+      "type": "name"
+    },
+    {
+      "alias": "2055318",
+      "type": "csid"
+    },
+    {
+      "alias": "n-C3F7OCH3",
+      "type": "formula"
+    },
+    {
+      "alias": "InChI=1S/C4H3F7O/c1-12-4(10,11)2(5,6)3(7,8)9/h1H3",
+      "type": "inchi"
+    },
+    {
+      "alias": "NOPJRYAFUXTDLX-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

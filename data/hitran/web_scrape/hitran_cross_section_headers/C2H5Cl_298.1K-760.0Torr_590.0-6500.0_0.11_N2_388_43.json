@@ -1,0 +1,18 @@
+{
+  "numin": 589.990626,
+  "numax": 6500.012516,
+  "npnts": 98069,
+  "sigma_max": 3.0112471054348453e-19,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C2H5Cl_298.1K-760.0Torr_590.0-6500.0_0.11_N2_388_43.txt",
+  "srcdir": "cross_section_data/Chloroethane.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "Chloroethane",
+  "experiment_alias": "EXPERIMENT"
+}

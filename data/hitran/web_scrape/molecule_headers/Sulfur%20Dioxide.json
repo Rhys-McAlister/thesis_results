@@ -1,0 +1,40 @@
+{
+  "short_alias": "Sulfur dioxide",
+  "molid": "1087",
+  "common_name": "Sulfur Dioxide",
+  "ordinary_formula": "SO2",
+  "stoichiometric_formula": "O2S",
+  "inchi": "InChI=1S/O2S/c1-3-2",
+  "inchikey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "7446-09-5",
+      "type": "cas"
+    },
+    {
+      "alias": "Sulfur dioxide",
+      "type": "name"
+    },
+    {
+      "alias": "1087",
+      "type": "csid"
+    },
+    {
+      "alias": "SulfurDioxide",
+      "type": "name"
+    },
+    {
+      "alias": "Sulfur Dioxide",
+      "type": "name"
+    },
+    {
+      "alias": "InChI=1S/O2S/c1-3-2",
+      "type": "inchi"
+    },
+    {
+      "alias": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

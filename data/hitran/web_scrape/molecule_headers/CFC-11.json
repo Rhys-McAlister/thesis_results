@@ -1,0 +1,44 @@
+{
+  "short_alias": "CFC-11",
+  "molid": "6149",
+  "common_name": "CFC-11",
+  "ordinary_formula": "CCl3F",
+  "stoichiometric_formula": "CCl3F",
+  "inchi": "InChI=1S/CCl3F/c2-1(3,4)5",
+  "inchikey": "CYRMSUTZVYGINF-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CFC-11",
+      "type": "name"
+    },
+    {
+      "alias": "CCl3F",
+      "type": "formula"
+    },
+    {
+      "alias": "75-69-4",
+      "type": "cas"
+    },
+    {
+      "alias": "Trichlorofluoromethane",
+      "type": "name"
+    },
+    {
+      "alias": "6149",
+      "type": "csid"
+    },
+    {
+      "alias": "Freon-11",
+      "type": "acronym"
+    },
+    {
+      "alias": "InChI=1S/CCl3F/c2-1(3,4)5",
+      "type": "inchi"
+    },
+    {
+      "alias": "CYRMSUTZVYGINF-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

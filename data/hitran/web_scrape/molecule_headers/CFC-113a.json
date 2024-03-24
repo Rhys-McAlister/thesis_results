@@ -1,0 +1,36 @@
+{
+  "short_alias": "CFC-113a",
+  "molid": "9258",
+  "common_name": "CFC-113a",
+  "ordinary_formula": "C2Cl3F3",
+  "stoichiometric_formula": "C2Cl3F3",
+  "inchi": "InChI=1S/C2Cl3F3/c3-1(4,5)2(6,7)8",
+  "inchikey": "BOSAWIQFTJIYIS-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CFC-113a",
+      "type": "name"
+    },
+    {
+      "alias": "354-58-5",
+      "type": "cas"
+    },
+    {
+      "alias": "1,1,1-Trichlorotrifluoroethane",
+      "type": "name"
+    },
+    {
+      "alias": "9258",
+      "type": "csid"
+    },
+    {
+      "alias": "InChI=1S/C2Cl3F3/c3-1(4,5)2(6,7)8",
+      "type": "inchi"
+    },
+    {
+      "alias": "BOSAWIQFTJIYIS-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

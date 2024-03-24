@@ -1,0 +1,40 @@
+{
+  "short_alias": "Trichloromethanol",
+  "molid": "4954447",
+  "common_name": "Trichloromethanol",
+  "ordinary_formula": "CCl3OH",
+  "stoichiometric_formula": "CHCl3O",
+  "inchi": "InChI=1S/CHCl3O/c2-1(3,4)5/h5H",
+  "inchikey": "GYLIOGDFGLKMOL-UHFFFAOYSA-N",
+  "__class__": "Molecule",
+  "aliases": [
+    {
+      "alias": "CCl3OH",
+      "type": "formula"
+    },
+    {
+      "alias": "Trichloromethanol",
+      "type": "name"
+    },
+    {
+      "alias": "Methanol, 1,1,1-trichloro-",
+      "type": "name"
+    },
+    {
+      "alias": "4954447",
+      "type": "csid"
+    },
+    {
+      "alias": "35911-92-3",
+      "type": "cas"
+    },
+    {
+      "alias": "InChI=1S/CHCl3O/c2-1(3,4)5/h5H",
+      "type": "inchi"
+    },
+    {
+      "alias": "GYLIOGDFGLKMOL-UHFFFAOYSA-N",
+      "type": "inchikey"
+    }
+  ]
+}

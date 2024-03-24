@@ -1,0 +1,18 @@
+{
+  "numin": 619.942215,
+  "numax": 5000.035548,
+  "npnts": 72682,
+  "sigma_max": 1.6345031001404948e-18,
+  "temperature": 298.15,
+  "pressure": 760.0,
+  "resolution": 0.112,
+  "resolution_units": "cm-1",
+  "broadener": "N2",
+  "srcfile": "C2Cl3F3_298.1K-760.0Torr_619.9-5000.0_0.11_N2_51_43.txt",
+  "srcdir": "cross_section_data/CFC-113.zip",
+  "srcformat": "2col",
+  "__class__": "CrossSection",
+  "source_alias": "Sharpe et al. (2004)",
+  "molecule_alias": "1,1,2-Trichlorortrifluoroethane",
+  "experiment_alias": "EXPERIMENT"
+}
